@@ -1,10 +1,10 @@
 [![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
 
-# GraphQL Landscape
+# Presto Landscape
 
-![GraphQL Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
+![Pressto Landscape Logo](https://landscape.prestodb.io/images/left-logo.svg)
 
-- [GraphQL Landscape](#cloud-native-landscape)
+- [Presto Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,15 +20,15 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore the GraphQL Ecosystem, and also shows the member companies of the GraphQL Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
+This landscape is intended as a map to explore the Presto Ecosystem, and also shows the member companies of the Presto Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code.
 
 ## Current Version
 
-[![GraphQL Landscape](https://landscape.graphql.org/images/landscape.png)](https://landscape.graphql.org/images/landscape.png)
+[![Presto Landscape](https://landscape.prestodb.io/images/landscape.png)](https://landscape.prestodb.io/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.graphql.io](https://landscape.graphql.org).
+Please see [landscape.prestodb.io](https://landscape.prestodb.io).
 
 ## New Entries
 
@@ -88,13 +88,13 @@ The update server enhances the source data with the fetched data and saves the r
 As explained at https://bestpractices.coreinfrastructure.org/:
 >The Linux Foundation (LF) Core Infrastructure Initiative (CII) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The CII Best Practices Badge is inspired by the many badges available to projects on GitHub. Consumers of the badge can quickly assess which FLOSS projects are following best practices and as a result are more likely to produce higher-quality secure software.
 
-The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.graphql.org/bestpractices=yes) and [without](https://landscape.graphql.org/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
+The interactive landscape displays the status (or non-existence) of a badge for each open-source project. There's also a feature not available through the filter bar to see all items [with](https://landscape.prestodb.io/bestpractices=yes) and [without](https://landscape.prestodb.io/bestpractices=no) badges. Note that a passing badge is a requirement for projects to [graduate](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) in the CNCF.
 
 ## Non-Updated Items
 
-We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.graphql.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
+We generally remove open source projects that have not had a commit in over 3 months. Note that for projects not hosted on GitHub, we need them to mirror to GitHub to fetch updates, and we try to work with projects when their mirrors are broken. Here is view of projects sorted by last update: https://landscape.prestodb.io/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 
-We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.graphql.org/format=card-mode&grouping=no&license=not-open-source&sort=latest-tweet
+We generally remove closed source products when they have not tweeted in over 3 months. This doesn't apply to Chinese companies without Twitter accounts, since Twitter is blocked there. Here is a view of products sorted by last tweet: https://landscape.prestodb.io/format=card-mode&grouping=no&license=not-open-source&sort=latest-tweet
 
 Items that have been removed can apply to be re-added using the regular New Entries criteria above.
 
@@ -108,8 +108,8 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 The GraphQL Landscape is available in these formats:
 
-* [PNG](https://landscape.graphql.org/images/landscape.png)
-* [PDF](https://landscape.graphql.org/images/landscape.pdf)
+* [PNG](https://landscape.prestodb.io/images/landscape.png)
+* [PDF](https://landscape.prestodb.io/images/landscape.pdf)
 
 ## Installation
 
