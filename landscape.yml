@@ -128,6 +128,7 @@ landscape:
             homepage_url: 'https://www.alibaba.com'
             logo: alibaba.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            stock_ticker: BABA
           - item:
             name: Alluxio (member)
             homepage_url: 'https://aws.amazon.com/'
