@@ -31,6 +31,7 @@ landscape:
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
           - item:
             name: Cassandra Connector
             homepage_url: 'https://prestodb.io'
@@ -60,6 +61,7 @@ landscape:
             repo_url: 'https://github.com/prestodb/presto'
             logo: kafka.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
           - item:
             name: Localfile Connector
             homepage_url: 'https://prestodb.io'
