@@ -12,6 +12,7 @@ landscape:
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
       - subcategory:
         name: Connectors
         items:
@@ -22,78 +23,13 @@ landscape:
             logo: apollo-angular.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
           - item:
-            name: Apollo CLI
-            homepage_url: 'https://www.apollographql.com/'
-            repo_url: 'https://github.com/apollographql/apollo-tooling'
-            logo: apollo-cli.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
-          - item:
-            name: GraphiQL
-            homepage_url: 'https://github.com/graphql/graphiql'
+            name: Cassandra Connector
+            homepage_url: 'https://prestodb.io'
             project: foundationproject
-            repo_url: 'https://github.com/graphql/graphiql'
-            logo: graphiql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
-          - item:
-            name: GraphQL CLI
-            homepage_url: 'https://github.com/urigo/graphql-cli'
-            repo_url: 'https://github.com/urigo/graphql-cli'
-            logo: graphql-cli.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Code Generator
-            homepage_url: 'http://graphql-code-generator.com'
-            repo_url: 'https://github.com/dotansimha/graphql-code-generator'
-            logo: graphql-code-generator.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Config
-            homepage_url: 'https://graphql-config.com'
-            repo_url: 'https://github.com/kamilkisiela/graphql-config'
-            logo: graphql-config.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Inspector
-            homepage_url: 'https://graphql-inspector.com'
-            repo_url: 'https://github.com/kamilkisiela/graphql-inspector'
-            logo: graphql-Inspector.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Mesh
-            homepage_url: 'https://graphql-mesh.com'
-            repo_url: 'https://github.com/Urigo/graphql-mesh'
-            logo: graphql-mesh.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Modules
-            homepage_url: 'https://graphql-modules.com'
-            repo_url: 'https://github.com/Urigo/graphql-modules'
-            logo: graphql-modules.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Scalars
-            homepage_url: 'https://github.com/Urigo/graphql-scalars'
-            repo_url: 'https://github.com/Urigo/graphql-scalars'
-            logo: graphql-scalars.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: GraphQL Tools
-            homepage_url: 'https://www.graphql-tools.com'
-            repo_url: 'https://github.com/ardatan/graphql-tools'
-            logo: graphql-tools.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: merge-graphql-schemas
-            homepage_url: 'https://github.com/urigo/merge-graphql-schemas'
-            repo_url: 'https://github.com/urigo/merge-graphql-schemas'
-            logo: merge-graphql-schemas.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
-            name: SOFA
-            homepage_url: 'http://sofa-api.com'
-            repo_url: 'https://github.com/Urigo/sofa'
-            logo: sofa.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: cassandra.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
           - item:
             name: Tartiflette
             homepage_url: 'https://tartiflette.io'
@@ -188,112 +124,31 @@ landscape:
         name: General
         items:
           - item:
-            name: 8base (member)
-            homepage_url: 'https://8base.com'
-            logo: 8base.svg
-            twitter: 'https://twitter.com/8base'
-            crunchbase: 'https://www.crunchbase.com/organization/8base-2'
+            name: Alibaba (member)
+            homepage_url: 'https://www.alibaba.com'
+            logo: alibaba.svg
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            stock_ticker: BABA
           - item:
-            name: Airbnb (member)
-            homepage_url: 'https://www.airbnb.com'
-            logo: airbnb.svg
-            crunchbase: 'https://www.crunchbase.com/organization/airbnb'
-          - item:
-            name: Amazon Web Services (member)
+            name: Alluxio (member)
             homepage_url: 'https://aws.amazon.com/'
-            logo: amazon-web-services.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
-          - item:
-            name: Apollo GraphQL (member)
-            homepage_url: 'https://www.apollographql.com/'
-            logo: apollo-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/meteor'
-          - item:
-            name: Dgraph Labs (member)
-            homepage_url: 'https://dgraph.io/'
-            logo: dgraph-labs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dgraph'
-          - item:
-            name: Elementl (member)
-            homepage_url: 'https://www.elementl.com/'
-            logo: elementl.svg
-            crunchbase: 'https://www.crunchbase.com/organization/elementl'
-          - item:
-            name: Expedia Group (member)
-            homepage_url: 'https://expediagroup.com'
-            stock_ticker: IAC
-            logo: expedia-group.svg
-            crunchbase: 'https://www.crunchbase.com/organization/expedia'
+            logo: alluxio.svg
+            crunchbase: 'https://www.crunchbase.com/organization/alluxio'
           - item:
             name: Facebook (member)
             homepage_url: 'https://www.facebook.com/'
             logo: facebook.svg
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
-            name: Fauna (member)
-            homepage_url: 'https://fauna.com/'
-            logo: fauna.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fauna'
-          - item:
-            name: Gatsby (member)
-            homepage_url: 'https://www.gatsbyjs.org/'
-            logo: gatsby.svg
-            crunchbase: 'https://www.crunchbase.com/organization/gatsby-e828'
-          - item:
-            name: Hasura (member)
-            homepage_url: 'https://hasura.io'
-            logo: hasura.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hasura'
-          - item:
-            name: IBM (member)
-            homepage_url: 'https://www.ibm.com/'
-            logo: ibm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
-            name: Intuit (member)
-            homepage_url: 'https://www.intuit.com/'
-            logo: intuit.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intuit'
-          - item:
-            name: Neo4j (member)
-            homepage_url: 'https://neo4j.com/'
-            logo: neo4j.svg
-            crunchbase: 'https://www.crunchbase.com/organization/neo-technology'
-          - item:
-            name: Novvum (member)
-            homepage_url: 'https://novvum.io/'
-            logo: novvum.svg
-            crunchbase: 'https://www.crunchbase.com/organization/novvum'
-          - item:
-            name: PayPal (member)
-            homepage_url: 'https://paypal.com/'
-            logo: paypal.svg
-            crunchbase: 'https://www.crunchbase.com/organization/paypal'
-          - item:
-            name: Prisma (member)
-            homepage_url: 'https://prisma.io/'
-            logo: prisma.svg
-            crunchbase: 'https://www.crunchbase.com/organization/prisma-io'
-          - item:
-            name: Salsify (member)
-            homepage_url: 'https://www.salsify.com'
-            logo: salsify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/salsify'
-          - item:
-            name: Shopify (member)
-            homepage_url: 'https://www.shopify.com'
-            logo: shopify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
-          - item:
-            name: The Guild (member)
-            homepage_url: 'https://the-guild.dev/'
-            logo: the_guild.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
-          - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
             logo: twitter.svg
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
+          - item:
+            name: Uber (member)
+            homepage_url: 'https://uber.com/'
+            logo: uber.svg
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
   - category:
     name: Presto Adopter
     subcategories:
@@ -301,62 +156,10 @@ landscape:
         name: Presto Adopter
         items:
           - item:
-            name: 1stdibs (adopter)
-            homepage_url: 'https://www.1stdibs.com'
-            logo: 1stdibs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/1stdibs'
-          - item:
-            name: 99designs (adopter)
-            homepage_url: 'https://www.99designs.com'
-            logo: 99designs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/99designs'
-          - item:
-            name: Adayroi (adopter)
-            homepage_url: 'https://www.adayroi.com'
-            logo: 'https://aad.asia/wp-content/uploads/2018/05/logos-06.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/a-day-roi'
-          - item:
             name: Airbnb (adopter)
             homepage_url: 'https://www.airbnb.com'
             logo: airbnb.svg
             crunchbase: 'https://www.crunchbase.com/organization/airbnb'
-          - item:
-            name: Alembic (adopter)
-            homepage_url: 'https://alembic.com.au'
-            logo: alembic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alembic-c6a7'
-          - item:
-            name: Allocine (adopter)
-            homepage_url: 'http://www.allocine.fr/'
-            logo: 'https://www.talentwebacademy.com/twa/images/allocine--logo.svg'
-            twitter: 'https://twitter.com/allocine'
-            crunchbase: 'https://www.crunchbase.com/organization/allocine'
-          - item:
-            name: AlphaSights (adopter)
-            homepage_url: 'https://www.alphasights.com/'
-            logo: alphasights.svg
-            twitter: 'https://twitter.com/alphasights'
-            crunchbase: 'https://www.crunchbase.com/organization/alphasights'
-          - item:
-            name: Amplitude (adopter)
-            homepage_url: 'https://amplitude.com'
-            logo: 'https://d3hotuclm6if1r.cloudfront.net/logos/amplitude-default.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/amplitude'
-          - item:
-            name: Ants (adopter)
-            homepage_url: 'https://ants.vn/'
-            logo: ants.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ants-2'
-          - item:
-            name: Appier (adopter)
-            homepage_url: 'https://www.appier.com/'
-            logo: appier.svg
-            crunchbase: 'https://www.crunchbase.com/organization/appier'
-          - item:
-            name: Arangodb (adopter)
-            homepage_url: 'https://www.arangodb.com/'
-            logo: 'https://landscape.cncf.io/logos/arango-db.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/arangodb'
           - item:
             name: Artsy (adopter)
             homepage_url: 'https://artsy.github.io/'
