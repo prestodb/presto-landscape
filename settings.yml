@@ -1,57 +1,57 @@
 global:
-  name: GraphQL Landscape
-  short_name: GraphQL
-  repo: graphql/graphql-landscape
-  website: 'https://landscape.graphql.org'
-  short_domain: l.graphql.org
-  company_url: 'https://graphql.org'
+  name: Presto Landscape
+  short_name: Presto
+  repo: prestodb/presto-landscape
+  website: 'https://landscape.prestodb.io'
+  short_domain: l.prestodb.io
+  company_url: 'https://prestodb.io'
   email: info@graphql.foundation
-  self: 'https://www.crunchbase.com/organization/graphql-foundation'
+  self: 'https://www.crunchbase.com/organization/presto-foundation'
   slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
   meta:
-    title: GraphQL Landscape
+    title: Presto Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
-    twitter: '@graphql'
+    twitter: '@prestodb'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: GraphQL Foundation Member
+  membership: Presto Foundation Member
   flags:
     hide_license_for_categories:
-      - GraphQL Adopter
-      - GraphQL Foundation Member
+      - Presto Adopter
+      - Presto Foundation Member
 twitter:
-  search: landscape.graphql.org
-  url: 'https://landscape.graphql.org'
-  text: GraphQL Landscape
+  search: landscape.prestodb.io
+  url: 'https://landscape.prestodb.io'
+  text: Presto Landscape
 relation:
-  label: GraphQL Relation
-  url: graphql
+  label: Presto Relation
+  url: presto
   values:
     - id: hosted
-      label: GraphQL Foundation Projects
+      label: Presto Foundation Projects
       children:
         - id: foundationproject
-          label: GraphQL Foundation Projects
-          prefix: GraphQL
+          label: Presto Foundation Projects
+          prefix: Presto
           tag: Foundation Project
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: GraphQL Foundation Project
+          big_picture_label: Presto Foundation Project
           big_picture_color: 'rgb(24,54,114)'
     - id: company
-      label: GraphQL Foundation Member
+      label: Presto Foundation Member
       tag: Company
       big_picture_order: 3
     - id: member
-      label: GraphQL Foundation Member Products/Projects
-      tag: GraphQL Foundation Member
+      label: Presto Foundation Member Products/Projects
+      tag: Presto Foundation Member
     - id: false
-      label: Non-GraphQL Foundation Member Products/Projects
+      label: Non-Presto Foundation Member Products/Projects
       url: 'no'
 membership:
   General:
-    name: GraphQL
+    name: Presto
     label: Member
     funding: General
   linux_foundation:
@@ -63,7 +63,7 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>GraphQL Landscape</h1> The GraphQL Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>Presto Landscape</h1> The Presto Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   footer: |
@@ -90,8 +90,8 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: GraphQL Landscape
-    fullscreen_header: See the interactive landscape at l.graphql.org
+    title: Presto Landscape
+    fullscreen_header: See the interactive landscape at l.prestodb.io
     fullscreen_size:
       width: 1020
       height: 840
@@ -124,7 +124,7 @@ big_picture:
         color: 'rgb(79,121,13)'
         fit_width: true
       - type: HorizontalCategory
-        category: GraphQL Adopter
+        category: Presto Adopter
         rows: 6
         width: 970
         height: 320
@@ -133,7 +133,7 @@ big_picture:
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
-        category: GraphQL Foundation Member
+        category: Presto Foundation Member
         rows: 4
         width: 650
         height: 200
@@ -149,7 +149,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the GraphQL community, and also shows the member organizations of the GraphQL Foundation.
+              This landscape is intended as a map to explore the Presto community, and also shows the member organizations of the Presto Foundation.
             top: 55
             left: 140
             right: 10
@@ -162,7 +162,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.graphql.org
+            title: l.prestodb.io
             top: 140
             left: 5
             font_size: 21
@@ -177,8 +177,8 @@ big_picture:
             width: 109
             right: 10
             top: 10
-            title: GraphQL Foundation Logo
+            title: Presto Foundation Logo
 test:
-  header: GraphQL Landscape
-  section: GraphQL Foundation Member
+  header: Presto Landscape
+  section: Presto Foundation Member
   logo: twitter.svg

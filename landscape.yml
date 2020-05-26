@@ -6,7 +6,7 @@ landscape:
         name: Spec
         items:
           - item:
-            name: GraphQL Spec
+            name: Presto Spec
             homepage_url: 'https://graphql.org'
             project: foundationproject
             repo_url: 'https://github.com/graphql/graphql-spec'
@@ -182,7 +182,7 @@ landscape:
             logo: graphql-Inspector.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
   - category:
-    name: GraphQL Foundation Member
+    name: Presto Foundation Member
     subcategories:
       - subcategory:
         name: General
@@ -295,10 +295,10 @@ landscape:
             logo: twitter.svg
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
   - category:
-    name: GraphQL Adopter
+    name: Presto Adopter
     subcategories:
       - subcategory:
-        name: GraphQL Adopter
+        name: Presto Adopter
         items:
           - item:
             name: 1stdibs (adopter)
