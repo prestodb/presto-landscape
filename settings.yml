@@ -99,7 +99,7 @@ big_picture:
       - type: HorizontalCategory
         category: Projects
         rows: 4
-        width: 325
+        width: 605
         height: 160
         top: 0
         left: 0
@@ -107,15 +107,6 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Services
-        rows: 3
-        width: 280
-        height: 160
-        top: 0
-        left: 345
-        color: 'rgb(7,136,62)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Databases
         rows: 3
         width: 325
         height: 160
