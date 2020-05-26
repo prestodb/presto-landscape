@@ -21,7 +21,7 @@ landscape:
             homepage_url: 'https://prestodb.io'
             project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
-            logo: accumulo.svg
+            logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
             allow_duplicate_repo: true
           - item:
@@ -48,6 +48,12 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
             allow_duplicate_repo: true
           - item:
+            name: IBM DB2 Connector
+            homepage_url: 'https://github.com/IBM/presto-db2'
+            repo_url: 'https://github.com/IBM/presto-db2'
+            logo: ibm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
             name: Kafka Connector
             homepage_url: 'https://prestodb.io'
             project: foundationproject
@@ -70,12 +76,6 @@ landscape:
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
             allow_duplicate_repo: true
-          - item:
-            name: TypeGraphQL
-            homepage_url: 'https://typegraphql.ml'
-            repo_url: 'https://github.com/MichalLytek/type-graphql'
-            logo: type-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
   - category:
     name: Databases
     subcategories:
