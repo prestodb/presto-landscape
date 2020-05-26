@@ -3,17 +3,17 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Spec
+        name: Core
         items:
           - item:
-            name: Presto Spec
-            homepage_url: 'https://graphql.org'
+            name: Presto
+            homepage_url: 'https://prestodb.io'
             project: foundationproject
-            repo_url: 'https://github.com/graphql/graphql-spec'
-            logo: graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/graphql-foundation'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
       - subcategory:
-        name: Tools
+        name: Connectors
         items:
           - item:
             name: Apollo Angular

@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c026b631-7c24-4e90-962b-b77fb832bae8/deploy-status)](https://app.netlify.com/sites/presto-landscape/deploys)
 
 # Presto Landscape
 
