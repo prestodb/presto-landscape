@@ -17,31 +17,60 @@ landscape:
         name: Connectors
         items:
           - item:
-            name: Apollo Angular
-            homepage_url: 'https://www.apollographql.com/docs/angular'
-            repo_url: 'https://github.com/apollographql/apollo-angular'
-            logo: apollo-angular.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-guild-9777'
+            name: Accumulo Connector
+            homepage_url: 'https://prestodb.io'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
+          - item:
+            name: Blackhole Connector
+            homepage_url: 'https://prestodb.io'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
           - item:
             name: Cassandra Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: cassandra.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
             allow_duplicate_repo: true
           - item:
-            name: Tartiflette
-            homepage_url: 'https://tartiflette.io'
-            repo_url: 'https://github.com/tartiflette/tartiflette'
-            logo: tartiflette.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
+            name: Hive Connector
+            homepage_url: 'https://prestodb.io'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: hive.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
           - item:
-            name: TypeGraphQL
-            homepage_url: 'https://typegraphql.ml'
-            repo_url: 'https://github.com/MichalLytek/type-graphql'
-            logo: type-graphql.svg
-            crunchbase: 'https://www.crunchbase.com/organization/typegraphql'
+            name: IBM DB2 Connector
+            homepage_url: 'https://github.com/IBM/presto-db2'
+            repo_url: 'https://github.com/IBM/presto-db2'
+            logo: ibm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Kafka Connector
+            homepage_url: 'https://prestodb.io'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: kafka.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
+          - item:
+            name: Localfile Connector
+            homepage_url: 'https://prestodb.io'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
+          - item:
+            name: System Connector
+            homepage_url: 'https://prestodb.io'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            allow_duplicate_repo: true
   - category:
     name: Databases
     subcategories:
