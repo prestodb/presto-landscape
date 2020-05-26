@@ -19,7 +19,6 @@ landscape:
           - item:
             name: Accumulo Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
@@ -27,7 +26,6 @@ landscape:
           - item:
             name: Blackhole Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
@@ -35,7 +33,6 @@ landscape:
           - item:
             name: Cassandra Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: cassandra.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
@@ -43,7 +40,6 @@ landscape:
           - item:
             name: Hive Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: hive.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
@@ -57,7 +53,6 @@ landscape:
           - item:
             name: Kafka Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: kafka.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
@@ -65,7 +60,6 @@ landscape:
           - item:
             name: Localfile Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
@@ -73,7 +67,6 @@ landscape:
           - item:
             name: System Connector
             homepage_url: 'https://prestodb.io'
-            project: foundationproject
             repo_url: 'https://github.com/prestodb/presto'
             logo: presto.svg
             crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
