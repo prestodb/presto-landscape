@@ -92,9 +92,6 @@ big_picture:
     name: Landscape
     title: Presto Landscape
     fullscreen_header: See the interactive landscape at l.prestodb.io
-    fullscreen_size:
-      width: 1020
-      height: 840
     elements:
       - type: HorizontalCategory
         category: Projects
