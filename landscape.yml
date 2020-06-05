@@ -89,10 +89,15 @@ landscape:
         name: General
         items:
           - item:
+            name: Ahana (member)
+            homepage_url: 'https://ahana.io/'
+            logo: ahana.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ahana'
+          - item:
             name: Alibaba (member)
             homepage_url: 'https://www.alibaba.com'
-            stock_ticker: BABA
             logo: alibaba.svg
+            stock_ticker: BABA
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
             name: Alluxio (member)
