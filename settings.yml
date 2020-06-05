@@ -17,6 +17,7 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   membership: Presto Foundation Member
   flags:
+    companies: Presto Foundation Member
     hide_license_for_categories:
       - Presto Adopter
       - Presto Foundation Member
