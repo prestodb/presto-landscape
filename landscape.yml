@@ -116,7 +116,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
           - item:
             name: Uber (member)
-            homepage_url: 'https://uber.com/'
+            homepage_url: 'https://www.uber.com/hk/zh-hk'
             logo: uber.svg
             crunchbase: 'https://www.crunchbase.com/organization/uber'
   - category:
@@ -143,7 +143,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/atlassian'
           - item:
             name: Audi (adopter)
-            homepage_url: 'https://audi.com/'
+            homepage_url: 'https://www.audi.com/en.html'
             logo: audi.svg
             twitter: 'https://twitter.com/audi'
             crunchbase: 'https://www.crunchbase.com/organization/audi'
@@ -154,7 +154,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
             name: Bloomberg (adopter)
-            homepage_url: 'https://bloomberg.com'
+            homepage_url: 'https://www.bloomberg.com/tosv2.html'
             logo: bloomberg.svg
             twitter: 'https://twitter.com/TechAtBloomberg'
             crunchbase: 'https://www.crunchbase.com/organization/bloomberg'
@@ -219,7 +219,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/shopify'
           - item:
             name: Slack (adopter)
-            homepage_url: 'https://www.slack.com'
+            homepage_url: 'https://slack.com/intl/en-hk'
             logo: slack.svg
             crunchbase: 'https://www.crunchbase.com/organization/slack'
           - item:
@@ -234,7 +234,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/twitter'
           - item:
             name: Uber (adopter)
-            homepage_url: 'https://uber.com/'
+            homepage_url: 'https://www.uber.com/hk/zh-hk'
             logo: uber.svg
             crunchbase: 'https://www.crunchbase.com/organization/uber'
           - item:
