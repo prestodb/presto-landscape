@@ -55,6 +55,7 @@ membership:
     name: Presto
     label: Member
     funding: General
+    is_large: true
   linux_foundation:
     name: LF
     label: Project
@@ -98,7 +99,7 @@ big_picture:
         category: Projects
         rows: 4
         width: 605
-        height: 160
+        height: 120
         top: 0
         left: 0
         color: 'rgb(4,81,49)'
@@ -107,7 +108,7 @@ big_picture:
         category: Services
         rows: 3
         width: 325
-        height: 160
+        height: 120
         top: 0
         left: 645
         color: 'rgb(79,121,13)'
@@ -116,8 +117,8 @@ big_picture:
         category: Presto Adopter
         rows: 6
         width: 970
-        height: 320
-        top: 180
+        height: 180
+        top: 140
         left: 0
         color: 'rgb(126,115,14)'
         fit_width: true
@@ -125,15 +126,15 @@ big_picture:
         category: Presto Foundation Member
         rows: 4
         width: 650
-        height: 200
-        top: 540
+        height: 160
+        top: 340
         left: 0
         color: 'rgb(103,66,18)'
         fit_width: true
       - type: LandscapeInfo
         width: 310
-        height: 200
-        top: 540
+        height: 160
+        top: 340
         left: 665
         children:
           - type: text
@@ -145,25 +146,25 @@ big_picture:
             font_size: 10
           - type: image
             image: qr.svg
-            top: 55
+            top: 10
             left: 20
             width: 90
             height: 90
             title: QR Code
           - type: title
             title: l.prestodb.io
-            top: 140
+            top: 100
             left: 5
             font_size: 21
           - type: image
             image: left-logo.svg
-            width: 110
-            right: 190
-            top: 10
+            width: 90
+            right: 100
+            top: 15
             title: Landscape Logo
           - type: image
             image: right-logo.svg
-            width: 109
+            width: 80
             right: 10
             top: 10
             title: Presto Foundation Logo
