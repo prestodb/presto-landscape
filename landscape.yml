@@ -96,7 +96,6 @@ landscape:
           - item:
             name: Alibaba (member)
             homepage_url: 'https://www.alibaba.com'
-            stock_ticker: BABA
             logo: alibaba.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
@@ -133,7 +132,6 @@ landscape:
           - item:
             name: Alibaba (adopter)
             homepage_url: 'https://www.alibaba.com'
-            stock_ticker: BABA
             logo: alibaba.svg
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
@@ -208,7 +206,6 @@ landscape:
           - item:
             name: Rakuten (adopter)
             homepage_url: 'https://www.rakuten.com/'
-            stock_ticker: RKUNY
             logo: rakuten.svg
             twitter: 'https://twitter.com/rakuten'
             crunchbase: 'https://www.crunchbase.com/organization/rakuten'
@@ -245,7 +242,6 @@ landscape:
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: 'https://www.yahoo.jp/'
-            stock_ticker: YAHOY
             logo: yahoo.svg
             crunchbase: 'https://www.crunchbase.com/organization/yahoo-japan'
           - item:
