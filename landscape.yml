@@ -82,6 +82,11 @@ landscape:
             homepage_url: 'https://aws.amazon.com/athena/'
             logo: amazon-web-services.svg
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: Starburst Enterprise Presto
+            homepage_url: 'https://www.starburstdata.com/'
+            logo: starburst.svg
+            crunchbase: 'https://www.crunchbase.com/organization/starburst'
   - category:
     name: Presto Foundation Member
     subcategories:
