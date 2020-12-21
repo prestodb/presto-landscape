@@ -58,7 +58,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -135,7 +135,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -209,7 +209,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -283,7 +283,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -357,7 +357,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -805,7 +805,7 @@ landscape:
                 - name: Java
                   value: 13406
                   color: '#b07219'
-              contributions: 0;0;0;0;0;0;8;0;0;2;0;4;0;1;9;0;4;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0
+              contributions: 0;0;0;0;0;0;8;0;0;2;0;4;0;1;9;4;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0
               firstWeek: 2019-12-29Z
               stars: 6
               license: Apache License 2.0
@@ -832,7 +832,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T17:17:16.000Z
+              latest_tweet_date: 2020-12-21T02:04:50.000Z
           - item:
             name: Kafka Connector
             homepage_url: 'https://prestodb.io'
@@ -884,7 +884,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -958,7 +958,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -1032,7 +1032,7 @@ landscape:
                   value: 6827
                   color: '#427819'
               contributions: >-
-                8;16;31;17;22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;86;45;46;26;25;23;28;26;37;24;30;22;28;23;22;18;19;4;12;5;11
+                9;16;31;17;21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;86;48;45;27;22;23;29;26;38;25;28;21;29;22;22;19;19;3;12;5;11
               firstWeek: 2019-12-29Z
               stars: 11477
               license: Apache License 2.0
@@ -1108,7 +1108,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T21:52:01.000Z
+              latest_tweet_date: 2020-12-20T18:10:43.000Z
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -1243,7 +1243,7 @@ landscape:
               stockExchange: hkg
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 713657527962
+              market_cap: 705802375438
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1506,7 +1506,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T01:35:19.000Z
+              latest_tweet_date: 2020-12-20T22:24:40.000Z
           - item:
             name: Twitter (member)
             homepage_url: 'https://twitter.com/'
@@ -1727,7 +1727,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T02:39:14.000Z
+              latest_tweet_date: 2020-12-20T11:19:43.000Z
   - category:
     name: Presto Adopter
     subcategories:
@@ -1911,7 +1911,7 @@ landscape:
               stockExchange: hkg
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 713657527962
+              market_cap: 705802375438
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -1988,7 +1988,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T15:01:36.000Z
+              latest_tweet_date: 2020-12-20T18:01:12.000Z
           - item:
             name: Audi (adopter)
             homepage_url: 'https://www.audi.com/en.html'
@@ -2066,7 +2066,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T21:52:01.000Z
+              latest_tweet_date: 2020-12-20T18:10:43.000Z
           - item:
             name: Bloomberg (adopter)
             homepage_url: 'https://www.bloomberg.com/tosv2.html'
@@ -2411,7 +2411,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T01:35:19.000Z
+              latest_tweet_date: 2020-12-20T22:24:40.000Z
           - item:
             name: GitHub (adopter)
             homepage_url: 'https://github.com/'
@@ -2556,7 +2556,7 @@ landscape:
               stockExchange: vie
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 104038660844
+              market_cap: 103581989285
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -2620,7 +2620,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T21:12:02.000Z
+              latest_tweet_date: 2020-12-20T21:07:21.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: 'https://nasdaq.com/'
@@ -2682,7 +2682,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T22:58:47.000Z
+              latest_tweet_date: 2020-12-20T22:58:39.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: 'https://netflix.com/'
@@ -2719,7 +2719,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T02:38:18.000Z
+              latest_tweet_date: 2020-12-20T22:28:40.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: 'https://www.pinterest.com/'
@@ -2883,7 +2883,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13298370349
+              market_cap: 13516831072
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -2892,7 +2892,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T01:25:51.000Z
+              latest_tweet_date: 2020-12-20T20:23:41.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: 'https://www.shopify.com/'
@@ -2949,7 +2949,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-18T16:36:11.000Z
+              latest_tweet_date: 2020-12-20T14:52:17.000Z
           - item:
             name: Slack (adopter)
             homepage_url: 'https://slack.com/intl/en-hk'
@@ -2996,7 +2996,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-19T22:00:14.000Z
+              latest_tweet_date: 2020-12-21T00:53:51.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: 'https://www.nytco.com/'
@@ -3054,7 +3054,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T02:20:04.000Z
+              latest_tweet_date: 2020-12-21T02:40:02.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: 'https://twitter.com/'
@@ -3275,7 +3275,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T02:39:14.000Z
+              latest_tweet_date: 2020-12-20T11:19:43.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: 'https://www.wayfair.com/v/captcha/show'
@@ -3352,7 +3352,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 28150470155
+              market_cap: 28085350452
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -3361,7 +3361,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-12-20T02:08:49.000Z
+              latest_tweet_date: 2020-12-21T02:00:00.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: 'https://www.yelp.com/'
@@ -3417,4 +3417,4 @@ landscape:
               latest_tweet_date: 2020-12-17T20:54:07.000Z
 twitter_options:
   count: 0
-updated_at: 2020-12-20T02:54:59.407Z
+updated_at: 2020-12-21T03:01:30.887Z
