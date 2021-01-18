@@ -8,26 +8,26 @@ landscape:
         items:
           - item:
             name: Presto
-            homepage_url: 'https://prestodb.io'
+            homepage_url: https://prestodb.io
             project: foundationproject
-            repo_url: 'https://github.com/prestodb/presto'
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -58,18 +58,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -86,25 +86,25 @@ landscape:
         items:
           - item:
             name: Accumulo Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -135,18 +135,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -160,25 +160,25 @@ landscape:
               latest_tweet_date: 2021-01-14T20:42:00.000Z
           - item:
             name: Blackhole Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -209,18 +209,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -234,25 +234,25 @@ landscape:
               latest_tweet_date: 2021-01-14T20:42:00.000Z
           - item:
             name: Cassandra Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: cassandra.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -283,18 +283,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -308,25 +308,25 @@ landscape:
               latest_tweet_date: 2021-01-14T20:42:00.000Z
           - item:
             name: Hive Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: hive.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -357,18 +357,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -382,21 +382,21 @@ landscape:
               latest_tweet_date: 2021-01-14T20:42:00.000Z
           - item:
             name: IBM DB2 Connector
-            homepage_url: 'https://github.com/IBM/presto-db2'
-            repo_url: 'https://github.com/IBM/presto-db2'
+            homepage_url: https://github.com/IBM/presto-db2
+            repo_url: https://github.com/IBM/presto-db2
             logo: ibm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase: https://www.crunchbase.com/organization/ibm
             crunchbase_data:
               name: IBM
-              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
+              description: IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.ibm.com/'
+              homepage: http://www.ibm.com/
               city: Armonk
               region: New York
               country: United States
-              twitter: 'http://twitter.com/IBM'
-              linkedin: 'https://www.linkedin.com/company/ibm/'
+              twitter: http://twitter.com/IBM
+              linkedin: https://www.linkedin.com/company/ibm/
               acquisitions:
                 - date: '1923-01-01'
                   acquiree: Dehomag
@@ -817,7 +817,7 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 0;0;8;0;0;2;0;4;0;1;9;0;4;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1
+              contributions: 0;0;8;0;0;2;0;4;0;1;9;4;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1
               firstWeek: 2020-01-26Z
               stars: 6
               license: Apache License 2.0
@@ -825,11 +825,11 @@ landscape:
               latest_commit_date: '2021-01-16T03:10:38Z'
               latest_commit_link: /IBM/presto-db2/commit/977e06d1cc671117cd52fa7d53b354630c33266d
               release_date: '2020-12-11T16:05:14Z'
-              release_link: 'https://github.com/IBM/presto-db2/releases'
+              release_link: https://github.com/IBM/presto-db2/releases
               contributors_count: 5
-              contributors_link: 'https://github.com/IBM/presto-db2/graphs/contributors'
+              contributors_link: https://github.com/IBM/presto-db2/graphs/contributors
             repos:
-              - url: 'https://github.com/IBM/presto-db2'
+              - url: https://github.com/IBM/presto-db2
                 stars: 6
             github_start_commit_data:
               start_commit_link: /IBM/presto-db2/commit/f6aa7f007c81d3f2cc415f385dbf4186c1bbb6b6
@@ -844,28 +844,28 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-17T03:09:00.000Z
+              latest_tweet_date: 2021-01-17T13:20:19.000Z
           - item:
             name: Kafka Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: kafka.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -896,18 +896,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -921,25 +921,25 @@ landscape:
               latest_tweet_date: 2021-01-14T20:42:00.000Z
           - item:
             name: Localfile Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -970,18 +970,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -995,25 +995,25 @@ landscape:
               latest_tweet_date: 2021-01-14T20:42:00.000Z
           - item:
             name: System Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
             crunchbase_data:
               name: Presto Foundation
               description: Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://prestodb.io'
+              homepage: https://prestodb.io
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/prestodb'
-              linkedin: 'https://www.linkedin.com/company/presto-foundation/'
+              twitter: https://twitter.com/prestodb
+              linkedin: https://www.linkedin.com/company/presto-foundation/
               acquisitions: []
               parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
             github_data:
               languages:
@@ -1044,18 +1044,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                22;26;47;35;37;59;55;25;17;27;40;37;47;36;27;46;43;21;16;64;78;50;28;76;58;27;32;87;45;46;26;25;23;29;26;37;24;30;22;28;24;22;18;20;6;15;12;24;14;0;8;5
+                21;33;40;38;35;62;51;26;20;24;41;40;51;29;25;46;44;20;16;73;69;53;68;34;57;28;31;87;48;45;27;22;23;30;26;38;25;28;21;29;23;22;19;20;5;15;12;24;14;2;6;5
               firstWeek: 2020-01-26Z
-              stars: 11579
+              stars: 11587
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-01-16T00:24:01Z'
               latest_commit_link: /prestodb/presto/commit/5ed0666b1dcefb8d77d8ad4ad568b892ba6f2e72
               contributors_count: 540
-              contributors_link: 'https://github.com/prestodb/presto/graphs/contributors'
+              contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
-              - url: 'https://github.com/prestodb/presto'
-                stars: 11579
+              - url: https://github.com/prestodb/presto
+                stars: 11587
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1075,20 +1075,20 @@ landscape:
         items:
           - item:
             name: AWS Athena
-            homepage_url: 'https://aws.amazon.com/athena/'
+            homepage_url: https://aws.amazon.com/athena/
             logo: amazon-web-services.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             crunchbase_data:
               name: Amazon Web Services
               description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://aws.amazon.com'
+              homepage: http://aws.amazon.com
               city: Seattle
               region: Washington
               country: United States
-              twitter: 'http://twitter.com/awscloud'
-              linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
+              twitter: http://twitter.com/awscloud
+              linkedin: https://www.linkedin.com/company/amazon-web-services/
               acquisitions:
                 - date: '2015-07-14'
                   acquiree: AppThwack
@@ -1103,9 +1103,9 @@ landscape:
                 - date: '2019-01-14'
                   acquiree: TSO Logic
                 - date: '2020-02-21'
-                  acquiree: 'TeamSQL, Inc.'
+                  acquiree: TeamSQL, Inc.
               parents:
-                - 'https://www.crunchbase.com/organization/amazon'
+                - https://www.crunchbase.com/organization/amazon
               ticker: AMZN
               funding: 110000000
               stockExchange: null
@@ -1129,20 +1129,20 @@ landscape:
         items:
           - item:
             name: Ahana (member)
-            homepage_url: 'https://ahana.io/'
+            homepage_url: https://ahana.io/
             logo: ahana.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ahana'
+            crunchbase: https://www.crunchbase.com/organization/ahana
             crunchbase_data:
               name: Ahana
               description: Ahana brings PrestoDB-based ad hoc analytics offerings to market.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: 'https://ahana.io/'
+              homepage: https://ahana.io/
               city: San Mateo
               region: California
               country: United States
-              twitter: 'https://twitter.com/AhanaIO'
-              linkedin: 'https://www.linkedin.com/company/ahana-io'
+              twitter: https://twitter.com/AhanaIO
+              linkedin: https://www.linkedin.com/company/ahana-io
               acquisitions: []
               parents: []
               funding: 4800000
@@ -1158,20 +1158,20 @@ landscape:
               latest_tweet_date: 2021-01-15T00:00:37.000Z
           - item:
             name: Alibaba (member)
-            homepage_url: 'https://www.alibaba.com'
+            homepage_url: https://www.alibaba.com
             logo: alibaba.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            crunchbase: https://www.crunchbase.com/organization/alibaba
             crunchbase_data:
               name: Alibaba Group
-              description: 'Alibaba Group enables businesses to transform the way they market, sell, operate and improve their efficiencies.'
+              description: Alibaba Group enables businesses to transform the way they market, sell, operate and improve their efficiencies.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://alibabagroup.com'
+              homepage: http://alibabagroup.com
               city: Hangzhou
               region: Zhejiang
               country: China
-              twitter: 'https://twitter.com/alibabagroup'
-              linkedin: 'https://www.linkedin.com/company/alibaba-group'
+              twitter: https://twitter.com/alibabagroup
+              linkedin: https://www.linkedin.com/company/alibaba-group
               acquisitions:
                 - date: '2013-04-26'
                   acquiree: Umeng+
@@ -1255,7 +1255,7 @@ landscape:
               stockExchange: hkg
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 672719522330
+              market_cap: 674475679921
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1267,20 +1267,20 @@ landscape:
               latest_tweet_date: 2021-01-15T14:12:13.000Z
           - item:
             name: Alluxio (member)
-            homepage_url: 'https://aws.amazon.com/'
+            homepage_url: https://aws.amazon.com/
             logo: alluxio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alluxio'
+            crunchbase: https://www.crunchbase.com/organization/alluxio
             crunchbase_data:
               name: Alluxio
               description: Delivering the next generation storage.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: 'http://www.alluxio.com/'
+              homepage: http://www.alluxio.com/
               city: San Mateo
               region: California
               country: United States
-              twitter: 'https://twitter.com/Alluxio'
-              linkedin: 'https://www.linkedin.com/company/alluxio-inc-'
+              twitter: https://twitter.com/Alluxio
+              linkedin: https://www.linkedin.com/company/alluxio-inc-
               acquisitions: []
               parents: []
               funding: 23000000
@@ -1296,20 +1296,20 @@ landscape:
               latest_tweet_date: 2021-01-14T17:02:33.000Z
           - item:
             name: Facebook (member)
-            homepage_url: 'https://m.facebook.com'
+            homepage_url: https://m.facebook.com
             logo: facebook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
               name: Facebook
               description: Facebook is an online social networking service that enables its users to connect with friends and family.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.facebook.com'
+              homepage: http://www.facebook.com
               city: Menlo Park
               region: California
               country: United States
-              twitter: 'https://twitter.com/facebook'
-              linkedin: 'https://www.linkedin.com/company/facebook'
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
               acquisitions:
                 - date: '2007-07-01'
                   acquiree: Parakey
@@ -1442,7 +1442,7 @@ landscape:
                 - date: '2015-01-16'
                   acquiree: Teehan+Lax
                 - date: '2015-03-13'
-                  acquiree: 'TheFind, Inc.'
+                  acquiree: TheFind, Inc.
                 - date: '2015-05-20'
                   acquiree: Tugboat Yards
                 - date: '2015-10-05'
@@ -1504,7 +1504,7 @@ landscape:
                   acquiree: Kustomer
                   price: 1000000000
               parents:
-                - 'https://www.crunchbase.com/organization/aryhost'
+                - https://www.crunchbase.com/organization/aryhost
               ticker: FB
               funding: 16122817488
               stockExchange: nasdaq
@@ -1522,20 +1522,20 @@ landscape:
               latest_tweet_date: 2021-01-12T21:20:49.000Z
           - item:
             name: Twitter (member)
-            homepage_url: 'https://twitter.com/'
+            homepage_url: https://twitter.com/
             logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            crunchbase: https://www.crunchbase.com/organization/twitter
             crunchbase_data:
               name: Twitter
               description: Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as tweets.
               num_employees_min: 5001
               num_employees_max: 10000
-              homepage: 'http://www.twitter.com'
+              homepage: http://www.twitter.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/twitter'
-              linkedin: 'https://www.linkedin.com/company/twitter'
+              twitter: http://twitter.com/twitter
+              linkedin: https://www.linkedin.com/company/twitter
               acquisitions:
                 - date: '2008-07-15'
                   acquiree: Summize
@@ -1686,20 +1686,20 @@ landscape:
               latest_tweet_date: 2021-01-02T18:19:52.000Z
           - item:
             name: Uber (member)
-            homepage_url: 'https://www.uber.com/hk/zh-hk'
+            homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: https://www.crunchbase.com/organization/uber
             crunchbase_data:
               name: Uber
-              description: 'Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.'
+              description: Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.uber.com'
+              homepage: http://www.uber.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/uber'
-              linkedin: 'https://www.linkedin.com/company/uber-com/'
+              twitter: http://twitter.com/uber
+              linkedin: https://www.linkedin.com/company/uber-com/
               acquisitions:
                 - date: '2015-03-03'
                   acquiree: deCarta
@@ -1744,7 +1744,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-15T20:22:30.000Z
+              latest_tweet_date: 2021-01-17T13:51:42.000Z
   - category:
     name: Presto Adopter
     subcategories:
@@ -1753,20 +1753,20 @@ landscape:
         items:
           - item:
             name: Airbnb (adopter)
-            homepage_url: 'https://www.airbnb.com'
+            homepage_url: https://www.airbnb.com
             logo: airbnb.svg
-            crunchbase: 'https://www.crunchbase.com/organization/airbnb'
+            crunchbase: https://www.crunchbase.com/organization/airbnb
             crunchbase_data:
               name: Airbnb
-              description: 'Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.'
+              description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://airbnb.com'
+              homepage: http://airbnb.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/airbnb'
-              linkedin: 'https://www.linkedin.com/company/airbnb'
+              twitter: http://twitter.com/airbnb
+              linkedin: https://www.linkedin.com/company/airbnb
               acquisitions:
                 - date: '2011-06-01'
                   acquiree: Accoleo
@@ -1828,23 +1828,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-14T17:31:11.000Z
+              latest_tweet_date: 2021-01-18T03:23:28.000Z
           - item:
             name: Alibaba (adopter)
-            homepage_url: 'https://www.alibaba.com'
+            homepage_url: https://www.alibaba.com
             logo: alibaba.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            crunchbase: https://www.crunchbase.com/organization/alibaba
             crunchbase_data:
               name: Alibaba Group
-              description: 'Alibaba Group enables businesses to transform the way they market, sell, operate and improve their efficiencies.'
+              description: Alibaba Group enables businesses to transform the way they market, sell, operate and improve their efficiencies.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://alibabagroup.com'
+              homepage: http://alibabagroup.com
               city: Hangzhou
               region: Zhejiang
               country: China
-              twitter: 'https://twitter.com/alibabagroup'
-              linkedin: 'https://www.linkedin.com/company/alibaba-group'
+              twitter: https://twitter.com/alibabagroup
+              linkedin: https://www.linkedin.com/company/alibaba-group
               acquisitions:
                 - date: '2013-04-26'
                   acquiree: Umeng+
@@ -1928,7 +1928,7 @@ landscape:
               stockExchange: hkg
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 672719522330
+              market_cap: 674475679921
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -1940,20 +1940,20 @@ landscape:
               latest_tweet_date: 2021-01-15T14:12:13.000Z
           - item:
             name: Atlassian (adopter)
-            homepage_url: 'https://www.atlassian.com'
+            homepage_url: https://www.atlassian.com
             logo: atlassian.svg
-            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
+            crunchbase: https://www.crunchbase.com/organization/atlassian
             crunchbase_data:
               name: Atlassian
-              description: 'Atlassian provides collaboration, development, and issue tracking software for teams.'
+              description: Atlassian provides collaboration, development, and issue tracking software for teams.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'http://www.atlassian.com/'
+              homepage: http://www.atlassian.com/
               city: Sydney
               region: New South Wales
               country: Australia
-              twitter: 'http://twitter.com/atlassian'
-              linkedin: 'https://www.linkedin.com/company/atlassian/'
+              twitter: http://twitter.com/atlassian
+              linkedin: https://www.linkedin.com/company/atlassian/
               acquisitions:
                 - date: '2010-09-29'
                   acquiree: Bitbucket
@@ -2005,24 +2005,24 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-16T17:05:11.000Z
+              latest_tweet_date: 2021-01-17T19:05:06.000Z
           - item:
             name: Audi (adopter)
-            homepage_url: 'https://www.audi.com/en.html'
+            homepage_url: https://www.audi.com/en.html
             logo: audi.svg
-            twitter: 'https://twitter.com/audi'
-            crunchbase: 'https://www.crunchbase.com/organization/audi'
+            twitter: https://twitter.com/audi
+            crunchbase: https://www.crunchbase.com/organization/audi
             crunchbase_data:
               name: Audi
-              description: 'Audi develops, produces, assembles, distributes, and sells vehicles of the Audi and Lamborghini brands in Germany and internationally.'
+              description: Audi develops, produces, assembles, distributes, and sells vehicles of the Audi and Lamborghini brands in Germany and internationally.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://audiusa.com'
+              homepage: http://audiusa.com
               city: Herndon
               region: Virginia
               country: United States
-              twitter: 'http://twitter.com/Audi'
-              linkedin: 'https://www.linkedin.com/company/audi-of-america'
+              twitter: http://twitter.com/Audi
+              linkedin: https://www.linkedin.com/company/audi-of-america
               acquisitions:
                 - date: '2017-03-30'
                   acquiree: Silvercar
@@ -2038,20 +2038,20 @@ landscape:
               latest_tweet_date: 2021-01-15T18:05:40.000Z
           - item:
             name: AWS (adopter)
-            homepage_url: 'https://www.amazon.com'
+            homepage_url: https://www.amazon.com
             logo: amazon-web-services.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
             crunchbase_data:
               name: Amazon Web Services
               description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://aws.amazon.com'
+              homepage: http://aws.amazon.com
               city: Seattle
               region: Washington
               country: United States
-              twitter: 'http://twitter.com/awscloud'
-              linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
+              twitter: http://twitter.com/awscloud
+              linkedin: https://www.linkedin.com/company/amazon-web-services/
               acquisitions:
                 - date: '2015-07-14'
                   acquiree: AppThwack
@@ -2066,9 +2066,9 @@ landscape:
                 - date: '2019-01-14'
                   acquiree: TSO Logic
                 - date: '2020-02-21'
-                  acquiree: 'TeamSQL, Inc.'
+                  acquiree: TeamSQL, Inc.
               parents:
-                - 'https://www.crunchbase.com/organization/amazon'
+                - https://www.crunchbase.com/organization/amazon
               ticker: AMZN
               funding: 110000000
               stockExchange: null
@@ -2086,21 +2086,21 @@ landscape:
               latest_tweet_date: 2021-01-10T16:00:56.000Z
           - item:
             name: Bloomberg (adopter)
-            homepage_url: 'https://www.bloomberg.com/tosv2.html'
+            homepage_url: https://www.bloomberg.com/tosv2.html
             logo: bloomberg.svg
-            twitter: 'https://twitter.com/TechAtBloomberg'
-            crunchbase: 'https://www.crunchbase.com/organization/bloomberg'
+            twitter: https://twitter.com/TechAtBloomberg
+            crunchbase: https://www.crunchbase.com/organization/bloomberg
             crunchbase_data:
               name: Bloomberg
-              description: 'Bloomberg provides news, data, analytics, and communication services for the global business and financial world.'
+              description: Bloomberg provides news, data, analytics, and communication services for the global business and financial world.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.bloomberg.com'
+              homepage: http://www.bloomberg.com
               city: New York
               region: New York
               country: United States
-              twitter: 'https://twitter.com/Bloomberg'
-              linkedin: 'https://www.linkedin.com/company/bloomberg-lp'
+              twitter: https://twitter.com/Bloomberg
+              linkedin: https://www.linkedin.com/company/bloomberg-lp
               acquisitions:
                 - date: '2009-10-13'
                   acquiree: Bloomberg Businessweek
@@ -2132,20 +2132,20 @@ landscape:
               latest_tweet_date: 2021-01-14T22:35:05.000Z
           - item:
             name: Coursera (adopter)
-            homepage_url: 'https://www.coursera.org'
+            homepage_url: https://www.coursera.org
             logo: coursera.svg
-            crunchbase: 'https://www.crunchbase.com/organization/coursera'
+            crunchbase: https://www.crunchbase.com/organization/coursera
             crunchbase_data:
               name: Coursera
               description: Coursera is an online education company that partners with universities and organizations to offer classes on their platform.
               num_employees_min: 501
               num_employees_max: 1000
-              homepage: 'http://www.coursera.org'
+              homepage: http://www.coursera.org
               city: Mountain View
               region: California
               country: United States
-              twitter: 'http://www.twitter.com/coursera'
-              linkedin: 'https://www.linkedin.com/company/coursera'
+              twitter: http://www.twitter.com/coursera
+              linkedin: https://www.linkedin.com/company/coursera
               acquisitions:
                 - date: '2019-08-28'
                   acquiree: Rhyme.com
@@ -2163,20 +2163,20 @@ landscape:
               latest_tweet_date: 2021-01-16T17:19:06.000Z
           - item:
             name: Credit Karma (adopter)
-            homepage_url: 'https://www.creditkarma.com'
-            logo: 'https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/credit-karma'
+            homepage_url: https://www.creditkarma.com
+            logo: https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg
+            crunchbase: https://www.crunchbase.com/organization/credit-karma
             crunchbase_data:
               name: Credit Karma
               description: Credit Karma offers a range of tools and personalized recommendations designed to help customers make the most of their money.
               num_employees_min: 501
               num_employees_max: 1000
-              homepage: 'https://www.creditkarma.com'
+              homepage: https://www.creditkarma.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/CreditKarma'
-              linkedin: 'https://www.linkedin.com/company/credit-karma'
+              twitter: https://twitter.com/CreditKarma
+              linkedin: https://www.linkedin.com/company/credit-karma
               acquisitions:
                 - date: '2015-12-30'
                   acquiree: Snowball
@@ -2208,20 +2208,20 @@ landscape:
               latest_tweet_date: 2021-01-15T20:17:18.000Z
           - item:
             name: Facebook (adopter)
-            homepage_url: 'https://m.facebook.com'
+            homepage_url: https://m.facebook.com
             logo: facebook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
               name: Facebook
               description: Facebook is an online social networking service that enables its users to connect with friends and family.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.facebook.com'
+              homepage: http://www.facebook.com
               city: Menlo Park
               region: California
               country: United States
-              twitter: 'https://twitter.com/facebook'
-              linkedin: 'https://www.linkedin.com/company/facebook'
+              twitter: https://twitter.com/facebook
+              linkedin: https://www.linkedin.com/company/facebook
               acquisitions:
                 - date: '2007-07-01'
                   acquiree: Parakey
@@ -2354,7 +2354,7 @@ landscape:
                 - date: '2015-01-16'
                   acquiree: Teehan+Lax
                 - date: '2015-03-13'
-                  acquiree: 'TheFind, Inc.'
+                  acquiree: TheFind, Inc.
                 - date: '2015-05-20'
                   acquiree: Tugboat Yards
                 - date: '2015-10-05'
@@ -2416,7 +2416,7 @@ landscape:
                   acquiree: Kustomer
                   price: 1000000000
               parents:
-                - 'https://www.crunchbase.com/organization/aryhost'
+                - https://www.crunchbase.com/organization/aryhost
               ticker: FB
               funding: 16122817488
               stockExchange: nasdaq
@@ -2434,20 +2434,20 @@ landscape:
               latest_tweet_date: 2021-01-12T21:20:49.000Z
           - item:
             name: GitHub (adopter)
-            homepage_url: 'https://github.com/'
+            homepage_url: https://github.com/
             logo: github.svg
-            crunchbase: 'https://www.crunchbase.com/organization/github'
+            crunchbase: https://www.crunchbase.com/organization/github
             crunchbase_data:
               name: GitHub
               description: GitHub provides code hosting services that allow developers/people to build software for open source and private projects in organizations.
               num_employees_min: 501
               num_employees_max: 1000
-              homepage: 'https://github.com'
+              homepage: https://github.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/github'
-              linkedin: 'https://www.linkedin.com/company/1418841'
+              twitter: http://twitter.com/github
+              linkedin: https://www.linkedin.com/company/1418841
               acquisitions:
                 - date: '2011-12-05'
                   acquiree: Ordered List
@@ -2466,7 +2466,7 @@ landscape:
                 - date: '2020-03-16'
                   acquiree: npm
               parents:
-                - 'https://www.crunchbase.com/organization/microsoft'
+                - https://www.crunchbase.com/organization/microsoft
               ticker: MSFT
               funding: 350000000
               stockExchange: null
@@ -2484,21 +2484,21 @@ landscape:
               latest_tweet_date: 2021-01-12T19:00:22.000Z
           - item:
             name: Intuit (adopter)
-            homepage_url: 'https://www.intuit.com/'
+            homepage_url: https://www.intuit.com/
             logo: intuit.svg
-            twitter: 'https://twitter.com/intuit'
-            crunchbase: 'https://www.crunchbase.com/organization/intuit'
+            twitter: https://twitter.com/intuit
+            crunchbase: https://www.crunchbase.com/organization/intuit
             crunchbase_data:
               name: Intuit
-              description: 'Intuit offers business and financial management solutions for SMBs, financial institutions, consumers, and accounting professionals.'
+              description: Intuit offers business and financial management solutions for SMBs, financial institutions, consumers, and accounting professionals.
               num_employees_min: 5001
               num_employees_max: 10000
-              homepage: 'http://www.intuit.com'
+              homepage: http://www.intuit.com
               city: Mountain View
               region: California
               country: United States
-              twitter: 'https://twitter.com/Intuit'
-              linkedin: 'https://www.linkedin.com/company/intuit'
+              twitter: https://twitter.com/Intuit
+              linkedin: https://www.linkedin.com/company/intuit
               acquisitions:
                 - date: '2002-08-14'
                   acquiree: Blue Ocean Software
@@ -2579,7 +2579,7 @@ landscape:
               stockExchange: vie
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 101095653480
+              market_cap: 101022426713
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -2588,23 +2588,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-16T02:23:38.000Z
+              latest_tweet_date: 2021-01-18T00:25:54.000Z
           - item:
             name: Lyft (adopter)
-            homepage_url: 'https://www.lyft.com'
+            homepage_url: https://www.lyft.com
             logo: lyft.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+            crunchbase: https://www.crunchbase.com/organization/lyft
             crunchbase_data:
               name: Lyft
-              description: 'Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides.'
+              description: Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'http://lyft.com'
+              homepage: http://lyft.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/lyft'
-              linkedin: 'https://www.linkedin.com/company/lyft/'
+              twitter: http://twitter.com/lyft
+              linkedin: https://www.linkedin.com/company/lyft/
               acquisitions:
                 - date: '2013-03-26'
                   acquiree: Cherry
@@ -2643,23 +2643,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-16T11:22:42.000Z
+              latest_tweet_date: 2021-01-17T09:07:59.000Z
           - item:
             name: NASDAQ (adopter)
-            homepage_url: 'https://nasdaq.com/'
+            homepage_url: https://nasdaq.com/
             logo: nasdaq.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nasdaq'
+            crunchbase: https://www.crunchbase.com/organization/nasdaq
             crunchbase_data:
               name: Nasdaq
-              description: 'leading global provider of trading, clearing, exchange technology, listing, information and public company services'
+              description: leading global provider of trading, clearing, exchange technology, listing, information and public company services
               num_employees_min: 5001
               num_employees_max: 10000
-              homepage: 'http://business.nasdaq.com'
+              homepage: http://business.nasdaq.com
               city: New York
               region: New York
               country: United States
-              twitter: 'http://twitter.com/NASDAQ'
-              linkedin: 'https://www.linkedin.com/company/nasdaq/'
+              twitter: http://twitter.com/NASDAQ
+              linkedin: https://www.linkedin.com/company/nasdaq/
               acquisitions:
                 - date: '2005-12-14'
                   acquiree: Instinet
@@ -2705,23 +2705,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-16T22:58:36.000Z
+              latest_tweet_date: 2021-01-17T22:58:40.000Z
           - item:
             name: Netflix (adopter)
-            homepage_url: 'https://netflix.com/'
+            homepage_url: https://netflix.com/
             logo: netflix.svg
-            crunchbase: 'https://www.crunchbase.com/organization/netflix'
+            crunchbase: https://www.crunchbase.com/organization/netflix
             crunchbase_data:
               name: Netflix
               description: 'Netflix is an online platform that enables users to watch TV shows and movies on smart TVs, PCs, Macs, mobiles, tablets, and so on. '
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'https://www.netflix.com'
+              homepage: https://www.netflix.com
               city: Los Gatos
               region: California
               country: United States
-              twitter: 'http://twitter.com/netflix'
-              linkedin: 'https://www.linkedin.com/company/netflix'
+              twitter: http://twitter.com/netflix
+              linkedin: https://www.linkedin.com/company/netflix
               acquisitions:
                 - date: '2017-08-07'
                   acquiree: Millarworld
@@ -2742,24 +2742,24 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-16T21:42:30.000Z
+              latest_tweet_date: 2021-01-17T22:00:47.000Z
           - item:
             name: Pinterest (adopter)
-            homepage_url: 'https://www.pinterest.com/'
+            homepage_url: https://www.pinterest.com/
             logo: pinterest.svg
-            twitter: 'https://twitter.com/pinterest'
-            crunchbase: 'https://www.crunchbase.com/organization/pinterest'
+            twitter: https://twitter.com/pinterest
+            crunchbase: https://www.crunchbase.com/organization/pinterest
             crunchbase_data:
               name: Pinterest
               description: Pinterest is a visual bookmarking tool for saving and discovering creative ideas.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'https://pinterest.com'
+              homepage: https://pinterest.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/Pinterest'
-              linkedin: 'https://www.linkedin.com/company/pinterest'
+              twitter: http://twitter.com/Pinterest
+              linkedin: https://www.linkedin.com/company/pinterest
               acquisitions:
                 - date: '2013-01-03'
                   acquiree: Punchfork
@@ -2811,21 +2811,21 @@ landscape:
               latest_tweet_date: 2021-01-15T20:02:33.000Z
           - item:
             name: Rakuten (adopter)
-            homepage_url: 'https://www.rakuten.com/'
+            homepage_url: https://www.rakuten.com/
             logo: rakuten.svg
-            twitter: 'https://twitter.com/rakuten'
-            crunchbase: 'https://www.crunchbase.com/organization/rakuten'
+            twitter: https://twitter.com/rakuten
+            crunchbase: https://www.crunchbase.com/organization/rakuten
             crunchbase_data:
               name: Rakuten
               description: Rakuten is a tech company that offers electronic commerce solutions in Japan and internationally.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://global.rakuten.com/corp'
+              homepage: http://global.rakuten.com/corp
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: 'http://twitter.com/RakutenGlobal'
-              linkedin: 'https://www.linkedin.com/company/rakuten'
+              twitter: http://twitter.com/RakutenGlobal
+              linkedin: https://www.linkedin.com/company/rakuten
               acquisitions:
                 - date: '2005-02-01'
                   acquiree: LinkShare Corporation
@@ -2852,7 +2852,7 @@ landscape:
                 - date: '2012-11-06'
                   acquiree: Alpha Direct Services
                 - date: '2013-03-27'
-                  acquiree: 'Rakuten Life Insurance Co., Ltd.'
+                  acquiree: Rakuten Life Insurance Co., Ltd.
                 - date: '2013-06-05'
                   acquiree: Webgistix
                 - date: '2013-09-01'
@@ -2860,7 +2860,7 @@ landscape:
                 - date: '2013-10-15'
                   acquiree: Spotlight
                 - date: '2014-02-03'
-                  acquiree: 'VI-VI-VI.COM Co.,Ltd.'
+                  acquiree: VI-VI-VI.COM Co.,Ltd.
                 - date: '2014-02-14'
                   acquiree: Viber
                   price: 900000000
@@ -2874,9 +2874,9 @@ landscape:
                   acquiree: Rakuten Rewards
                   price: 1000000000
                 - date: '2014-11-13'
-                  acquiree: 'Lubic Co., Ltd.'
+                  acquiree: Lubic Co., Ltd.
                 - date: '2014-12-08'
-                  acquiree: 'Crimson Football Club, Inc.'
+                  acquiree: Crimson Football Club, Inc.
                 - date: '2015-03-19'
                   acquiree: Overdrive
                   price: 410000000
@@ -2906,7 +2906,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13076539100
+              market_cap: 12874219602
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -2915,23 +2915,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-17T02:32:52.000Z
+              latest_tweet_date: 2021-01-17T22:38:49.000Z
           - item:
             name: Shopify (adopter)
-            homepage_url: 'https://www.shopify.com/'
+            homepage_url: https://www.shopify.com/
             logo: shopify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
+            crunchbase: https://www.crunchbase.com/organization/shopify
             crunchbase_data:
               name: Shopify
-              description: 'Shopify is a cloud-based, multi-channel commerce platform designed for small and medium-sized businesses.'
+              description: Shopify is a cloud-based, multi-channel commerce platform designed for small and medium-sized businesses.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'http://www.shopify.com'
+              homepage: http://www.shopify.com
               city: Ottawa
               region: Ontario
               country: Canada
-              twitter: 'http://twitter.com/shopify'
-              linkedin: 'https://www.linkedin.com/company/shopify'
+              twitter: http://twitter.com/shopify
+              linkedin: https://www.linkedin.com/company/shopify
               acquisitions:
                 - date: '2012-02-01'
                   acquiree: Select Start Studios
@@ -2972,23 +2972,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-15T21:36:43.000Z
+              latest_tweet_date: 2021-01-18T02:10:34.000Z
           - item:
             name: Slack (adopter)
-            homepage_url: 'https://slack.com/intl/en-hk'
+            homepage_url: https://slack.com/intl/en-hk
             logo: slack.svg
-            crunchbase: 'https://www.crunchbase.com/organization/slack'
+            crunchbase: https://www.crunchbase.com/organization/slack
             crunchbase_data:
               name: Slack
               description: Slack is an enterprise software platform that allows teams and businesses of all sizes to communicate effectively.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'http://www.slack.com'
+              homepage: http://www.slack.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/slackhq'
-              linkedin: 'https://www.linkedin.com/company/tiny-spec-inc/'
+              twitter: http://twitter.com/slackhq
+              linkedin: https://www.linkedin.com/company/tiny-spec-inc/
               acquisitions:
                 - date: '2014-09-26'
                   acquiree: Spaces
@@ -3019,23 +3019,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-17T00:21:28.000Z
+              latest_tweet_date: 2021-01-18T02:12:55.000Z
           - item:
             name: The New York Times (adopter)
-            homepage_url: 'https://www.nytco.com/'
-            logo: 'https://landscape.cncf.io/logos/the-new-york-times-supporter.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
+            homepage_url: https://www.nytco.com/
+            logo: https://landscape.cncf.io/logos/the-new-york-times-supporter.svg
+            crunchbase: https://www.crunchbase.com/organization/newyorktimes
             crunchbase_data:
               name: The New York Times
-              description: 'The New York Times creates, collects, and distributes news, information, and entertainment through a daily newspaper and a website.'
+              description: The New York Times creates, collects, and distributes news, information, and entertainment through a daily newspaper and a website.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: 'http://www.nytimes.com'
+              homepage: http://www.nytimes.com
               city: New York
               region: New York
               country: United States
-              twitter: 'http://twitter.com/nytimes'
-              linkedin: 'https://www.linkedin.com/company/the-new-york-times'
+              twitter: http://twitter.com/nytimes
+              linkedin: https://www.linkedin.com/company/the-new-york-times
               acquisitions:
                 - date: '1993-06-11'
                   acquiree: The Boston Globe
@@ -3046,7 +3046,7 @@ landscape:
                   acquiree: Dotdash
                   price: 410000000
                 - date: '2005-02-18'
-                  acquiree: 'About, Inc'
+                  acquiree: About, Inc
                 - date: '2006-02-06'
                   acquiree: blogrunner
                 - date: '2006-08-28'
@@ -3081,23 +3081,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-17T03:20:01.000Z
+              latest_tweet_date: 2021-01-18T03:40:02.000Z
           - item:
             name: Twitter (adopter)
-            homepage_url: 'https://twitter.com/'
+            homepage_url: https://twitter.com/
             logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            crunchbase: https://www.crunchbase.com/organization/twitter
             crunchbase_data:
               name: Twitter
               description: Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as tweets.
               num_employees_min: 5001
               num_employees_max: 10000
-              homepage: 'http://www.twitter.com'
+              homepage: http://www.twitter.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/twitter'
-              linkedin: 'https://www.linkedin.com/company/twitter'
+              twitter: http://twitter.com/twitter
+              linkedin: https://www.linkedin.com/company/twitter
               acquisitions:
                 - date: '2008-07-15'
                   acquiree: Summize
@@ -3248,20 +3248,20 @@ landscape:
               latest_tweet_date: 2021-01-02T18:19:52.000Z
           - item:
             name: Uber (adopter)
-            homepage_url: 'https://www.uber.com/hk/zh-hk'
+            homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: https://www.crunchbase.com/organization/uber
             crunchbase_data:
               name: Uber
-              description: 'Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.'
+              description: Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.uber.com'
+              homepage: http://www.uber.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/uber'
-              linkedin: 'https://www.linkedin.com/company/uber-com/'
+              twitter: http://twitter.com/uber
+              linkedin: https://www.linkedin.com/company/uber-com/
               acquisitions:
                 - date: '2015-03-03'
                   acquiree: deCarta
@@ -3306,23 +3306,23 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-15T20:22:30.000Z
+              latest_tweet_date: 2021-01-17T13:51:42.000Z
           - item:
             name: Wayfair (adopter)
-            homepage_url: 'https://www.wayfair.com/v/captcha/show'
+            homepage_url: https://www.wayfair.com/v/captcha/show
             logo: wayfair.svg
-            crunchbase: 'https://www.crunchbase.com/organization/wayfair'
+            crunchbase: https://www.crunchbase.com/organization/wayfair
             crunchbase_data:
               name: Wayfair
-              description: 'Wayfair is an online retailer of home products for bedroom, living room, kitchen and dining, home entertainment, bathroom, and more.'
+              description: Wayfair is an online retailer of home products for bedroom, living room, kitchen and dining, home entertainment, bathroom, and more.
               num_employees_min: 5001
               num_employees_max: 10000
-              homepage: 'https://www.wayfair.com'
+              homepage: https://www.wayfair.com
               city: Boston
               region: Massachusetts
               country: United States
-              twitter: 'https://twitter.com/wayfair'
-              linkedin: 'https://www.linkedin.com/company/wayfair/'
+              twitter: https://twitter.com/wayfair
+              linkedin: https://www.linkedin.com/company/wayfair/
               acquisitions:
                 - date: '2011-09-20'
                   acquiree: buyster
@@ -3350,20 +3350,20 @@ landscape:
               latest_tweet_date: 2021-01-15T21:40:30.000Z
           - item:
             name: Yahoo Japan (adopter)
-            homepage_url: 'https://www.yahoo.jp/'
+            homepage_url: https://www.yahoo.jp/
             logo: yahoo.svg
-            crunchbase: 'https://www.crunchbase.com/organization/yahoo-japan'
+            crunchbase: https://www.crunchbase.com/organization/yahoo-japan
             crunchbase_data:
               name: Yahoo! Japan
               description: Yahoo! Japan is a technology company that is known for its web services and applications.
               num_employees_min: 501
               num_employees_max: 1000
-              homepage: 'https://www.yahoo.co.jp/'
+              homepage: https://www.yahoo.co.jp/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: 'https://twitter.com/yahoo_japan_pr'
-              linkedin: 'https://www.linkedin.com/company/yahoojapan/'
+              twitter: https://twitter.com/yahoo_japan_pr
+              linkedin: https://www.linkedin.com/company/yahoojapan/
               acquisitions:
                 - date: '2010-08-16'
                   acquiree: Cirius Technologies USA
@@ -3383,7 +3383,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 32917825068
+              market_cap: 32195823466
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -3392,24 +3392,24 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-01-16T22:00:03.000Z
+              latest_tweet_date: 2021-01-18T02:09:13.000Z
           - item:
             name: Yelp (adopter)
-            homepage_url: 'https://www.yelp.com/'
+            homepage_url: https://www.yelp.com/
             logo: yelp.svg
-            twitter: 'https://twitter.com/yelp'
-            crunchbase: 'https://www.crunchbase.com/organization/yelp'
+            twitter: https://twitter.com/yelp
+            crunchbase: https://www.crunchbase.com/organization/yelp
             crunchbase_data:
               name: Yelp
               description: Yelp operates an online platform that connects people with local businesses.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://yelp.com'
+              homepage: http://yelp.com
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/Yelp'
-              linkedin: 'https://www.linkedin.com/company/yelp-com/'
+              twitter: http://twitter.com/Yelp
+              linkedin: https://www.linkedin.com/company/yelp-com/
               acquisitions:
                 - date: '2012-10-25'
                   acquiree: Qype
@@ -3448,4 +3448,4 @@ landscape:
               latest_tweet_date: 2021-01-16T00:11:18.000Z
 twitter_options:
   count: 0
-updated_at: 2021-01-17T03:53:13.118Z
+updated_at: 2021-01-18T04:10:37.267Z

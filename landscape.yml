@@ -7,69 +7,69 @@ landscape:
         items:
           - item:
             name: Presto
-            homepage_url: 'https://prestodb.io'
+            homepage_url: https://prestodb.io
             project: foundationproject
-            repo_url: 'https://github.com/prestodb/presto'
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
       - subcategory:
         name: Connectors
         items:
           - item:
             name: Accumulo Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
           - item:
             name: Blackhole Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
           - item:
             name: Cassandra Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: cassandra.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
           - item:
             name: Hive Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: hive.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
           - item:
             name: IBM DB2 Connector
-            homepage_url: 'https://github.com/IBM/presto-db2'
-            repo_url: 'https://github.com/IBM/presto-db2'
+            homepage_url: https://github.com/IBM/presto-db2
+            repo_url: https://github.com/IBM/presto-db2
             logo: ibm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Kafka Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: kafka.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
           - item:
             name: Localfile Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
           - item:
             name: System Connector
-            homepage_url: 'https://prestodb.io'
-            repo_url: 'https://github.com/prestodb/presto'
+            homepage_url: https://prestodb.io
+            repo_url: https://github.com/prestodb/presto
             logo: presto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/presto-foundation'
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
             allow_duplicate_repo: true
   - category:
     name: Services
@@ -79,9 +79,9 @@ landscape:
         items:
           - item:
             name: AWS Athena
-            homepage_url: 'https://aws.amazon.com/athena/'
+            homepage_url: https://aws.amazon.com/athena/
             logo: amazon-web-services.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -90,34 +90,34 @@ landscape:
         items:
           - item:
             name: Ahana (member)
-            homepage_url: 'https://ahana.io/'
+            homepage_url: https://ahana.io/
             logo: ahana.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ahana'
+            crunchbase: https://www.crunchbase.com/organization/ahana
           - item:
             name: Alibaba (member)
-            homepage_url: 'https://www.alibaba.com'
+            homepage_url: https://www.alibaba.com
             logo: alibaba.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            crunchbase: https://www.crunchbase.com/organization/alibaba
           - item:
             name: Alluxio (member)
-            homepage_url: 'https://aws.amazon.com/'
+            homepage_url: https://aws.amazon.com/
             logo: alluxio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alluxio'
+            crunchbase: https://www.crunchbase.com/organization/alluxio
           - item:
             name: Facebook (member)
-            homepage_url: 'https://m.facebook.com'
+            homepage_url: https://m.facebook.com
             logo: facebook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Twitter (member)
-            homepage_url: 'https://twitter.com/'
+            homepage_url: https://twitter.com/
             logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            crunchbase: https://www.crunchbase.com/organization/twitter
           - item:
             name: Uber (member)
-            homepage_url: 'https://www.uber.com/hk/zh-hk'
+            homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: https://www.crunchbase.com/organization/uber
   - category:
     name: Presto Adopter
     subcategories:
@@ -126,127 +126,127 @@ landscape:
         items:
           - item:
             name: Airbnb (adopter)
-            homepage_url: 'https://www.airbnb.com'
+            homepage_url: https://www.airbnb.com
             logo: airbnb.svg
-            crunchbase: 'https://www.crunchbase.com/organization/airbnb'
+            crunchbase: https://www.crunchbase.com/organization/airbnb
           - item:
             name: Alibaba (adopter)
-            homepage_url: 'https://www.alibaba.com'
+            homepage_url: https://www.alibaba.com
             logo: alibaba.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            crunchbase: https://www.crunchbase.com/organization/alibaba
           - item:
             name: Atlassian (adopter)
-            homepage_url: 'https://www.atlassian.com'
+            homepage_url: https://www.atlassian.com
             logo: atlassian.svg
-            crunchbase: 'https://www.crunchbase.com/organization/atlassian'
+            crunchbase: https://www.crunchbase.com/organization/atlassian
           - item:
             name: Audi (adopter)
-            homepage_url: 'https://www.audi.com/en.html'
+            homepage_url: https://www.audi.com/en.html
             logo: audi.svg
-            twitter: 'https://twitter.com/audi'
-            crunchbase: 'https://www.crunchbase.com/organization/audi'
+            twitter: https://twitter.com/audi
+            crunchbase: https://www.crunchbase.com/organization/audi
           - item:
             name: AWS (adopter)
-            homepage_url: 'https://www.amazon.com'
+            homepage_url: https://www.amazon.com
             logo: amazon-web-services.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: Bloomberg (adopter)
-            homepage_url: 'https://www.bloomberg.com/tosv2.html'
+            homepage_url: https://www.bloomberg.com/tosv2.html
             logo: bloomberg.svg
-            twitter: 'https://twitter.com/TechAtBloomberg'
-            crunchbase: 'https://www.crunchbase.com/organization/bloomberg'
+            twitter: https://twitter.com/TechAtBloomberg
+            crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
             name: Coursera (adopter)
-            homepage_url: 'https://www.coursera.org'
+            homepage_url: https://www.coursera.org
             logo: coursera.svg
-            crunchbase: 'https://www.crunchbase.com/organization/coursera'
+            crunchbase: https://www.crunchbase.com/organization/coursera
           - item:
             name: Credit Karma (adopter)
-            homepage_url: 'https://www.creditkarma.com'
-            logo: 'https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/credit-karma'
+            homepage_url: https://www.creditkarma.com
+            logo: https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg
+            crunchbase: https://www.crunchbase.com/organization/credit-karma
           - item:
             name: Facebook (adopter)
-            homepage_url: 'https://m.facebook.com'
+            homepage_url: https://m.facebook.com
             logo: facebook.svg
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: GitHub (adopter)
-            homepage_url: 'https://github.com/'
+            homepage_url: https://github.com/
             logo: github.svg
-            crunchbase: 'https://www.crunchbase.com/organization/github'
+            crunchbase: https://www.crunchbase.com/organization/github
           - item:
             name: Intuit (adopter)
-            homepage_url: 'https://www.intuit.com/'
+            homepage_url: https://www.intuit.com/
             logo: intuit.svg
-            twitter: 'https://twitter.com/intuit'
-            crunchbase: 'https://www.crunchbase.com/organization/intuit'
+            twitter: https://twitter.com/intuit
+            crunchbase: https://www.crunchbase.com/organization/intuit
           - item:
             name: Lyft (adopter)
-            homepage_url: 'https://www.lyft.com'
+            homepage_url: https://www.lyft.com
             logo: lyft.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+            crunchbase: https://www.crunchbase.com/organization/lyft
           - item:
             name: NASDAQ (adopter)
-            homepage_url: 'https://nasdaq.com/'
+            homepage_url: https://nasdaq.com/
             logo: nasdaq.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nasdaq'
+            crunchbase: https://www.crunchbase.com/organization/nasdaq
           - item:
             name: Netflix (adopter)
-            homepage_url: 'https://netflix.com/'
+            homepage_url: https://netflix.com/
             logo: netflix.svg
-            crunchbase: 'https://www.crunchbase.com/organization/netflix'
+            crunchbase: https://www.crunchbase.com/organization/netflix
           - item:
             name: Pinterest (adopter)
-            homepage_url: 'https://www.pinterest.com/'
+            homepage_url: https://www.pinterest.com/
             logo: pinterest.svg
-            twitter: 'https://twitter.com/pinterest'
-            crunchbase: 'https://www.crunchbase.com/organization/pinterest'
+            twitter: https://twitter.com/pinterest
+            crunchbase: https://www.crunchbase.com/organization/pinterest
           - item:
             name: Rakuten (adopter)
-            homepage_url: 'https://www.rakuten.com/'
+            homepage_url: https://www.rakuten.com/
             logo: rakuten.svg
-            twitter: 'https://twitter.com/rakuten'
-            crunchbase: 'https://www.crunchbase.com/organization/rakuten'
+            twitter: https://twitter.com/rakuten
+            crunchbase: https://www.crunchbase.com/organization/rakuten
           - item:
             name: Shopify (adopter)
-            homepage_url: 'https://www.shopify.com/'
+            homepage_url: https://www.shopify.com/
             logo: shopify.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shopify'
+            crunchbase: https://www.crunchbase.com/organization/shopify
           - item:
             name: Slack (adopter)
-            homepage_url: 'https://slack.com/intl/en-hk'
+            homepage_url: https://slack.com/intl/en-hk
             logo: slack.svg
-            crunchbase: 'https://www.crunchbase.com/organization/slack'
+            crunchbase: https://www.crunchbase.com/organization/slack
           - item:
             name: The New York Times (adopter)
-            homepage_url: 'https://www.nytco.com/'
-            logo: 'https://landscape.cncf.io/logos/the-new-york-times-supporter.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/newyorktimes'
+            homepage_url: https://www.nytco.com/
+            logo: https://landscape.cncf.io/logos/the-new-york-times-supporter.svg
+            crunchbase: https://www.crunchbase.com/organization/newyorktimes
           - item:
             name: Twitter (adopter)
-            homepage_url: 'https://twitter.com/'
+            homepage_url: https://twitter.com/
             logo: twitter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/twitter'
+            crunchbase: https://www.crunchbase.com/organization/twitter
           - item:
             name: Uber (adopter)
-            homepage_url: 'https://www.uber.com/hk/zh-hk'
+            homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: https://www.crunchbase.com/organization/uber
           - item:
             name: Wayfair (adopter)
-            homepage_url: 'https://www.wayfair.com/v/captcha/show'
+            homepage_url: https://www.wayfair.com/v/captcha/show
             logo: wayfair.svg
-            crunchbase: 'https://www.crunchbase.com/organization/wayfair'
+            crunchbase: https://www.crunchbase.com/organization/wayfair
           - item:
             name: Yahoo Japan (adopter)
-            homepage_url: 'https://www.yahoo.jp/'
+            homepage_url: https://www.yahoo.jp/
             logo: yahoo.svg
-            crunchbase: 'https://www.crunchbase.com/organization/yahoo-japan'
+            crunchbase: https://www.crunchbase.com/organization/yahoo-japan
           - item:
             name: Yelp (adopter)
-            homepage_url: 'https://www.yelp.com/'
+            homepage_url: https://www.yelp.com/
             logo: yelp.svg
-            twitter: 'https://twitter.com/yelp'
-            crunchbase: 'https://www.crunchbase.com/organization/yelp'
+            twitter: https://twitter.com/yelp
+            crunchbase: https://www.crunchbase.com/organization/yelp

@@ -2,16 +2,16 @@ global:
   name: Presto Landscape
   short_name: Presto
   repo: prestodb/presto-landscape
-  website: 'https://landscape.prestodb.io'
+  website: https://landscape.prestodb.io
   short_domain: l.prestodb.io
-  company_url: 'https://prestodb.io'
+  company_url: https://prestodb.io
   email: info@graphql.foundation
-  self: 'https://www.crunchbase.com/organization/presto-foundation'
+  self: https://www.crunchbase.com/organization/presto-foundation
   slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
   meta:
     title: Presto Landscape
     fb_admin: alex.contini.94
-    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
+    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@prestodb'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
@@ -23,7 +23,7 @@ global:
       - Presto Foundation Member
 twitter:
   search: landscape.prestodb.io
-  url: 'https://landscape.prestodb.io'
+  url: https://landscape.prestodb.io
   text: Presto Landscape
 relation:
   label: Presto Relation
@@ -39,7 +39,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: Presto Foundation Project
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
     - id: company
       label: Presto Foundation Member
       tag: Company
@@ -60,7 +60,7 @@ membership:
     name: LF
     label: Project
     funding: Linux Foundation
-    crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
+    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
   'false':
     funding: 'No'
 home:
@@ -71,7 +71,7 @@ home:
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: 'https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=graphql_landscape&utm_medium=web&utm_campaign=kccnceu20'
+  - url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/?utm_source=graphql_landscape&utm_medium=web&utm_campaign=kccnceu20
     image: /images/info1.jpg
     title: Kubecon + CloudNativeCon Europe 2020
 presets:
@@ -102,7 +102,7 @@ big_picture:
         height: 120
         top: 0
         left: 0
-        color: 'rgb(4,81,49)'
+        color: rgb(4,81,49)
         fit_width: true
       - type: HorizontalCategory
         category: Services
@@ -111,7 +111,7 @@ big_picture:
         height: 120
         top: 0
         left: 645
-        color: 'rgb(79,121,13)'
+        color: rgb(79,121,13)
         fit_width: true
       - type: HorizontalCategory
         category: Presto Adopter
@@ -120,7 +120,7 @@ big_picture:
         height: 180
         top: 140
         left: 0
-        color: 'rgb(126,115,14)'
+        color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: Presto Foundation Member
@@ -129,7 +129,7 @@ big_picture:
         height: 160
         top: 340
         left: 0
-        color: 'rgb(103,66,18)'
+        color: rgb(103,66,18)
         fit_width: true
       - type: LandscapeInfo
         width: 310
