@@ -32,7 +32,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -58,18 +58,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -109,7 +109,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -135,18 +135,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -183,7 +183,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -209,18 +209,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -257,7 +257,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -283,18 +283,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -331,7 +331,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -357,18 +357,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -817,7 +817,7 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 0;0;2;0;4;0;0;10;0;4;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0
+              contributions: 0;0;2;0;4;0;1;9;0;4;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0
               firstWeek: 2020-02-09Z
               stars: 6
               license: Apache License 2.0
@@ -835,7 +835,7 @@ landscape:
               start_commit_link: /IBM/presto-db2/commit/f6aa7f007c81d3f2cc415f385dbf4186c1bbb6b6
               start_date: '2016-01-06T05:01:18Z'
             yahoo_finance_data:
-              market_cap: 106142711808
+              market_cap: 107835719680
               effective_ticker: IBM
             image_data:
               fileName: ibm-db2-connector.svg
@@ -844,7 +844,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T03:16:32.000Z
+              latest_tweet_date: 2021-02-04T20:00:29.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -870,7 +870,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -896,18 +896,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -944,7 +944,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -970,18 +970,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1018,7 +1018,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 43915986
+                  value: 43917956
                   color: '#b07219'
                 - name: JavaScript
                   value: 216914
@@ -1044,18 +1044,18 @@ landscape:
                   value: 6626
                   color: '#427819'
               contributions: >-
-                40;27;66;61;29;23;19;35;40;50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;32;31;23;25;22;45;26;24;27;29;24;24;15;24;13;6;17;25;19;4;6;10;4;9;6
+                32;33;68;56;22;24;24;33;34;57;33;28;37;54;20;16;35;105;51;29;82;45;32;32;84;46;46;30;29;21;24;30;37;29;31;19;29;23;27;14;22;11;8;17;28;16;2;8;8;5;8;7
               firstWeek: 2020-02-09Z
-              stars: 11650
+              stars: 11655
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-02-03T23:41:33Z'
-              latest_commit_link: /prestodb/presto/commit/d401553d037e94df556f0b1b352c4966ffc1e544
+              latest_commit_date: '2021-02-04T18:39:30Z'
+              latest_commit_link: /prestodb/presto/commit/00b465cff52848fdabb2d1034ed2ce9dc6672ab4
               contributors_count: 543
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11650
+                stars: 11655
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1111,7 +1111,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1662065311744
+              market_cap: 1677375045632
               effective_ticker: AMZN
             image_data:
               fileName: aws-athena.svg
@@ -1120,7 +1120,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T01:23:35.000Z
+              latest_tweet_date: 2021-02-05T02:03:33.000Z
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -1255,7 +1255,7 @@ landscape:
               stockExchange: hkg
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 738867344324
+              market_cap: 720467578471
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1264,7 +1264,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-02T13:10:00.000Z
+              latest_tweet_date: 2021-02-05T03:05:01.000Z
           - item:
             name: Alluxio (member)
             homepage_url: https://aws.amazon.com/
@@ -1509,7 +1509,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 759331160064
+              market_cap: 758875553792
               effective_ticker: FB
             image_data:
               fileName: facebook-member.svg
@@ -1518,7 +1518,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T21:27:40.000Z
+              latest_tweet_date: 2021-02-04T14:28:32.000Z
           - item:
             name: Twitter (member)
             homepage_url: https://twitter.com/
@@ -1675,7 +1675,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43410206720
+              market_cap: 44945227776
               effective_ticker: TWTR
             image_data:
               fileName: twitter-member.svg
@@ -1684,7 +1684,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T16:57:48.000Z
+              latest_tweet_date: 2021-02-04T20:58:18.000Z
           - item:
             name: Uber (member)
             homepage_url: https://www.uber.com/hk/zh-hk
@@ -1739,7 +1739,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 105747398656
+              market_cap: 107098865664
               effective_ticker: UBER
             image_data:
               fileName: uber-member.svg
@@ -1748,7 +1748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T17:59:15.000Z
+              latest_tweet_date: 2021-02-05T01:55:12.000Z
   - category:
     name: Presto Adopter
     subcategories:
@@ -1823,7 +1823,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 110958043136
+              market_cap: 116980318208
               effective_ticker: ABNB
             image_data:
               fileName: airbnb-adopter.svg
@@ -1832,7 +1832,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T22:15:00.000Z
+              latest_tweet_date: 2021-02-04T23:55:52.000Z
           - item:
             name: Alibaba (adopter)
             homepage_url: https://www.alibaba.com
@@ -1932,7 +1932,7 @@ landscape:
               stockExchange: hkg
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 738867344324
+              market_cap: 720467578471
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -1941,7 +1941,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-02T13:10:00.000Z
+              latest_tweet_date: 2021-02-05T03:05:01.000Z
           - item:
             name: Atlassian (adopter)
             homepage_url: https://www.atlassian.com
@@ -2000,7 +2000,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 61012627456
+              market_cap: 60264943616
               effective_ticker: TEAM
             image_data:
               fileName: atlassian-adopter.svg
@@ -2009,7 +2009,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T21:50:04.000Z
+              latest_tweet_date: 2021-02-04T22:49:53.000Z
           - item:
             name: Audi (adopter)
             homepage_url: https://www.audi.com/en.html
@@ -2039,7 +2039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T22:31:38.000Z
+              latest_tweet_date: 2021-02-04T20:08:04.000Z
           - item:
             name: AWS (adopter)
             homepage_url: https://www.amazon.com
@@ -2078,7 +2078,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1662065311744
+              market_cap: 1677375045632
               effective_ticker: AMZN
             image_data:
               fileName: aws-adopter.svg
@@ -2087,7 +2087,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T01:23:35.000Z
+              latest_tweet_date: 2021-02-05T02:03:33.000Z
           - item:
             name: Bloomberg (adopter)
             homepage_url: https://www.bloomberg.com/tosv2.html
@@ -2133,7 +2133,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T18:54:22.000Z
+              latest_tweet_date: 2021-02-04T18:30:06.000Z
           - item:
             name: Coursera (adopter)
             homepage_url: https://www.coursera.org
@@ -2164,7 +2164,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T21:49:40.000Z
+              latest_tweet_date: 2021-02-04T17:14:36.000Z
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
@@ -2209,7 +2209,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T00:55:40.000Z
+              latest_tweet_date: 2021-02-05T01:38:34.000Z
           - item:
             name: Facebook (adopter)
             homepage_url: https://m.facebook.com
@@ -2425,7 +2425,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 759331160064
+              market_cap: 758875553792
               effective_ticker: FB
             image_data:
               fileName: facebook-adopter.svg
@@ -2434,7 +2434,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T21:27:40.000Z
+              latest_tweet_date: 2021-02-04T14:28:32.000Z
           - item:
             name: GitHub (adopter)
             homepage_url: https://github.com/
@@ -2475,7 +2475,7 @@ landscape:
               stockExchange: null
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1832759459840
+              market_cap: 1825292550144
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -2484,7 +2484,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T23:01:03.000Z
+              latest_tweet_date: 2021-02-04T22:00:14.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: https://www.intuit.com/
@@ -2582,7 +2582,7 @@ landscape:
               stockExchange: vie
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 104448773527
+              market_cap: 106030805657
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -2591,7 +2591,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T21:17:08.000Z
+              latest_tweet_date: 2021-02-05T00:09:35.000Z
           - item:
             name: Lyft (adopter)
             homepage_url: https://www.lyft.com
@@ -2637,7 +2637,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15688811520
+              market_cap: 16438166528
               effective_ticker: LYFT
             image_data:
               fileName: lyft-adopter.svg
@@ -2646,7 +2646,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T03:20:30.000Z
+              latest_tweet_date: 2021-02-04T06:06:28.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -2699,7 +2699,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 23350917120
+              market_cap: 23582521344
               effective_ticker: NDAQ
             image_data:
               fileName: nasdaq-adopter.svg
@@ -2708,7 +2708,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T22:55:20.000Z
+              latest_tweet_date: 2021-02-04T23:31:18.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -2736,7 +2736,7 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 238919712768
+              market_cap: 244548894720
               effective_ticker: NFLX
             image_data:
               fileName: netflix-adopter.svg
@@ -2745,7 +2745,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T02:40:02.000Z
+              latest_tweet_date: 2021-02-05T01:51:54.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -2802,7 +2802,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 47677919232
+              market_cap: 48110567424
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -2909,7 +2909,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14005112621
+              market_cap: 14198947166
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -2918,7 +2918,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T23:17:07.000Z
+              latest_tweet_date: 2021-02-05T00:48:15.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -2966,7 +2966,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 148690157568
+              market_cap: 153402490880
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -2975,7 +2975,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T21:09:09.000Z
+              latest_tweet_date: 2021-02-04T22:59:59.000Z
           - item:
             name: Slack (adopter)
             homepage_url: https://slack.com/intl/en-hk
@@ -3013,7 +3013,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24967460864
+              market_cap: 24961658880
               effective_ticker: WORK
             image_data:
               fileName: slack-adopter.svg
@@ -3022,7 +3022,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T01:15:59.000Z
+              latest_tweet_date: 2021-02-05T02:56:54.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3076,7 +3076,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8509821952
+              market_cap: 8601361408
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -3084,7 +3084,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T03:20:04.000Z
+              latest_tweet_date: 2021-02-05T03:20:04.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -3241,7 +3241,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43410206720
+              market_cap: 44945227776
               effective_ticker: TWTR
             image_data:
               fileName: twitter-adopter.svg
@@ -3250,7 +3250,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T16:57:48.000Z
+              latest_tweet_date: 2021-02-04T20:58:18.000Z
           - item:
             name: Uber (adopter)
             homepage_url: https://www.uber.com/hk/zh-hk
@@ -3305,7 +3305,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 105747398656
+              market_cap: 107098865664
               effective_ticker: UBER
             image_data:
               fileName: uber-adopter.svg
@@ -3314,7 +3314,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T17:59:15.000Z
+              latest_tweet_date: 2021-02-05T01:55:12.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -3346,7 +3346,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29334241280
+              market_cap: 30292594688
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -3355,7 +3355,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-03T23:22:44.000Z
+              latest_tweet_date: 2021-02-04T20:32:31.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.jp/
@@ -3391,7 +3391,7 @@ landscape:
               stockExchange: tyo
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30336041878
+              market_cap: 29901347184
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -3400,7 +3400,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T02:53:06.000Z
+              latest_tweet_date: 2021-02-04T22:00:08.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -3444,7 +3444,7 @@ landscape:
               stockExchange: nyse
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2609842432
+              market_cap: 2643215616
               effective_ticker: YELP
             image_data:
               fileName: yelp-adopter.svg
@@ -3453,7 +3453,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-04T00:10:42.000Z
+              latest_tweet_date: 2021-02-04T17:36:00.000Z
 twitter_options:
   count: 0
-updated_at: 2021-02-04T03:24:25.643Z
+updated_at: 2021-02-05T03:30:24.767Z
