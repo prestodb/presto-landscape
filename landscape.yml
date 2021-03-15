@@ -89,7 +89,7 @@ landscape:
         name: General
         items:
           - item:
-            name: Ahana (member)
+            name: Ahana Cloud (member)
             homepage_url: https://ahana.io/
             logo: ahana.svg
             crunchbase: https://www.crunchbase.com/organization/ahana
@@ -109,6 +109,16 @@ landscape:
             logo: facebook.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
+            name: Intel (member)
+            homepage_url: https://intel.com/
+            logo: intel.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Starburst (member)
+            homepage_url: https://starburstdata.com/
+            logo: starburst.svg
+            crunchbase: https://www.crunchbase.com/organization/starburst
+          - item:
             name: Twitter (member)
             homepage_url: https://twitter.com/
             logo: twitter.svg
@@ -118,6 +128,11 @@ landscape:
             homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
             crunchbase: https://www.crunchbase.com/organization/uber
+          - item:
+            name: Upsolver (member)
+            homepage_url: https://upsolver.com/
+            logo: upsolver.svg
+            crunchbase: https://www.crunchbase.com/organization/upsolver
   - category:
     name: Presto Adopter
     subcategories:
