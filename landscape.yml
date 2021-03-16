@@ -110,12 +110,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Intel (member)
-            homepage_url: https://intel.com/
+            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
             logo: intel.svg
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: Starburst (member)
-            homepage_url: https://starburstdata.com/
+            homepage_url: https://www.starburst.io
             logo: starburst.svg
             crunchbase: https://www.crunchbase.com/organization/starburst
           - item:
