@@ -47,7 +47,7 @@ landscape:
           - item:
             name: IBM DB2 Connector
             homepage_url: https://github.com/IBM/presto-db2
-            repo_url: https://github.com/IBM/presto-db2
+            repo_url: https://github.com/IBM/trino-db2
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
