@@ -29,10 +29,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -61,18 +67,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -109,10 +115,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -141,18 +153,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -186,10 +198,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -218,18 +236,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -263,10 +281,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -295,18 +319,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -340,10 +364,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -372,18 +402,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -825,6 +855,12 @@ landscape:
               parents: []
               ticker: IBM
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Business Information Systems
+                - CRM
+                - Software
               kind: market_cap
             github_data:
               languages:
@@ -834,7 +870,7 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 4;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;2;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;6;0;3;1
+              contributions: 4;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;2;0;1;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;6;0;4;0
               firstWeek: 2020-04-12Z
               stars: 7
               license: Apache License 2.0
@@ -852,7 +888,7 @@ landscape:
               start_commit_link: /IBM/presto-db2/commit/f6aa7f007c81d3f2cc415f385dbf4186c1bbb6b6
               start_date: '2016-01-06T05:01:18Z'
             yahoo_finance_data:
-              market_cap: 119938187264
+              market_cap: 120572633088
               effective_ticker: IBM
             image_data:
               fileName: ibm-db2-connector.svg
@@ -861,7 +897,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:17:08.000Z
+              latest_tweet_date: 2021-04-07T22:38:10.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -884,10 +920,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -916,18 +958,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -961,10 +1003,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -993,18 +1041,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1038,10 +1086,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Big Data
+                - Database
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Java
-                  value: 44542992
+                  value: 44548555
                   color: '#b07219'
                 - name: JavaScript
                   value: 216912
@@ -1070,18 +1124,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                47;34;26;30;56;33;14;18;117;39;41;71;43;47;26;75;53;50;34;29;23;26;25;42;28;25;27;31;22;30;15;21;15;11;16;15;29;6;12;11;8;12;21;17;8;11;14;18;16;8;17;11
+                50;36;31;23;55;34;11;18;118;45;36;79;42;40;32;81;47;46;33;31;23;26;22;45;26;24;28;30;25;24;15;25;16;6;17;26;19;7;12;11;6;15;19;16;8;12;14;19;14;10;17;9
               firstWeek: 2020-04-12Z
-              stars: 11870
+              stars: 11875
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-04-06T15:19:05Z'
-              latest_commit_link: /prestodb/presto/commit/a2ef578bb57a082cd3d1bd57bfc3b1ec5b2ef653
+              latest_commit_date: '2021-04-08T02:14:33Z'
+              latest_commit_link: /prestodb/presto/commit/75b31659dc25bb5dd58c07fb278db2f139c41989
               contributors_count: 555
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 11870
+                stars: 11875
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1135,9 +1189,15 @@ landscape:
               ticker: AMZN
               funding: 108000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1623402872832
+              market_cap: 1651385958400
               effective_ticker: AMZN
             image_data:
               fileName: aws-athena.svg
@@ -1146,7 +1206,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:56:43.000Z
+              latest_tweet_date: 2021-04-07T15:04:40.000Z
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -1173,6 +1233,9 @@ landscape:
               parents: []
               funding: 4800000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
               kind: funding
             image_data:
               fileName: ahana-cloud-member.svg
@@ -1181,7 +1244,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:16:00.000Z
+              latest_tweet_date: 2021-04-08T04:13:41.000Z
           - item:
             name: Alibaba (member)
             homepage_url: https://www.alibaba.com
@@ -1282,9 +1345,18 @@ landscape:
               ticker: 9988.HK
               funding: 8907000000
               stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Association
+                - B2B
+                - E-Commerce
+                - Information Technology
+                - Infrastructure
+                - Internet
+                - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 620676762682
+              market_cap: 624468438330
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1293,7 +1365,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T17:27:47.000Z
+              latest_tweet_date: 2021-04-08T04:48:05.000Z
           - item:
             name: Alluxio (member)
             homepage_url: https://aws.amazon.com/
@@ -1314,6 +1386,10 @@ landscape:
               parents: []
               funding: 23000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
+                - Software
               kind: funding
             image_data:
               fileName: alluxio-member.svg
@@ -1538,9 +1614,16 @@ landscape:
               ticker: FB
               funding: 16122817488
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Photo Sharing
+                - Social
+                - Social Media
+                - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 872127463424
+              market_cap: 891576975360
               effective_ticker: FB
             image_data:
               fileName: facebook-member.svg
@@ -1549,7 +1632,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:14:48.000Z
+              latest_tweet_date: 2021-04-07T19:53:19.000Z
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -1805,9 +1888,16 @@ landscape:
               ticker: INTC
               funding: 12510000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Information Technology
+                - Manufacturing
+                - Product Design
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 266983260160
+              market_cap: 269793181696
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -1816,7 +1906,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:56:29.000Z
+              latest_tweet_date: 2021-04-07T16:00:01.000Z
           - item:
             name: Starburst (member)
             homepage_url: https://www.starburst.io
@@ -1837,6 +1927,12 @@ landscape:
               parents: []
               funding: 164000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Big Data
+                - Information Technology
+                - Open Source
               kind: funding
             image_data:
               fileName: starburst-member.svg
@@ -2064,9 +2160,16 @@ landscape:
               ticker: UBER
               funding: 25212450000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Mobile Apps
+                - Public Transportation
+                - Ride Sharing
+                - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 108025823232
+              market_cap: 105867165696
               effective_ticker: UBER
             image_data:
               fileName: uber-member.svg
@@ -2075,7 +2178,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:52:16.000Z
+              latest_tweet_date: 2021-04-08T03:58:16.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2083,7 +2186,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/upsolver
             crunchbase_data:
               name: Upsolver
-              description: Upsolver manages, integrates, and structures streaming data for analysis at unprecedented ease.
+              description: Upsolver provides a no-code data lake engineering platform designed for agile cloud analytics.
               num_employees_min: 11
               num_employees_max: 50
               homepage: http://upsolver.com/
@@ -2096,6 +2199,13 @@ landscape:
               parents: []
               funding: 42040000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Big Data
+                - Cloud Data Services
+                - Data Integration
+                - Database
               kind: funding
             image_data:
               fileName: upsolver-member.svg
@@ -2179,9 +2289,15 @@ landscape:
               ticker: ABNB
               funding: 5950282100
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Hospitality
+                - Marketplace
+                - Mobile Apps
+                - Travel Accommodations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 115620904960
+              market_cap: 109481795584
               effective_ticker: ABNB
             image_data:
               fileName: airbnb-adopter.svg
@@ -2291,9 +2407,18 @@ landscape:
               ticker: 9988.HK
               funding: 8907000000
               stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Association
+                - B2B
+                - E-Commerce
+                - Information Technology
+                - Infrastructure
+                - Internet
+                - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 620676762682
+              market_cap: 624468438330
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -2302,7 +2427,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T17:27:47.000Z
+              latest_tweet_date: 2021-04-08T04:48:05.000Z
           - item:
             name: Atlassian (adopter)
             homepage_url: https://www.atlassian.com
@@ -2361,9 +2486,15 @@ landscape:
               ticker: TEAM
               funding: 210000000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - SaaS
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 55796334592
+              market_cap: 54420996096
               effective_ticker: TEAM
             image_data:
               fileName: atlassian-adopter.svg
@@ -2372,7 +2503,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:20:01.000Z
+              latest_tweet_date: 2021-04-08T00:30:11.000Z
           - item:
             name: Audi (adopter)
             homepage_url: https://www.audi.com/en.html
@@ -2395,6 +2526,12 @@ landscape:
                   acquiree: Silvercar
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Autonomous Vehicles
+                - Electric Vehicle
+                - Manufacturing
             image_data:
               fileName: audi-adopter.svg
               hash: t+YKLQyF6VFd7RP7wq8aP41a7zHDEMLLf3CXaGcObyY=
@@ -2402,7 +2539,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:05:26.000Z
+              latest_tweet_date: 2021-04-07T16:49:19.000Z
           - item:
             name: AWS (adopter)
             homepage_url: https://www.amazon.com
@@ -2439,9 +2576,15 @@ landscape:
               ticker: AMZN
               funding: 108000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1623402872832
+              market_cap: 1651385958400
               effective_ticker: AMZN
             image_data:
               fileName: aws-adopter.svg
@@ -2450,7 +2593,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:56:43.000Z
+              latest_tweet_date: 2021-04-07T15:04:40.000Z
           - item:
             name: Bloomberg (adopter)
             homepage_url: https://www.bloomberg.com/tosv2.html
@@ -2489,6 +2632,12 @@ landscape:
                   acquiree: Second Measure
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Business Information Systems
+                - Business Intelligence
+                - News
             image_data:
               fileName: bloomberg-adopter.svg
               hash: 6+R73ML1j0A9hyIQIj4ZCkdsnY7ikiHHptSJEC+GKJw=
@@ -2496,7 +2645,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:20:04.000Z
+              latest_tweet_date: 2021-04-07T23:15:04.000Z
           - item:
             name: Coursera (adopter)
             homepage_url: https://www.coursera.org
@@ -2520,9 +2669,15 @@ landscape:
               ticker: COUR
               funding: 443100000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - E-Learning
+                - EdTech
+                - Education
+                - Internet
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7325138432
+              market_cap: 7555718144
               effective_ticker: COUR
             image_data:
               fileName: coursera-adopter.svg
@@ -2531,7 +2686,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:55:42.000Z
+              latest_tweet_date: 2021-04-07T19:26:12.000Z
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
@@ -2569,6 +2724,13 @@ landscape:
               parents: []
               funding: 868000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Credit
+                - FinTech
+                - Finance
+                - Financial Services
+                - Personal Finance
               kind: funding
             image_data:
               fileName: credit-karma-adopter.svg
@@ -2576,7 +2738,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:33:21.000Z
+              latest_tweet_date: 2021-04-07T22:32:17.000Z
           - item:
             name: Facebook (adopter)
             homepage_url: https://m.facebook.com
@@ -2792,9 +2954,16 @@ landscape:
               ticker: FB
               funding: 16122817488
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Photo Sharing
+                - Social
+                - Social Media
+                - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 872127463424
+              market_cap: 891576975360
               effective_ticker: FB
             image_data:
               fileName: facebook-adopter.svg
@@ -2803,7 +2972,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:14:48.000Z
+              latest_tweet_date: 2021-04-07T19:53:19.000Z
           - item:
             name: GitHub (adopter)
             homepage_url: https://github.com/
@@ -2842,9 +3011,16 @@ landscape:
               ticker: MSFT
               funding: 350000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Developer Tools
+                - Internet
+                - Project Management
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1869414662144
+              market_cap: 1884800679936
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -2853,7 +3029,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:31:41.000Z
+              latest_tweet_date: 2021-04-07T19:07:01.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: https://www.intuit.com/
@@ -2949,9 +3125,15 @@ landscape:
               ticker: INTU.VI
               funding: 18851000
               stockExchange: vie
+              company_type: For Profit
+              industries:
+                - Accounting
+                - FinTech
+                - PaaS
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 112013091811
+              market_cap: 109194493128
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -2960,7 +3142,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:08:30.000Z
+              latest_tweet_date: 2021-04-07T20:38:04.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3011,9 +3193,14 @@ landscape:
               parents: []
               ticker: NDAQ
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Financial Services
+                - Stock Exchanges
+                - Trading Platform
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 25157758976
+              market_cap: 24847941632
               effective_ticker: NDAQ
             image_data:
               fileName: nasdaq-adopter.svg
@@ -3022,7 +3209,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:33:46.000Z
+              latest_tweet_date: 2021-04-07T21:58:50.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3048,9 +3235,15 @@ landscape:
               ticker: NFLX
               funding: 3155048526
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Digital Entertainment
+                - Media and Entertainment
+                - TV
+                - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 241169629184
+              market_cap: 242259132416
               effective_ticker: NFLX
             image_data:
               fileName: netflix-adopter.svg
@@ -3059,7 +3252,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:36:53.000Z
+              latest_tweet_date: 2021-04-07T22:07:07.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3114,9 +3307,16 @@ landscape:
               ticker: PINS
               funding: 1486100000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Internet
+                - Social Bookmarking
+                - Social Media
+                - Social Network
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 52349014016
+              market_cap: 52669558784
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -3125,7 +3325,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:53:11.000Z
+              latest_tweet_date: 2021-04-07T17:19:36.000Z
           - item:
             name: Rakuten (adopter)
             homepage_url: https://www.rakuten.com/
@@ -3221,9 +3421,16 @@ landscape:
               ticker: 4755.T
               funding: 2262583516
               stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Electronics
+                - FinTech
+                - Internet
+                - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18005147588
+              market_cap: 17919097735
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -3232,7 +3439,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:12:10.000Z
+              latest_tweet_date: 2021-04-07T20:19:48.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3278,9 +3485,15 @@ landscape:
               ticker: SHOP
               funding: 122250000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - E-Commerce Platforms
+                - Enterprise Software
+                - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 142446854144
+              market_cap: 142712209408
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -3289,7 +3502,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T13:52:06.000Z
+              latest_tweet_date: 2021-04-08T01:11:06.000Z
           - item:
             name: Slack (adopter)
             homepage_url: https://slack.com/intl/en-hk
@@ -3325,9 +3538,15 @@ landscape:
               ticker: WORK
               funding: 1391100000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - Messaging
+                - Productivity Tools
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24086001664
+              market_cap: 24138348544
               effective_ticker: WORK
             image_data:
               fileName: slack-adopter.svg
@@ -3336,7 +3555,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T06:33:42.000Z
+              latest_tweet_date: 2021-04-08T03:53:55.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3388,9 +3607,15 @@ landscape:
               ticker: NYT
               funding: 250000000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Advertising
+                - Internet
+                - News
+                - Publishing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8368751104
+              market_cap: 8273561600
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -3398,7 +3623,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T06:00:08.000Z
+              latest_tweet_date: 2021-04-08T06:30:09.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -3617,9 +3842,16 @@ landscape:
               ticker: UBER
               funding: 25212450000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Mobile Apps
+                - Public Transportation
+                - Ride Sharing
+                - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 108025823232
+              market_cap: 105867165696
               effective_ticker: UBER
             image_data:
               fileName: uber-adopter.svg
@@ -3628,7 +3860,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T05:52:16.000Z
+              latest_tweet_date: 2021-04-08T03:58:16.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -3658,9 +3890,15 @@ landscape:
               ticker: W
               funding: 1678000000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Furniture
+                - Home Decor
+                - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 35175280640
+              market_cap: 33803120640
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -3669,7 +3907,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:44:22.000Z
+              latest_tweet_date: 2021-04-07T21:48:51.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -3700,9 +3938,14 @@ landscape:
               parents: []
               ticker: 4689.T
               stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Auctions
+                - Internet
+                - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24203701117
+              market_cap: 23926003264
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -3711,7 +3954,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:11:53.000Z
+              latest_tweet_date: 2021-04-07T22:00:02.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -3753,9 +3996,15 @@ landscape:
               ticker: YELP
               funding: 56000000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Apps
+                - Internet
+                - Mobile
+                - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 3058662912
+              market_cap: 3040679680
               effective_ticker: YELP
             image_data:
               fileName: yelp-adopter.svg
@@ -3764,7 +4013,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T21:44:33.000Z
+              latest_tweet_date: 2021-04-07T15:52:48.000Z
 twitter_options:
   count: 0
-updated_at: 2021-04-07T06:44:46.046Z
+updated_at: 2021-04-08T06:41:29.829Z
