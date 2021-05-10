@@ -67,7 +67,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -153,7 +153,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -236,7 +236,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -319,7 +319,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -402,7 +402,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -875,7 +875,7 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;3;3;0;4;0;1;1;1;2
+              contributions: 0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;5;1;0;4;0;1;1;1;2
               firstWeek: 2020-05-17Z
               stars: 7
               license: Apache License 2.0
@@ -902,7 +902,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T11:52:32.000Z
+              latest_tweet_date: 2021-05-09T16:43:40.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -963,7 +963,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -1046,7 +1046,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -1129,7 +1129,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;21;16;64;78;50;28;76;58;27;32;87;45;46;27;25;24;29;26;42;24;30;23;30;24;22;20;20;11;15;14;27;17;4;15;11;5;20;21;11;10;15;16;23;5;20;30;12;18;15;15;6
+                44;20;16;73;69;53;68;34;57;28;31;87;48;45;28;22;24;30;26;43;25;28;23;30;23;22;21;20;10;15;16;25;17;6;13;11;5;20;21;11;11;14;17;22;7;21;27;12;18;15;15;7
               firstWeek: 2020-05-17Z
               stars: 11984
               license: Apache License 2.0
@@ -1249,7 +1249,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T16:29:00.000Z
+              latest_tweet_date: 2021-05-09T19:22:00.000Z
           - item:
             name: Alibaba (member)
             homepage_url: https://www.alibaba.com
@@ -1361,7 +1361,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 614201262274
+              market_cap: 600139043057
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -2183,7 +2183,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T17:05:25.000Z
+              latest_tweet_date: 2021-05-09T15:55:36.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2424,7 +2424,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 614201262274
+              market_cap: 600139043057
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -2511,7 +2511,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-07T15:34:06.000Z
+              latest_tweet_date: 2021-05-10T03:41:47.000Z
           - item:
             name: Audi (adopter)
             homepage_url: https://www.audi.com/en.html
@@ -2653,7 +2653,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-07T16:15:04.000Z
+              latest_tweet_date: 2021-05-10T05:00:04.000Z
           - item:
             name: Coursera (adopter)
             homepage_url: https://www.coursera.org
@@ -2694,7 +2694,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T17:14:07.000Z
+              latest_tweet_date: 2021-05-09T14:28:00.000Z
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
@@ -3141,7 +3141,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 110712057663
+              market_cap: 110671673911
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -3150,7 +3150,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T18:34:40.000Z
+              latest_tweet_date: 2021-05-09T15:07:37.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3217,7 +3217,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T21:58:41.000Z
+              latest_tweet_date: 2021-05-09T21:58:51.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3260,7 +3260,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T19:03:25.000Z
+              latest_tweet_date: 2021-05-09T23:09:47.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3440,7 +3440,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18453514177
+              market_cap: 18415028801
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -3449,7 +3449,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-09T00:02:08.000Z
+              latest_tweet_date: 2021-05-10T02:54:15.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3567,7 +3567,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T20:51:33.000Z
+              latest_tweet_date: 2021-05-10T02:23:29.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3635,7 +3635,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-09T06:40:03.000Z
+              latest_tweet_date: 2021-05-10T06:00:05.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -3872,7 +3872,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T17:05:25.000Z
+              latest_tweet_date: 2021-05-09T15:55:36.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -3964,7 +3964,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21303371872
+              market_cap: 20792332627
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -3973,7 +3973,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T22:00:03.000Z
+              latest_tweet_date: 2021-05-09T22:00:07.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4032,7 +4032,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-08T18:57:50.000Z
+              latest_tweet_date: 2021-05-09T19:20:05.000Z
 twitter_options:
   count: 0
-updated_at: 2021-05-09T06:48:07.124Z
+updated_at: 2021-05-10T06:37:22.786Z
