@@ -179,7 +179,7 @@ landscape:
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
-            logo: https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg
+            logo: credit-karma-adopter.svg
             crunchbase: https://www.crunchbase.com/organization/credit-karma
           - item:
             name: Facebook (adopter)
@@ -232,7 +232,7 @@ landscape:
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
-            logo: https://landscape.cncf.io/logos/the-new-york-times-supporter.svg
+            logo: the-new-york-times-adopter.svg
             crunchbase: https://www.crunchbase.com/organization/newyorktimes
           - item:
             name: Twitter (adopter)

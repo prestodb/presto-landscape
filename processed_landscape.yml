@@ -2701,7 +2701,7 @@ landscape:
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
-            logo: https://blog.creditkarma.com/wp-content/themes/creditkarma-pr/assets/svg/logo.svg
+            logo: credit-karma-adopter.svg
             crunchbase: https://www.crunchbase.com/organization/credit-karma
             crunchbase_data:
               name: Credit Karma
@@ -2745,6 +2745,7 @@ landscape:
               kind: funding
             image_data:
               fileName: credit-karma-adopter.svg
+              hash: R5PTKuWN2TGL+gxgsPaS8DAUVh33SaejBIWlHdrHOkI=
             best_practice_data:
               badge: false
               percentage: null
@@ -3574,7 +3575,7 @@ landscape:
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
-            logo: https://landscape.cncf.io/logos/the-new-york-times-supporter.svg
+            logo: the-new-york-times-adopter.svg
             crunchbase: https://www.crunchbase.com/organization/newyorktimes
             crunchbase_data:
               name: The New York Times
@@ -3634,6 +3635,7 @@ landscape:
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
+              hash: bm7vbzP6djjagrWJUYP/8eUONVKOYU0Rt2/c22ntOHA=
             best_practice_data:
               badge: false
               percentage: null
