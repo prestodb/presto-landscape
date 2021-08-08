@@ -67,8 +67,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -153,8 +153,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -236,8 +236,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -319,8 +319,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -402,8 +402,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -885,8 +885,8 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 1;0;0;0;0;0;0;0;2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;6;0;4;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0
-              firstWeek: 2020-08-09Z
+              contributions: 1;0;0;0;0;0;0;0;2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;3;3;0;4;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0
+              firstWeek: 2020-08-16Z
               stars: 9
               license: Apache License 2.0
               description: Db2 JDBC connector for Trino
@@ -912,7 +912,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T20:09:19.000Z
+              latest_tweet_date: 2021-08-08T00:23:18.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -973,8 +973,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -1056,8 +1056,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -1139,8 +1139,8 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                45;30;26;23;26;31;41;26;30;23;27;27;20;22;19;15;15;12;30;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;21;30;30;30;24;21;29;21;24;17;10;15;7;17
-              firstWeek: 2020-08-09Z
+                46;27;25;24;29;28;42;24;30;23;30;24;22;20;20;14;15;14;28;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;15;22;21;27;23;29;32;27;26;19;30;21;24;16;12;14;6;17
+              firstWeek: 2020-08-16Z
               stars: 12284
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
@@ -2199,7 +2199,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-07T04:17:41.000Z
+              latest_tweet_date: 2021-08-07T19:16:29.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2529,7 +2529,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T21:33:00.000Z
+              latest_tweet_date: 2021-08-07T18:32:00.000Z
           - item:
             name: Audi (adopter)
             homepage_url: https://www.audi.com/en.html
@@ -2565,7 +2565,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T21:32:02.000Z
+              latest_tweet_date: 2021-08-07T15:11:26.000Z
           - item:
             name: AWS (adopter)
             homepage_url: https://www.amazon.com
@@ -3173,7 +3173,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 146655399565
+              market_cap: 145895660349
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -3251,7 +3251,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T20:37:17.000Z
+              latest_tweet_date: 2021-08-07T22:00:01.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3294,7 +3294,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T23:35:31.000Z
+              latest_tweet_date: 2021-08-08T06:33:48.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3486,7 +3486,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-07T00:44:05.000Z
+              latest_tweet_date: 2021-08-08T00:13:55.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3542,7 +3542,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 190505926656
+              market_cap: 191131205632
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -3606,7 +3606,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T23:58:32.000Z
+              latest_tweet_date: 2021-08-07T20:53:32.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3675,7 +3675,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-07T08:00:07.000Z
+              latest_tweet_date: 2021-08-08T07:40:02.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -3912,7 +3912,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-07T04:17:41.000Z
+              latest_tweet_date: 2021-08-07T19:16:29.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -3959,7 +3959,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-06T16:52:43.000Z
+              latest_tweet_date: 2021-08-07T17:44:51.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -4013,7 +4013,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-07T01:00:06.000Z
+              latest_tweet_date: 2021-08-08T01:00:06.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4075,4 +4075,4 @@ landscape:
               latest_tweet_date: 2021-08-06T22:48:34.000Z
 twitter_options:
   count: 0
-updated_at: 2021-08-07T08:08:56.512Z
+updated_at: 2021-08-08T07:46:09.037Z
