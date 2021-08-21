@@ -67,7 +67,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -153,7 +153,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -236,7 +236,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -319,7 +319,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -402,7 +402,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -885,7 +885,7 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 0;0;0;0;0;0;2;0;1;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;1;0;0;0;6;0;4;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+              contributions: 0;0;0;0;0;0;2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;6;0;4;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
               firstWeek: 2020-08-23Z
               stars: 9
               license: Apache License 2.0
@@ -903,7 +903,7 @@ landscape:
               start_commit_link: /IBM/presto-db2/commit/f6aa7f007c81d3f2cc415f385dbf4186c1bbb6b6
               start_date: '2016-01-06T05:01:18Z'
             yahoo_finance_data:
-              market_cap: 123710087168
+              market_cap: 124687073280
               effective_ticker: IBM
             image_data:
               fileName: ibm-db2-connector.svg
@@ -912,7 +912,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T20:37:14.000Z
+              latest_tweet_date: 2021-08-21T08:40:28.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -973,7 +973,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -1056,7 +1056,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -1139,7 +1139,7 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                29;22;24;32;38;29;31;20;30;24;27;14;23;19;8;18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;19;21;18;30;16;34;33;33;15;25;28;23;27;16;9;21;7;25;12;9
+                26;23;26;31;42;26;30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;18;20;22;28;23;30;30;30;24;21;29;21;24;17;10;18;7;26;14;5
               firstWeek: 2020-08-23Z
               stars: 12322
               license: Apache License 2.0
@@ -1205,7 +1205,6 @@ landscape:
                   acquiree: Wickr
               parents:
                 - https://www.crunchbase.com/organization/amazon
-                - https://www.crunchbase.com/organization/anim-akhtar-ali-khan
               ticker: AMZN
               funding: 108000000
               stockExchange: null
@@ -1217,7 +1216,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1614407270400
+              market_cap: 1620585873408
               effective_ticker: AMZN
             image_data:
               fileName: aws-athena.svg
@@ -1226,7 +1225,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T00:01:04.000Z
+              latest_tweet_date: 2021-08-20T21:18:07.000Z
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -1264,7 +1263,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T22:12:18.000Z
+              latest_tweet_date: 2021-08-20T20:32:47.000Z
           - item:
             name: Alibaba (member)
             homepage_url: https://www.alibaba.com
@@ -1376,7 +1375,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 439462618045
+              market_cap: 439513381240
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1385,7 +1384,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T04:29:32.000Z
+              latest_tweet_date: 2021-08-21T02:12:32.000Z
           - item:
             name: Alluxio (member)
             homepage_url: https://aws.amazon.com/
@@ -1644,7 +1643,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1001239543808
+              market_cap: 1013222211584
               effective_ticker: FB
             image_data:
               fileName: facebook-member.svg
@@ -1918,7 +1917,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 212749074432
+              market_cap: 211004555264
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -1962,7 +1961,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T20:05:41.000Z
+              latest_tweet_date: 2021-08-20T17:08:48.000Z
           - item:
             name: Twitter (member)
             homepage_url: https://twitter.com/
@@ -2190,7 +2189,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 75110187008
+              market_cap: 75279785984
               effective_ticker: UBER
             image_data:
               fileName: uber-member.svg
@@ -2199,7 +2198,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T07:10:45.000Z
+              latest_tweet_date: 2021-08-20T18:41:28.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2321,7 +2320,7 @@ landscape:
                 - Travel Accommodations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 89675923456
+              market_cap: 90336002048
               effective_ticker: ABNB
             image_data:
               fileName: airbnb-adopter.svg
@@ -2330,7 +2329,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T13:29:17.000Z
+              latest_tweet_date: 2021-08-20T19:48:41.000Z
           - item:
             name: Alibaba (adopter)
             homepage_url: https://www.alibaba.com
@@ -2442,7 +2441,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 439462618045
+              market_cap: 439513381240
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -2451,7 +2450,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T04:29:32.000Z
+              latest_tweet_date: 2021-08-21T02:12:32.000Z
           - item:
             name: Atlassian (adopter)
             homepage_url: https://www.atlassian.com
@@ -2520,7 +2519,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 84281352192
+              market_cap: 87163281408
               effective_ticker: TEAM
             image_data:
               fileName: atlassian-adopter.svg
@@ -2529,7 +2528,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T18:02:01.000Z
+              latest_tweet_date: 2021-08-20T21:56:15.000Z
           - item:
             name: Audi (adopter)
             homepage_url: https://www.audi.com/en.html
@@ -2565,7 +2564,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T20:00:05.000Z
+              latest_tweet_date: 2021-08-20T21:01:15.000Z
           - item:
             name: AWS (adopter)
             homepage_url: https://www.amazon.com
@@ -2603,7 +2602,6 @@ landscape:
                   acquiree: Wickr
               parents:
                 - https://www.crunchbase.com/organization/amazon
-                - https://www.crunchbase.com/organization/anim-akhtar-ali-khan
               ticker: AMZN
               funding: 108000000
               stockExchange: null
@@ -2615,7 +2613,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1614407270400
+              market_cap: 1620585873408
               effective_ticker: AMZN
             image_data:
               fileName: aws-adopter.svg
@@ -2624,7 +2622,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T00:01:04.000Z
+              latest_tweet_date: 2021-08-20T21:18:07.000Z
           - item:
             name: Bloomberg (adopter)
             homepage_url: https://www.bloomberg.com/tosv2.html
@@ -2676,7 +2674,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T15:00:12.000Z
+              latest_tweet_date: 2021-08-20T15:57:04.000Z
           - item:
             name: Coursera (adopter)
             homepage_url: https://www.coursera.org
@@ -2708,7 +2706,7 @@ landscape:
                 - Internet
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4882989568
+              market_cap: 5031751680
               effective_ticker: COUR
             image_data:
               fileName: coursera-adopter.svg
@@ -2717,7 +2715,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T23:02:16.000Z
+              latest_tweet_date: 2021-08-20T19:13:01.000Z
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
@@ -2770,7 +2768,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T23:06:07.000Z
+              latest_tweet_date: 2021-08-20T19:11:13.000Z
           - item:
             name: Facebook (adopter)
             homepage_url: https://m.facebook.com
@@ -2996,7 +2994,7 @@ landscape:
                 - Social Network
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1001239543808
+              market_cap: 1013222211584
               effective_ticker: FB
             image_data:
               fileName: facebook-adopter.svg
@@ -3053,7 +3051,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2230194012160
+              market_cap: 2287231827968
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -3062,7 +3060,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T22:47:20.000Z
+              latest_tweet_date: 2021-08-20T17:00:19.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: https://www.intuit.com/
@@ -3173,7 +3171,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 148725614184
+              market_cap: 150941925832
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -3182,7 +3180,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T02:08:03.000Z
+              latest_tweet_date: 2021-08-20T18:23:34.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3242,7 +3240,7 @@ landscape:
                 - Trading Platform
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31437697024
+              market_cap: 31546378240
               effective_ticker: NDAQ
             image_data:
               fileName: nasdaq-adopter.svg
@@ -3251,7 +3249,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T20:46:21.000Z
+              latest_tweet_date: 2021-08-20T20:37:08.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3285,7 +3283,7 @@ landscape:
                 - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 240643883008
+              market_cap: 242046910464
               effective_ticker: NFLX
             image_data:
               fileName: netflix-adopter.svg
@@ -3294,7 +3292,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T01:25:12.000Z
+              latest_tweet_date: 2021-08-20T23:39:14.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3358,7 +3356,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33907484672
+              market_cap: 34719719424
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -3477,7 +3475,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14422344059
+              market_cap: 14403892599
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -3486,7 +3484,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T00:58:41.000Z
+              latest_tweet_date: 2021-08-20T20:37:50.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3542,7 +3540,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 183556964352
+              market_cap: 181066219520
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -3551,7 +3549,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T18:17:52.000Z
+              latest_tweet_date: 2021-08-20T14:08:15.000Z
           - item:
             name: Slack (adopter)
             homepage_url: https://slack.com/intl/en-hk
@@ -3606,7 +3604,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T08:43:45.000Z
+              latest_tweet_date: 2021-08-20T20:08:15.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3666,7 +3664,7 @@ landscape:
                 - Publishing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8107303936
+              market_cap: 8322852864
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -3675,7 +3673,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T08:40:07.000Z
+              latest_tweet_date: 2021-08-21T09:00:12.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -3903,7 +3901,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 75110187008
+              market_cap: 75279785984
               effective_ticker: UBER
             image_data:
               fileName: uber-adopter.svg
@@ -3912,7 +3910,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T07:10:45.000Z
+              latest_tweet_date: 2021-08-20T18:41:28.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -3950,7 +3948,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 29475391488
+              market_cap: 30185027584
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -3959,7 +3957,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T21:23:03.000Z
+              latest_tweet_date: 2021-08-20T22:15:23.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -4004,7 +4002,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 45031534878
+              market_cap: 44973923053
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -4013,7 +4011,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-20T07:04:49.000Z
+              latest_tweet_date: 2021-08-21T03:06:26.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4063,7 +4061,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2672616704
+              market_cap: 2733675264
               effective_ticker: YELP
             image_data:
               fileName: yelp-adopter.svg
@@ -4072,7 +4070,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-08-19T23:59:22.000Z
+              latest_tweet_date: 2021-08-20T21:00:14.000Z
 twitter_options:
   count: 0
-updated_at: 2021-08-20T08:50:18.883Z
+updated_at: 2021-08-21T09:17:33.557Z
