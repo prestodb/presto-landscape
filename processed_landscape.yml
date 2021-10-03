@@ -67,9 +67,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -78,7 +78,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -89,7 +89,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
       - subcategory:
         name: Connectors
         items:
@@ -153,9 +153,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -164,7 +164,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -175,7 +175,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
           - item:
             name: Blackhole Connector
             homepage_url: https://prestodb.io
@@ -236,9 +236,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -247,7 +247,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -258,7 +258,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
           - item:
             name: Cassandra Connector
             homepage_url: https://prestodb.io
@@ -319,9 +319,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -330,7 +330,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -341,7 +341,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
           - item:
             name: Hive Connector
             homepage_url: https://prestodb.io
@@ -402,9 +402,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -413,7 +413,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -424,7 +424,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
           - item:
             name: IBM DB2 Connector
             homepage_url: https://github.com/IBM/trino-db2
@@ -886,8 +886,8 @@ landscape:
                 - name: Dockerfile
                   value: 373
                   color: '#384d54'
-              contributions: 2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;6;0;4;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
-              firstWeek: 2020-10-04Z
+              contributions: 2;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;3;3;0;4;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+              firstWeek: 2020-10-11Z
               stars: 9
               license: Apache License 2.0
               description: Db2 JDBC connector for Trino
@@ -913,7 +913,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-02T06:24:03.000Z
+              latest_tweet_date: 2021-10-02T18:17:50.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -974,9 +974,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -985,7 +985,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -996,7 +996,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
           - item:
             name: Localfile Connector
             homepage_url: https://prestodb.io
@@ -1057,9 +1057,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -1068,7 +1068,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1079,7 +1079,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
           - item:
             name: System Connector
             homepage_url: https://prestodb.io
@@ -1140,9 +1140,9 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                30;23;27;27;20;22;19;15;15;12;31;17;5;15;10;7;19;22;11;10;15;20;25;9;21;27;19;20;22;29;23;30;30;30;25;21;29;22;25;17;10;20;7;28;20;13;17;12;20;15;24;5
-              firstWeek: 2020-10-04Z
-              stars: 12465
+                30;23;30;24;22;20;20;14;15;14;29;17;5;15;11;6;20;21;11;10;15;20;25;10;20;30;16;22;21;28;25;29;32;27;27;19;30;22;25;16;12;19;6;28;20;13;18;12;20;15;23;5
+              firstWeek: 2020-10-11Z
+              stars: 12467
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2021-10-02T00:19:05Z'
@@ -1151,7 +1151,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12465
+                stars: 12467
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1162,7 +1162,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T17:27:49.000Z
+              latest_tweet_date: 2021-10-02T17:32:06.000Z
   - category:
     name: Services
     subcategories:
@@ -1264,7 +1264,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T22:14:00.000Z
+              latest_tweet_date: 2021-10-02T17:23:20.000Z
           - item:
             name: Alibaba (member)
             homepage_url: https://www.alibaba.com
@@ -2197,7 +2197,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T19:25:56.000Z
+              latest_tweet_date: 2021-10-03T03:14:01.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2319,7 +2319,7 @@ landscape:
                 - Travel Accommodations
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 105454780416
+              market_cap: 108761522176
               effective_ticker: ABNB
             image_data:
               fileName: airbnb-adopter.svg
@@ -2328,7 +2328,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-09-30T19:37:29.000Z
+              latest_tweet_date: 2021-10-02T18:00:05.000Z
           - item:
             name: Alibaba (adopter)
             homepage_url: https://www.alibaba.com
@@ -2526,7 +2526,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T15:38:09.000Z
+              latest_tweet_date: 2021-10-02T19:33:27.000Z
           - item:
             name: Audi (adopter)
             homepage_url: https://www.audi.com/en.html
@@ -2562,7 +2562,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T22:29:57.000Z
+              latest_tweet_date: 2021-10-02T21:00:02.000Z
           - item:
             name: AWS (adopter)
             homepage_url: https://www.amazon.com
@@ -3175,7 +3175,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 147871416496
+              market_cap: 148787583414
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -3184,7 +3184,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T16:40:36.000Z
+              latest_tweet_date: 2021-10-02T16:02:02.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3253,7 +3253,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T20:58:40.000Z
+              latest_tweet_date: 2021-10-02T22:00:34.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3298,7 +3298,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-02T01:30:00.000Z
+              latest_tweet_date: 2021-10-02T17:03:32.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3490,7 +3490,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-02T01:26:57.000Z
+              latest_tweet_date: 2021-10-02T18:27:42.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3546,7 +3546,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 167573929984
+              market_cap: 167923777536
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -3555,7 +3555,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T20:00:27.000Z
+              latest_tweet_date: 2021-10-02T19:21:23.000Z
           - item:
             name: Slack (adopter)
             homepage_url: https://slack.com/intl/en-hk
@@ -3610,7 +3610,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-02T00:18:56.000Z
+              latest_tweet_date: 2021-10-02T23:39:54.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3679,7 +3679,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-02T06:16:06.000Z
+              latest_tweet_date: 2021-10-03T07:30:05.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -3916,7 +3916,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T19:25:56.000Z
+              latest_tweet_date: 2021-10-03T03:14:01.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -3963,7 +3963,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T23:08:12.000Z
+              latest_tweet_date: 2021-10-02T18:43:37.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -4017,7 +4017,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-10-01T23:00:26.000Z
+              latest_tweet_date: 2021-10-02T23:00:11.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4079,4 +4079,4 @@ landscape:
               latest_tweet_date: 2021-10-02T00:33:58.000Z
 twitter_options:
   count: 0
-updated_at: 2021-10-02T07:11:19.657Z
+updated_at: 2021-10-03T07:53:03.434Z
