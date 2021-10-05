@@ -51,10 +51,10 @@ relation:
       label: Non-Presto Foundation Member Products/Projects
       url: 'no'
 membership:
-  General:
+  Premier:
     name: Presto
     label: Member
-    funding: General
+    funding: Premier
     is_large: true
   linux_foundation:
     name: LF
