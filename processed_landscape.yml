@@ -1231,7 +1231,7 @@ landscape:
     name: Presto Foundation Member
     subcategories:
       - subcategory:
-        name: General
+        name: Premier
         items:
           - item:
             name: Ahana Cloud (member)
@@ -1420,7 +1420,7 @@ landscape:
               latest_tweet_date: 2021-10-01T00:00:43.000Z
           - item:
             name: Facebook (member)
-            homepage_url: https://m.facebook.com
+            homepage_url: https://facebook.com
             logo: facebook.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
@@ -1653,6 +1653,88 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-09-29T21:24:57.000Z
+          - item:
+            name: HP (member)
+            homepage_url: https://hpe.com
+            logo: hpe.svg
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+            crunchbase_data:
+              name: Hewlett Packard Enterprise
+              description: Hewlett Packard Enterprise is an industry technology company that enables customers to go further and faster.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.hpe.com
+              city: Houston
+              region: Texas
+              country: United States
+              twitter: https://www.twitter.com/hpe
+              linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise
+              acquisitions:
+                - date: '2016-02-03'
+                  acquiree: Trilead
+                - date: '2016-08-11'
+                  acquiree: Silicon Graphics
+                  price: 275000000
+                - date: '2017-01-17'
+                  acquiree: Simplivity
+                  price: 650000000
+                - date: '2017-01-23'
+                  acquiree: Cloud Cruiser
+                - date: '2017-02-01'
+                  acquiree: Niara
+                - date: '2017-03-07'
+                  acquiree: Nimble Storage
+                  price: 1090000000
+                - date: '2017-09-05'
+                  acquiree: Cloud Technology Partners
+                - date: '2018-04-11'
+                  acquiree: RedPixie
+                - date: '2018-05-15'
+                  acquiree: Plexxi
+                - date: '2018-11-27'
+                  acquiree: BlueData Software
+                - date: '2019-08-06'
+                  acquiree: MapR Technologies
+                - date: '2019-09-26'
+                  acquiree: Cray
+                  price: 1400000000
+                - date: '2020-02-03'
+                  acquiree: Scytale.io
+                - date: '2020-07-13'
+                  acquiree: Silver Peak
+                  price: 925000000
+                - date: '2021-02-23'
+                  acquiree: CloudPhysics
+                - date: '2021-06-21'
+                  acquiree: Determined AI
+                - date: '2021-07-01'
+                  acquiree: Zerto
+                  price: 374000000
+                - date: '2021-07-07'
+                  acquiree: Ampool
+              parents: []
+              ticker: HPE
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Enterprise Software
+                - IT Management
+                - Information Technology
+                - Network Security
+                - Wireless
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 19424542720
+              effective_ticker: HPE
+            image_data:
+              fileName: hp-member.svg
+              hash: S/+1Kw0zzuexleJYcCDheG0veQKY5HZfCoX7LdJCEzg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-04T16:49:00.000Z
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -1926,6 +2008,101 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-10-01T00:48:24.000Z
+          - item:
+            name: LinkedIn (member)
+            homepage_url: https://www.linkedin.com
+            logo: linkedin.svg
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+            crunchbase_data:
+              name: LinkedIn
+              description: LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://linkedin.com
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: http://twitter.com/linkedin
+              linkedin: https://www.linkedin.com/company/linkedin
+              acquisitions:
+                - date: '2010-08-04'
+                  acquiree: mSpoke
+                - date: '2010-09-22'
+                  acquiree: ChoiceVendor
+                - date: '2011-01-26'
+                  acquiree: CardMunch
+                - date: '2011-10-05'
+                  acquiree: Connected
+                - date: '2011-10-11'
+                  acquiree: IndexTank
+                - date: '2012-02-07'
+                  acquiree: Rapportive
+                - date: '2012-05-03'
+                  acquiree: LinkedIn SlideShare
+                - date: '2013-04-13'
+                  acquiree: Pulse
+                  price: 50000000
+                - date: '2014-02-07'
+                  acquiree: Bright.com
+                  price: 120000000
+                - date: '2014-07-14'
+                  acquiree: Newsle
+                - date: '2014-07-22'
+                  acquiree: Bizo
+                  price: 175000000
+                - date: '2014-11-13'
+                  acquiree: We Created It
+                - date: '2015-03-16'
+                  acquiree: Careerify
+                - date: '2015-04-02'
+                  acquiree: Refresh.io
+                - date: '2015-04-09'
+                  acquiree: Lynda
+                  price: 1500000000
+                - date: '2015-08-27'
+                  acquiree: Fliptop
+                - date: '2016-02-04'
+                  acquiree: Connectifier
+                  price: 150000000
+                - date: '2016-05-05'
+                  acquiree: Run Hop
+                - date: '2016-07-26'
+                  acquiree: PointDrive
+                - date: '2017-06-02'
+                  acquiree: Heighten
+                - date: '2018-10-08'
+                  acquiree: Glint
+                - date: '2018-12-01'
+                  acquiree: Sendbloom
+                - date: '2019-05-28'
+                  acquiree: Drawbridge
+                - date: '2020-04-23'
+                  acquiree: UpCounsel
+                - date: '2021-08-02'
+                  acquiree: Jumprope
+              parents:
+                - https://www.crunchbase.com/organization/microsoft
+              ticker: MSFT
+              funding: 154800000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Professional Networking
+                - Recruiting
+                - Social Media
+                - Social Recruiting
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 2127540518912
+              effective_ticker: MSFT
+            image_data:
+              fileName: linked-in-member.svg
+              hash: HQW1Zg3QwGl2+xX6UtGB661abqqUb6lptBpEMfuq/Vo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-04T21:56:03.000Z
           - item:
             name: Starburst (member)
             homepage_url: https://www.starburst.io
