@@ -918,7 +918,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T05:32:02.000Z
+              latest_tweet_date: 2021-11-14T05:33:23.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -1231,7 +1231,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T21:45:01.000Z
+              latest_tweet_date: 2021-11-13T15:00:15.000Z
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -1380,7 +1380,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 452082606961
+              market_cap: 452062297769
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1744,7 +1744,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T01:40:01.000Z
+              latest_tweet_date: 2021-11-13T20:00:03.000Z
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -2386,7 +2386,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T06:56:09.000Z
+              latest_tweet_date: 2021-11-14T07:59:08.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2628,7 +2628,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 452082606961
+              market_cap: 452062297769
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-adopter.svg
@@ -2809,7 +2809,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T21:45:01.000Z
+              latest_tweet_date: 2021-11-13T15:00:15.000Z
           - item:
             name: Bloomberg (adopter)
             homepage_url: https://www.bloomberg.com/tosv2.html
@@ -2893,7 +2893,7 @@ landscape:
                 - Internet
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4852686336
+              market_cap: 4952985600
               effective_ticker: COUR
             image_data:
               fileName: coursera-adopter.svg
@@ -2902,7 +2902,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T17:01:10.000Z
+              latest_tweet_date: 2021-11-13T14:08:01.000Z
           - item:
             name: Credit Karma (adopter)
             homepage_url: https://www.creditkarma.com
@@ -3252,7 +3252,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T23:02:01.000Z
+              latest_tweet_date: 2021-11-13T18:13:23.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: https://www.intuit.com/
@@ -3369,7 +3369,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 177603609836
+              market_cap: 177623934103
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -3378,7 +3378,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T21:06:03.000Z
+              latest_tweet_date: 2021-11-13T20:36:13.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3447,7 +3447,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T22:29:52.000Z
+              latest_tweet_date: 2021-11-13T23:00:01.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3492,7 +3492,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T23:53:11.000Z
+              latest_tweet_date: 2021-11-14T01:04:54.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3675,7 +3675,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15416803906
+              market_cap: 15422895097
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -3684,7 +3684,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T06:31:28.000Z
+              latest_tweet_date: 2021-11-13T19:57:54.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3740,7 +3740,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 211548225536
+              market_cap: 209007214592
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -3804,7 +3804,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T01:09:54.000Z
+              latest_tweet_date: 2021-11-13T20:41:20.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3873,7 +3873,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T07:06:03.000Z
+              latest_tweet_date: 2021-11-14T08:00:07.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -4110,7 +4110,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-13T06:56:09.000Z
+              latest_tweet_date: 2021-11-14T07:59:08.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -4157,7 +4157,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T22:46:08.000Z
+              latest_tweet_date: 2021-11-13T18:50:32.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -4202,7 +4202,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 52267906072
+              market_cap: 52288557160
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -4211,7 +4211,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T09:57:11.000Z
+              latest_tweet_date: 2021-11-13T22:00:10.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4270,7 +4270,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-12T17:29:58.000Z
+              latest_tweet_date: 2021-11-13T20:17:00.000Z
 twitter_options:
   count: 0
-updated_at: 2021-11-13T07:58:35.994Z
+updated_at: 2021-11-14T08:10:53.559Z
