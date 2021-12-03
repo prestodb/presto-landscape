@@ -104,11 +104,6 @@ landscape:
             logo: alluxio.svg
             crunchbase: https://www.crunchbase.com/organization/alluxio
           - item:
-            name: Meta (member)
-            homepage_url: https://meta.com
-            logo: meta.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
             name: HP (member)
             homepage_url: https://www.hpe.com/us/en/home.html
             logo: hpe.svg
@@ -123,6 +118,11 @@ landscape:
             homepage_url: https://www.linkedin.com
             logo: linkedin.svg
             crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: Meta (member)
+            homepage_url: https://about.facebook.com/meta
+            logo: meta.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Starburst (member)
             homepage_url: https://www.starburst.io
@@ -192,11 +192,6 @@ landscape:
             logo: credit-karma-adopter.svg
             crunchbase: https://www.crunchbase.com/organization/credit-karma
           - item:
-            name: Meta (adopter)
-            homepage_url: https://meta.com
-            logo: meta.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
             name: GitHub (adopter)
             homepage_url: https://github.com/
             logo: github.svg
@@ -207,6 +202,11 @@ landscape:
             logo: intuit.svg
             twitter: https://twitter.com/intuit
             crunchbase: https://www.crunchbase.com/organization/intuit
+          - item:
+            name: Meta (adopter)
+            homepage_url: https://about.facebook.com/meta
+            logo: meta.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/

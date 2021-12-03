@@ -38,7 +38,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -67,18 +67,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -89,7 +89,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
       - subcategory:
         name: Connectors
         items:
@@ -124,7 +124,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -153,18 +153,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -175,7 +175,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
           - item:
             name: Blackhole Connector
             homepage_url: https://prestodb.io
@@ -207,7 +207,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -236,18 +236,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -258,7 +258,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
           - item:
             name: Cassandra Connector
             homepage_url: https://prestodb.io
@@ -290,7 +290,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -319,18 +319,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -341,7 +341,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
           - item:
             name: Hive Connector
             homepage_url: https://prestodb.io
@@ -373,7 +373,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -402,18 +402,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -424,7 +424,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
           - item:
             name: IBM DB2 Connector
             homepage_url: https://github.com/IBM/trino-db2
@@ -911,7 +911,7 @@ landscape:
               start_commit_link: /IBM/presto-db2/commit/f6aa7f007c81d3f2cc415f385dbf4186c1bbb6b6
               start_date: '2016-01-06T05:01:18Z'
             yahoo_finance_data:
-              market_cap: 104797732864
+              market_cap: 104779808768
               effective_ticker: IBM
             image_data:
               fileName: ibm-db2-connector.svg
@@ -920,7 +920,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T07:18:52.000Z
+              latest_tweet_date: 2021-12-03T05:41:10.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -952,7 +952,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -981,18 +981,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1003,7 +1003,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
           - item:
             name: Localfile Connector
             homepage_url: https://prestodb.io
@@ -1035,7 +1035,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -1064,18 +1064,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1086,7 +1086,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
           - item:
             name: System Connector
             homepage_url: https://prestodb.io
@@ -1118,7 +1118,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 47681690
+                  value: 47689997
                   color: '#b07219'
                 - name: JavaScript
                   value: 220797
@@ -1147,18 +1147,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                18;29;19;8;12;11;7;15;19;16;10;13;15;23;21;14;29;18;22;22;28;19;32;27;37;17;26;24;29;22;19;12;23;9;19;20;23;10;17;15;27;24;17;21;17;17;17;18;8;13;11;2
+                18;32;17;5;14;9;8;16;24;13;9;16;15;24;14;17;28;20;22;18;31;16;34;33;34;16;25;28;24;28;17;9;22;8;27;13;21;14;15;15;28;24;16;21;18;23;12;15;8;14;11;4
               firstWeek: 2020-12-06Z
-              stars: 12911
+              stars: 12914
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2021-12-02T05:27:01Z'
-              latest_commit_link: /prestodb/presto/commit/d4ee2eb38fb16dce366d3307df1a45c5c2bc82c2
-              contributors_count: 615
+              latest_commit_date: '2021-12-03T00:32:43Z'
+              latest_commit_link: /prestodb/presto/commit/ac0dc73b2bbc7d97488d1840c7932bd217819ef8
+              contributors_count: 616
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 12911
+                stars: 12914
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1169,7 +1169,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:27:07.000Z
+              latest_tweet_date: 2021-12-02T20:37:15.000Z
   - category:
     name: Services
     subcategories:
@@ -1224,7 +1224,7 @@ landscape:
                 - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1746475679744
+              market_cap: 1743250259968
               effective_ticker: AMZN
             image_data:
               fileName: aws-athena.svg
@@ -1233,7 +1233,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T04:25:12.000Z
+              latest_tweet_date: 2021-12-03T02:30:15.000Z
   - category:
     name: Presto Foundation Member
     subcategories:
@@ -1271,7 +1271,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-30T22:08:00.000Z
+              latest_tweet_date: 2021-12-02T22:31:00.000Z
           - item:
             name: Alibaba (member)
             homepage_url: https://www.alibaba.com
@@ -1382,7 +1382,7 @@ landscape:
                 - Shopping
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 341374413061
+              market_cap: 332376687081
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-member.svg
@@ -1424,249 +1424,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T00:01:10.000Z
-          - item:
-            name: Meta (member)
-            homepage_url: https://meta.com
-            logo: meta.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-            crunchbase_data:
-              name: Meta
-              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://meta.com
-              city: Menlo Park
-              region: California
-              country: United States
-              twitter: https://twitter.com/Meta
-              linkedin: https://www.linkedin.com/company/facebook
-              acquisitions:
-                - date: '2007-07-01'
-                  acquiree: Parakey
-                - date: '2009-08-10'
-                  acquiree: FriendFeed
-                  price: 50000000
-                - date: '2010-02-19'
-                  acquiree: Octazen Solutions
-                - date: '2010-04-02'
-                  acquiree: Divvyshot
-                - date: '2010-05-26'
-                  acquiree: ShareGrove
-                - date: '2010-07-28'
-                  acquiree: Hot Potato
-                  price: 10000000
-                - date: '2010-08-15'
-                  acquiree: Chai Labs
-                  price: 10000000
-                - date: '2010-09-25'
-                  acquiree: Nextstop
-                  price: 2500000
-                - date: '2010-10-29'
-                  acquiree: drop.io
-                - date: '2010-11-16'
-                  acquiree: Zenbe
-                - date: '2011-01-25'
-                  acquiree: Rel8tion
-                - date: '2011-02-25'
-                  acquiree: Pursuit
-                - date: '2011-03-01'
-                  acquiree: Beluga
-                - date: '2011-03-20'
-                  acquiree: Snaptu
-                  price: 70000000
-                - date: '2011-04-27'
-                  acquiree: Daytum
-                - date: '2011-06-09'
-                  acquiree: Sofa
-                - date: '2011-08-02'
-                  acquiree: Push Pop Press
-                - date: '2011-11-07'
-                  acquiree: Digital Staircase
-                - date: '2011-11-08'
-                  acquiree: Strobe
-                - date: '2011-11-15'
-                  acquiree: MailRank
-                - date: '2011-11-28'
-                  acquiree: WhoGlue
-                - date: '2011-12-02'
-                  acquiree: Gowalla (acquired by facebook)
-                  price: 3000000
-                - date: '2012-02-29'
-                  acquiree: Sendoid
-                - date: '2012-03-03'
-                  acquiree: Friend.ly
-                - date: '2012-03-10'
-                  acquiree: GazeHawk
-                - date: '2012-04-09'
-                  acquiree: Instagram
-                  price: 1010470000
-                - date: '2012-04-13'
-                  acquiree: Tagtile
-                - date: '2012-05-04'
-                  acquiree: Glancee
-                - date: '2012-05-15'
-                  acquiree: Lightbox
-                - date: '2012-05-18'
-                  acquiree: Karma
-                - date: '2012-06-11'
-                  acquiree: Pieceable
-                - date: '2012-06-18'
-                  acquiree: Face.com
-                - date: '2012-06-21'
-                  acquiree: Bolt | Peters
-                - date: '2012-07-14'
-                  acquiree: Spool
-                - date: '2012-07-20'
-                  acquiree: Acrylic Software
-                - date: '2012-08-24'
-                  acquiree: threadsy
-                - date: '2013-02-28'
-                  acquiree: Atlas Solutions
-                - date: '2013-03-08'
-                  acquiree: Storylane
-                - date: '2013-03-14'
-                  acquiree: Hot Studio
-                - date: '2013-04-11'
-                  acquiree: Osmeta
-                - date: '2013-04-23'
-                  acquiree: Spaceport.io
-                - date: '2013-04-25'
-                  acquiree: Parse
-                  price: 85000000
-                - date: '2013-07-18'
-                  acquiree: Monoidics
-                - date: '2013-08-12'
-                  acquiree: Jibbigo
-                - date: '2013-10-14'
-                  acquiree: Onavo
-                  price: 120000000
-                - date: '2013-12-17'
-                  acquiree: SportStream
-                - date: '2014-01-13'
-                  acquiree: Branch
-                  price: 15000000
-                - date: '2014-02-19'
-                  acquiree: WhatsApp
-                  price: 19000000000
-                - date: '2014-03-25'
-                  acquiree: Oculus
-                  price: 2000000000
-                - date: '2014-03-28'
-                  acquiree: Ascenta (UK)
-                  price: 20000000
-                - date: '2014-04-24'
-                  acquiree: Moves
-                - date: '2014-04-24'
-                  acquiree: ProtoGeo
-                - date: '2014-06-14'
-                  acquiree: Pryte
-                - date: '2014-07-01'
-                  acquiree: Little Eye Labs
-                - date: '2014-08-07'
-                  acquiree: PrivateCore
-                - date: '2014-08-14'
-                  acquiree: LiveRail
-                  price: 500000000
-                - date: '2015-01-05'
-                  acquiree: Wit.ai
-                - date: '2015-01-08'
-                  acquiree: QuickFire Networks
-                - date: '2015-01-16'
-                  acquiree: Teehan+Lax
-                - date: '2015-03-13'
-                  acquiree: TheFind, Inc.
-                - date: '2015-05-20'
-                  acquiree: Tugboat Yards
-                - date: '2015-10-05'
-                  acquiree: Endaga
-                - date: '2016-03-09'
-                  acquiree: Masquerade
-                - date: '2016-05-23'
-                  acquiree: Two Big Ears Ltd
-                - date: '2016-08-08'
-                  acquiree: Eyegroove
-                - date: '2016-09-19'
-                  acquiree: Nascent Objects Inc
-                - date: '2016-11-11'
-                  acquiree: CrowdTangle
-                - date: '2017-07-24'
-                  acquiree: Source3
-                - date: '2017-07-31'
-                  acquiree: Ozlo
-                - date: '2017-08-11'
-                  acquiree: Fayteq AG
-                - date: '2017-10-16'
-                  acquiree: tbh
-                - date: '2018-01-23'
-                  acquiree: Confirm
-                - date: '2018-07-02'
-                  acquiree: Bloomsbury AI
-                - date: '2018-07-26'
-                  acquiree: RedKix
-                - date: '2018-08-14'
-                  acquiree: Vidpresso
-                - date: '2018-10-01'
-                  acquiree: Refdash
-                - date: '2018-11-28'
-                  acquiree: Dreambit
-                - date: '2019-02-08'
-                  acquiree: Grokstyle
-                - date: '2019-03-13'
-                  acquiree: Sonics
-                - date: '2019-09-22'
-                  acquiree: Servicefriend
-                - date: '2019-09-23'
-                  acquiree: CTRL-labs
-                - date: '2019-12-13'
-                  acquiree: Atlas ML
-                - date: '2019-12-19'
-                  acquiree: PlayGiga
-                - date: '2019-12-20'
-                  acquiree: Packagd
-                - date: '2020-02-09'
-                  acquiree: Scape Technologies
-                - date: '2020-02-25'
-                  acquiree: Sanzaru Games
-                - date: '2020-05-15'
-                  acquiree: Giphy
-                  price: 400000000
-                - date: '2020-06-18'
-                  acquiree: Mapillary
-                - date: '2020-09-22'
-                  acquiree: Lemnis Technologies
-                - date: '2020-11-30'
-                  acquiree: Kustomer
-                  price: 1000000000
-                - date: '2021-06-04'
-                  acquiree: Unit 2 Games
-                - date: '2021-10-12'
-                  acquiree: AI.Reverie
-                - date: '2021-10-29'
-                  acquiree: Within (VR/AR)
-              parents: []
-              ticker: FB
-              funding: 16122817488
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Augmented Reality
-                - Mobile Apps
-                - Social Media
-                - Social Network
-                - Virtual Reality
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 864014696448
-              effective_ticker: FB
-            image_data:
-              fileName: meta-member.svg
-              hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T23:18:53.000Z
+              latest_tweet_date: 2021-12-03T01:40:02.000Z
           - item:
             name: HP (member)
             homepage_url: https://www.hpe.com/us/en/home.html
@@ -1739,7 +1497,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18587392000
+              market_cap: 19607670784
               effective_ticker: HPE
             image_data:
               fileName: hp-member.svg
@@ -1748,7 +1506,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T20:21:00.000Z
+              latest_tweet_date: 2021-12-02T22:10:35.000Z
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -2014,7 +1772,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 200096399360
+              market_cap: 201316499456
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -2023,7 +1781,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-30T16:04:25.000Z
+              latest_tweet_date: 2021-12-02T16:03:02.000Z
           - item:
             name: LinkedIn (member)
             homepage_url: https://www.linkedin.com
@@ -2109,7 +1867,7 @@ landscape:
                 - Social Recruiting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2482063015936
+              market_cap: 2478232567808
               effective_ticker: MSFT
             image_data:
               fileName: linked-in-member.svg
@@ -2118,851 +1876,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-29T18:48:58.000Z
+              latest_tweet_date: 2021-12-02T17:00:00.000Z
           - item:
-            name: Starburst (member)
-            homepage_url: https://www.starburst.io
-            logo: starburst.svg
-            crunchbase: https://www.crunchbase.com/organization/starburst
-            crunchbase_data:
-              name: Starburst Data
-              description: Starburst Data is a data access and analytics company developing an SQL query engine.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.starburst.io
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/starburstdata
-              linkedin: https://www.linkedin.com/company/starburstdata/
-              acquisitions: []
-              parents: []
-              funding: 164000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Big Data
-                - Information Technology
-                - Open Source
-              kind: funding
-            image_data:
-              fileName: starburst-member.svg
-              hash: 4XRkWSP2WavK22AL89HZ5xPCpK2vjJpCIzj0JTTTJho=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T20:15:53.000Z
-          - item:
-            name: Twitter (member)
-            homepage_url: https://twitter.com/
-            logo: twitter.svg
-            crunchbase: https://www.crunchbase.com/organization/twitter
-            crunchbase_data:
-              name: Twitter
-              description: Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as tweets.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.twitter.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/twitter
-              linkedin: https://www.linkedin.com/company/twitter
-              acquisitions:
-                - date: '2008-07-15'
-                  acquiree: Summize US
-                - date: '2008-11-24'
-                  acquiree: Values of n
-                - date: '2009-12-23'
-                  acquiree: Mixer Labs
-                - date: '2010-04-09'
-                  acquiree: Atebits
-                - date: '2010-04-22'
-                  acquiree: Cloudhopper
-                - date: '2010-06-10'
-                  acquiree: Dabble DB
-                - date: '2010-12-21'
-                  acquiree: Fluther
-                - date: '2011-05-02'
-                  acquiree: TweetDeck
-                - date: '2011-05-31'
-                  acquiree: AdGrok
-                - date: '2011-07-05'
-                  acquiree: BackType
-                - date: '2011-08-08'
-                  acquiree: Bagcheck
-                - date: '2011-09-21'
-                  acquiree: Julpan
-                - date: '2011-11-28'
-                  acquiree: Whisper Systems
-                - date: '2012-01-19'
-                  acquiree: Summify
-                - date: '2012-01-24'
-                  acquiree: Dasient
-                - date: '2012-03-12'
-                  acquiree: Posterous
-                - date: '2012-04-17'
-                  acquiree: Hotspots.io
-                - date: '2012-08-13'
-                  acquiree: Clutch.io
-                - date: '2012-10-09'
-                  acquiree: '#Vine'
-                  price: 30000000
-                - date: '2012-10-18'
-                  acquiree: Cabana
-                - date: '2013-01-28'
-                  acquiree: Crashlytics
-                - date: '2013-02-04'
-                  acquiree: Bluefin Labs
-                - date: '2013-05-09'
-                  acquiree: Ubalo
-                - date: '2013-05-13'
-                  acquiree: Lucky Sort
-                - date: '2013-06-19'
-                  acquiree: Spindle
-                - date: '2013-08-13'
-                  acquiree: Marakana
-                - date: '2013-08-28'
-                  acquiree: Trendrr
-                - date: '2013-09-09'
-                  acquiree: MoPub
-                  price: 600000000
-                - date: '2014-03-31'
-                  acquiree: Mesagraph
-                - date: '2014-03-31'
-                  acquiree: SecondSync
-                - date: '2014-04-04'
-                  acquiree: Adrenaline Mobility
-                - date: '2014-04-07'
-                  acquiree: Cover Lockscreen
-                - date: '2014-06-05'
-                  acquiree: Namo Media
-                  price: 50000000
-                - date: '2014-06-19'
-                  acquiree: SnappyTV
-                - date: '2014-06-30'
-                  acquiree: TapCommerce
-                  price: 100000000
-                - date: '2014-07-17'
-                  acquiree: CardSpring
-                - date: '2014-07-29'
-                  acquiree: MADBITS
-                - date: '2014-07-31'
-                  acquiree: Mitro
-                - date: '2014-08-11'
-                  acquiree: Gnip
-                  price: 134000000
-                - date: '2015-01-19'
-                  acquiree: Zipdial
-                  price: 30000000
-                - date: '2015-02-11'
-                  acquiree: Niche
-                  price: 50000000
-                - date: '2015-03-10'
-                  acquiree: Periscope Co
-                - date: '2015-04-02'
-                  acquiree: tenXer
-                  price: 50000000
-                - date: '2015-04-28'
-                  acquiree: TellApart
-                  price: 479000000
-                - date: '2015-06-17'
-                  acquiree: Whetlab
-                - date: '2015-10-22'
-                  acquiree: Fastlane
-                - date: '2015-10-26'
-                  acquiree: ZeroPush
-                - date: '2016-04-07'
-                  acquiree: Peer
-                - date: '2016-06-20'
-                  acquiree: Magic Pony Technology
-                  price: 150000000
-                - date: '2016-12-01'
-                  acquiree: 'Yes'
-                - date: '2018-06-20'
-                  acquiree: Smyte
-                  price: 65000000
-                - date: '2019-04-17'
-                  acquiree: Highly
-                - date: '2019-06-03'
-                  acquiree: Fabula AI Limited
-                - date: '2019-08-20'
-                  acquiree: Lightwell
-                - date: '2019-11-21'
-                  acquiree: Aiden
-                - date: '2020-02-19'
-                  acquiree: Chroma Labs
-                - date: '2020-05-12'
-                  acquiree: CrossInstall
-                - date: '2020-12-11'
-                  acquiree: Squad
-                - date: '2021-01-04'
-                  acquiree: Breaker
-                - date: '2021-01-06'
-                  acquiree: UENO.
-                - date: '2021-01-26'
-                  acquiree: Revue
-              parents: []
-              ticker: TWTR
-              funding: 1460191511
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 52861677568
-              effective_ticker: TWTR
-            image_data:
-              fileName: twitter-member.svg
-              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-11-29T19:14:01.000Z
-          - item:
-            name: Uber (member)
-            homepage_url: https://www.uber.com/hk/zh-hk
-            logo: uber.svg
-            crunchbase: https://www.crunchbase.com/organization/uber
-            crunchbase_data:
-              name: Uber
-              description: Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.uber.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/uber
-              linkedin: https://www.linkedin.com/company/uber-com/
-              acquisitions:
-                - date: '2015-03-03'
-                  acquiree: deCarta
-                - date: '2016-08-18'
-                  acquiree: Otto
-                  price: 680000000
-                - date: '2016-12-05'
-                  acquiree: Geometric Intelligence
-                - date: '2017-07-14'
-                  acquiree: Complex Polygon
-                - date: '2017-07-14'
-                  acquiree: Swipe Labs
-                - date: '2018-04-04'
-                  acquiree: JUMP Bikes
-                  price: 200000000
-                - date: '2019-03-26'
-                  acquiree: Careem
-                  price: 3100000000
-                - date: '2019-06-18'
-                  acquiree: Mighty AI
-                - date: '2019-10-11'
-                  acquiree: Cornershop
-                - date: '2020-07-06'
-                  acquiree: Postmates
-                  price: 2650000000
-                - date: '2020-07-16'
-                  acquiree: Routematch Software
-                - date: '2020-08-06'
-                  acquiree: Autocab
-                - date: '2021-02-02'
-                  acquiree: Drizly
-                  price: 1100000000
-              parents: []
-              ticker: UBER
-              funding: 25212450000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Logistics
-                - Mobile Apps
-                - Public Transportation
-                - Ride Sharing
-                - Transportation
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 69883125760
-              effective_ticker: UBER
-            image_data:
-              fileName: uber-member.svg
-              hash: vi5NAfAyB7jaj/WEUW5Swshh4QcEh8qrGF2rz1XWsVY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T21:03:15.000Z
-          - item:
-            name: Upsolver (member)
-            homepage_url: https://upsolver.com/
-            logo: upsolver.svg
-            crunchbase: https://www.crunchbase.com/organization/upsolver
-            crunchbase_data:
-              name: Upsolver
-              description: Upsolver lets you build continuous pipelines for your cloud data lake using SQL and pipeline automation.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://upsolver.com/
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: http://www.twitter.com/upsolver
-              linkedin: https://www.linkedin.com/company/upsolver
-              acquisitions: []
-              parents: []
-              funding: 42040000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Big Data
-                - Cloud Data Services
-                - Data Integration
-                - Database
-              kind: funding
-            image_data:
-              fileName: upsolver-member.svg
-              hash: eabZqdtepa4wHwYxg7NvCVokFLlYhJPS4SamkH3xuQU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-02T00:49:59.000Z
-  - category:
-    name: Presto Adopter
-    subcategories:
-      - subcategory:
-        name: Presto Adopter
-        items:
-          - item:
-            name: Airbnb (adopter)
-            homepage_url: https://www.airbnb.com
-            logo: airbnb.svg
-            crunchbase: https://www.crunchbase.com/organization/airbnb
-            crunchbase_data:
-              name: Airbnb
-              description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://airbnb.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/airbnb
-              linkedin: https://www.linkedin.com/company/airbnb
-              acquisitions:
-                - date: '2011-06-01'
-                  acquiree: Accoleo
-                - date: '2012-03-20'
-                  acquiree: Crashpadder
-                - date: '2012-07-01'
-                  acquiree: NabeWise
-                - date: '2012-07-24'
-                  acquiree: DailyBooth
-                - date: '2012-10-03'
-                  acquiree: Fondu
-                - date: '2012-12-01'
-                  acquiree: Localmind
-                - date: '2014-12-02'
-                  acquiree: Pencil Labs
-                - date: '2015-09-11'
-                  acquiree: Vamo
-                - date: '2015-09-29'
-                  acquiree: Lapka
-                - date: '2016-04-13'
-                  acquiree: ChangeCoin
-                - date: '2016-05-01'
-                  acquiree: Minbox
-                - date: '2016-09-19'
-                  acquiree: Trip4real
-                - date: '2016-11-01'
-                  acquiree: Bold Financial Technologies
-                - date: '2017-02-10'
-                  acquiree: Luxury Retreats
-                  price: 200000000
-                - date: '2017-02-23'
-                  acquiree: Tilt
-                - date: '2017-05-02'
-                  acquiree: Deco Software
-                - date: '2017-06-16'
-                  acquiree: Trooly
-                - date: '2017-11-16'
-                  acquiree: Accomable
-                - date: '2017-11-16'
-                  acquiree: AdBasis
-                - date: '2018-11-01'
-                  acquiree: Koko
-                - date: '2018-12-11'
-                  acquiree: Luckey
-                - date: '2019-01-25'
-                  acquiree: Gaest.com
-                - date: '2019-03-07'
-                  acquiree: HotelTonight
-                - date: '2019-08-05'
-                  acquiree: Urbandoor
-              parents: []
-              ticker: ABNB
-              funding: 5950282100
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Hospitality
-                - Marketplace
-                - Mobile Apps
-                - Travel
-                - Travel Accommodations
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 103619239936
-              effective_ticker: ABNB
-            image_data:
-              fileName: airbnb-adopter.svg
-              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T13:00:25.000Z
-          - item:
-            name: Alibaba (adopter)
-            homepage_url: https://www.alibaba.com
-            logo: alibaba.svg
-            crunchbase: https://www.crunchbase.com/organization/alibaba
-            crunchbase_data:
-              name: Alibaba Group
-              description: Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://alibabagroup.com
-              city: Hangzhou
-              region: Zhejiang
-              country: China
-              twitter: https://twitter.com/alibabagroup
-              linkedin: https://www.linkedin.com/company/alibaba-group
-              acquisitions:
-                - date: '2013-04-26'
-                  acquiree: Umeng+
-                - date: '2013-06-04'
-                  acquiree: Xiami Music Network
-                - date: '2013-09-25'
-                  acquiree: Kanbox
-                - date: '2013-12-03'
-                  acquiree: TTPod
-                - date: '2014-04-13'
-                  acquiree: AutoNavi
-                - date: '2014-06-11'
-                  acquiree: UCWeb
-                  price: 4700000000
-                - date: '2015-01-06'
-                  acquiree: AdChina
-                - date: '2015-04-21'
-                  acquiree: 365 Translation
-                - date: '2015-05-01'
-                  acquiree: Zuodao.com
-                - date: '2015-10-16'
-                  acquiree: Youku
-                  price: 3500000000
-                - date: '2015-11-05'
-                  acquiree: Youku
-                  price: 4400000000
-                - date: '2015-12-11'
-                  acquiree: South China Morning Post
-                  price: 262000000
-                - date: '2016-03-06'
-                  acquiree: AGTech Holdings
-                  price: 307818685
-                - date: '2016-04-05'
-                  acquiree: SCMP Group
-                  price: 266000000
-                - date: '2016-07-05'
-                  acquiree: Wandoujia
-                  price: 200000000
-                - date: '2016-07-07'
-                  acquiree: Ali Jiankang Dayaofang
-                  price: 2514013
-                - date: '2017-03-21'
-                  acquiree: Damai.cn
-                - date: '2017-09-26'
-                  acquiree: Cainiao Logistics
-                - date: '2017-09-27'
-                  acquiree: Ejoy Technology
-                - date: '2017-09-28'
-                  acquiree: Ejoy Technology
-                - date: '2017-12-03'
-                  acquiree: Visualead
-                - date: '2018-02-26'
-                  acquiree: ELEME
-                  price: 9500000000
-                - date: '2018-04-20'
-                  acquiree: C-SKY Microsystems
-                - date: '2018-05-08'
-                  acquiree: Daraz.pk
-                - date: '2018-06-30'
-                  acquiree: Trendyol
-                  price: 728000000
-                - date: '2018-09-06'
-                  acquiree: OpenSky
-                - date: '2019-01-07'
-                  acquiree: Ververica
-                  price: 103305785
-                - date: '2019-03-24'
-                  acquiree: Infinity Augmented Reality
-                - date: '2019-03-28'
-                  acquiree: Teambition
-                - date: '2019-09-05'
-                  acquiree: Kaola
-                  price: 2000000000
-                - date: '2020-02-25'
-                  acquiree: Keruyun
-                - date: '2020-08-11'
-                  acquiree: Alog
-                - date: '2020-08-26'
-                  acquiree: Xiaoman Technology
-                - date: '2020-10-18'
-                  acquiree: Sun Art Retail Group
-                  price: 3600000000
-              parents: []
-              ticker: 9988.HK
-              funding: 8907000000
-              stockExchange: hkg
-              company_type: For Profit
-              industries:
-                - Association
-                - B2B
-                - Information Technology
-                - Shopping
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 341374413061
-              effective_ticker: 9988.HK
-            image_data:
-              fileName: alibaba-adopter.svg
-              hash: J//rVeXkmHl+sP3COS7RNh3gJ7ggRMMOYs9UscskG5w=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-11-26T08:40:38.000Z
-          - item:
-            name: Atlassian (adopter)
-            homepage_url: https://www.atlassian.com
-            logo: atlassian.svg
-            crunchbase: https://www.crunchbase.com/organization/atlassian
-            crunchbase_data:
-              name: Atlassian
-              description: Atlassian provides collaboration, development, and issue tracking software for teams.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.atlassian.com/
-              city: Sydney
-              region: New South Wales
-              country: Australia
-              twitter: http://twitter.com/atlassian
-              linkedin: https://www.linkedin.com/company/atlassian/
-              acquisitions:
-                - date: '2010-09-29'
-                  acquiree: Bitbucket
-                - date: '2011-10-06'
-                  acquiree: SourceTree
-                - date: '2012-03-07'
-                  acquiree: HipChat
-                - date: '2014-09-11'
-                  acquiree: Wikidocs
-                - date: '2014-09-12'
-                  acquiree: doctape
-                  price: 7500000
-                - date: '2015-04-21'
-                  acquiree: BlueJimp
-                - date: '2015-05-06'
-                  acquiree: Hall
-                  price: 20000000
-                - date: '2016-07-14'
-                  acquiree: StatusPage
-                - date: '2017-01-09'
-                  acquiree: Trello
-                  price: 425000000
-                - date: '2018-09-04'
-                  acquiree: OpsGenie
-                  price: 295000000
-                - date: '2019-03-19'
-                  acquiree: Jira Align
-                  price: 166000000
-                - date: '2019-04-10'
-                  acquiree: Good Software
-                - date: '2019-10-17'
-                  acquiree: Code Barrel
-                - date: '2020-05-12'
-                  acquiree: Halp
-                - date: '2020-07-30'
-                  acquiree: Mindville
-                - date: '2021-02-26'
-                  acquiree: Chartio
-                - date: '2021-04-19'
-                  acquiree: ThinkTilt
-              parents: []
-              ticker: TEAM
-              funding: 210000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Collaboration
-                - Enterprise Software
-                - SaaS
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 90285539328
-              effective_ticker: TEAM
-            image_data:
-              fileName: atlassian-adopter.svg
-              hash: 0GdE0AJnlRJU0ES7TiZlZ3C8p42QYzveYk32uLDCwZQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-02T01:00:02.000Z
-          - item:
-            name: Audi (adopter)
-            homepage_url: https://www.audi.com/en.html
-            logo: audi.svg
-            twitter: https://twitter.com/audi
-            crunchbase: https://www.crunchbase.com/organization/audi
-            crunchbase_data:
-              name: Audi
-              description: Audi develops, produces, assembles, distributes, and sells vehicles of the Audi and Lamborghini brands in Germany and internationally.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://audiusa.com
-              city: Herndon
-              region: Virginia
-              country: United States
-              twitter: http://twitter.com/Audi
-              linkedin: https://www.linkedin.com/company/audi-of-america
-              acquisitions:
-                - date: '2017-03-30'
-                  acquiree: Silvercar
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Automotive
-                - Autonomous Vehicles
-                - Electric Vehicle
-                - Manufacturing
-            image_data:
-              fileName: audi-adopter.svg
-              hash: t+YKLQyF6VFd7RP7wq8aP41a7zHDEMLLf3CXaGcObyY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T22:20:05.000Z
-          - item:
-            name: AWS (adopter)
-            homepage_url: https://www.amazon.com
-            logo: amazon-web-services.svg
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            crunchbase_data:
-              name: Amazon Web Services
-              description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://aws.amazon.com
-              city: Seattle
-              region: Washington
-              country: United States
-              twitter: http://twitter.com/awscloud
-              linkedin: https://www.linkedin.com/company/amazon-web-services
-              acquisitions:
-                - date: '2015-07-14'
-                  acquiree: AppThwack
-                - date: '2016-02-11'
-                  acquiree: NICE
-                - date: '2017-03-06'
-                  acquiree: Thinkbox Software
-                - date: '2017-03-08'
-                  acquiree: Do
-                - date: '2018-01-23'
-                  acquiree: Sqrrl
-                - date: '2019-01-14'
-                  acquiree: TSO Logic
-                - date: '2020-02-21'
-                  acquiree: TeamSQL, Inc.
-                - date: '2021-01-28'
-                  acquiree: DB Best Technologies
-                - date: '2021-06-25'
-                  acquiree: Wickr
-              parents:
-                - https://www.crunchbase.com/organization/amazon
-              ticker: AMZN
-              funding: 108000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-                - Software
-                - Web Development
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 1746475679744
-              effective_ticker: AMZN
-            image_data:
-              fileName: aws-adopter.svg
-              hash: SAaCDzEl11DXhCLfuUg3THlbYtVlQILQOhezT64IiU8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-02T04:25:12.000Z
-          - item:
-            name: Bloomberg (adopter)
-            homepage_url: https://www.bloomberg.com/tosv2.html
-            logo: bloomberg.svg
-            twitter: https://twitter.com/TechAtBloomberg
-            crunchbase: https://www.crunchbase.com/organization/bloomberg
-            crunchbase_data:
-              name: Bloomberg
-              description: Bloomberg provides news, data, analytics, and communication services for the global business and financial world.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.bloomberg.com
-              city: New York
-              region: New York
-              country: United States
-              twitter: https://twitter.com/Bloomberg
-              linkedin: https://www.linkedin.com/company/bloomberg-lp
-              acquisitions:
-                - date: '2009-10-13'
-                  acquiree: Bloomberg Businessweek
-                - date: '2009-12-10'
-                  acquiree: BloombergNEF
-                - date: '2010-02-22'
-                  acquiree: Eagle Eye Publishers
-                - date: '2011-08-25'
-                  acquiree: BNA
-                - date: '2012-05-22'
-                  acquiree: Bloomberg PolarLake
-                - date: '2014-07-09'
-                  acquiree: RTS Realtime Systems
-                - date: '2016-01-12'
-                  acquiree: Netbox Blue
-                - date: '2019-08-13'
-                  acquiree: RegTek Solutions
-                - date: '2020-12-24'
-                  acquiree: Bloomberg Second Measure
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Business Information Systems
-                - Business Intelligence
-                - News
-            image_data:
-              fileName: bloomberg-adopter.svg
-              hash: 6+R73ML1j0A9hyIQIj4ZCkdsnY7ikiHHptSJEC+GKJw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-02T05:35:39.000Z
-          - item:
-            name: Coursera (adopter)
-            homepage_url: https://www.coursera.org
-            logo: coursera.svg
-            crunchbase: https://www.crunchbase.com/organization/coursera
-            crunchbase_data:
-              name: Coursera
-              description: Coursera is an online education company that partners with universities and organizations to offer classes on their platform.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.coursera.org
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: http://www.twitter.com/coursera
-              linkedin: https://www.linkedin.com/company/coursera
-              acquisitions:
-                - date: '2019-08-28'
-                  acquiree: Rhyme.com
-              parents: []
-              ticker: COUR
-              funding: 446800000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - E-Learning
-                - EdTech
-                - Education
-                - Internet
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 4019468032
-              effective_ticker: COUR
-            image_data:
-              fileName: coursera-adopter.svg
-              hash: KComRoGGOUJ4Yj3GGFn2p5J/w/x5pbsAA0tbL/IC3p8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T23:18:22.000Z
-          - item:
-            name: Credit Karma (adopter)
-            homepage_url: https://www.creditkarma.com
-            logo: credit-karma-adopter.svg
-            crunchbase: https://www.crunchbase.com/organization/credit-karma
-            crunchbase_data:
-              name: Credit Karma
-              description: Credit Karma offers a range of tools and personalized recommendations designed to help customers make the most of their money.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: https://www.creditkarma.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/CreditKarma
-              linkedin: https://www.linkedin.com/company/credit-karma
-              acquisitions:
-                - date: '2015-12-30'
-                  acquiree: Snowball
-                - date: '2016-12-07'
-                  acquiree: OnePriceTaxes
-                - date: '2017-05-09'
-                  acquiree: Claimdog
-                - date: '2018-03-14'
-                  acquiree: Penny
-                - date: '2018-08-16'
-                  acquiree: Approved
-                - date: '2018-11-04'
-                  acquiree: Callcredit Information
-                  price: 1400000000
-                - date: '2018-11-04'
-                  acquiree: Noddle
-                - date: '2019-12-16'
-                  acquiree: Haven Money
-              parents: []
-              funding: 868000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Credit
-                - FinTech
-                - Finance
-                - Financial Services
-                - Personal Finance
-              kind: funding
-            image_data:
-              fileName: credit-karma-adopter.svg
-              hash: R5PTKuWN2TGL+gxgsPaS8DAUVh33SaejBIWlHdrHOkI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-01T01:18:12.000Z
-          - item:
-            name: Meta (adopter)
-            homepage_url: https://meta.com
+            name: Meta (member)
+            homepage_url: https://about.facebook.com/meta
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
@@ -3192,16 +2109,857 @@ landscape:
                 - Virtual Reality
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 864014696448
+              market_cap: 864014106624
               effective_ticker: FB
             image_data:
-              fileName: meta-adopter.svg
+              fileName: meta-member.svg
               hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T23:18:53.000Z
+              latest_tweet_date: 2021-12-02T21:54:47.000Z
+          - item:
+            name: Starburst (member)
+            homepage_url: https://www.starburst.io
+            logo: starburst.svg
+            crunchbase: https://www.crunchbase.com/organization/starburst
+            crunchbase_data:
+              name: Starburst Data
+              description: Starburst Data is a data access and analytics company developing an SQL query engine.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.starburst.io
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/starburstdata
+              linkedin: https://www.linkedin.com/company/starburstdata/
+              acquisitions: []
+              parents: []
+              funding: 164000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Big Data
+                - Information Technology
+                - Open Source
+              kind: funding
+            image_data:
+              fileName: starburst-member.svg
+              hash: 4XRkWSP2WavK22AL89HZ5xPCpK2vjJpCIzj0JTTTJho=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T20:56:27.000Z
+          - item:
+            name: Twitter (member)
+            homepage_url: https://twitter.com/
+            logo: twitter.svg
+            crunchbase: https://www.crunchbase.com/organization/twitter
+            crunchbase_data:
+              name: Twitter
+              description: Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as tweets.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.twitter.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/twitter
+              linkedin: https://www.linkedin.com/company/twitter
+              acquisitions:
+                - date: '2008-07-15'
+                  acquiree: Summize US
+                - date: '2008-11-24'
+                  acquiree: Values of n
+                - date: '2009-12-23'
+                  acquiree: Mixer Labs
+                - date: '2010-04-09'
+                  acquiree: Atebits
+                - date: '2010-04-22'
+                  acquiree: Cloudhopper
+                - date: '2010-06-10'
+                  acquiree: Dabble DB
+                - date: '2010-12-21'
+                  acquiree: Fluther
+                - date: '2011-05-02'
+                  acquiree: TweetDeck
+                - date: '2011-05-31'
+                  acquiree: AdGrok
+                - date: '2011-07-05'
+                  acquiree: BackType
+                - date: '2011-08-08'
+                  acquiree: Bagcheck
+                - date: '2011-09-21'
+                  acquiree: Julpan
+                - date: '2011-11-28'
+                  acquiree: Whisper Systems
+                - date: '2012-01-19'
+                  acquiree: Summify
+                - date: '2012-01-24'
+                  acquiree: Dasient
+                - date: '2012-03-12'
+                  acquiree: Posterous
+                - date: '2012-04-17'
+                  acquiree: Hotspots.io
+                - date: '2012-08-13'
+                  acquiree: Clutch.io
+                - date: '2012-10-09'
+                  acquiree: '#Vine'
+                  price: 30000000
+                - date: '2012-10-18'
+                  acquiree: Cabana
+                - date: '2013-01-28'
+                  acquiree: Crashlytics
+                - date: '2013-02-04'
+                  acquiree: Bluefin Labs
+                - date: '2013-05-09'
+                  acquiree: Ubalo
+                - date: '2013-05-13'
+                  acquiree: Lucky Sort
+                - date: '2013-06-19'
+                  acquiree: Spindle
+                - date: '2013-08-13'
+                  acquiree: Marakana
+                - date: '2013-08-28'
+                  acquiree: Trendrr
+                - date: '2013-09-09'
+                  acquiree: MoPub
+                  price: 600000000
+                - date: '2014-03-31'
+                  acquiree: Mesagraph
+                - date: '2014-03-31'
+                  acquiree: SecondSync
+                - date: '2014-04-04'
+                  acquiree: Adrenaline Mobility
+                - date: '2014-04-07'
+                  acquiree: Cover Lockscreen
+                - date: '2014-06-05'
+                  acquiree: Namo Media
+                  price: 50000000
+                - date: '2014-06-19'
+                  acquiree: SnappyTV
+                - date: '2014-06-30'
+                  acquiree: TapCommerce
+                  price: 100000000
+                - date: '2014-07-17'
+                  acquiree: CardSpring
+                - date: '2014-07-29'
+                  acquiree: MADBITS
+                - date: '2014-07-31'
+                  acquiree: Mitro
+                - date: '2014-08-11'
+                  acquiree: Gnip
+                  price: 134000000
+                - date: '2015-01-19'
+                  acquiree: Zipdial
+                  price: 30000000
+                - date: '2015-02-11'
+                  acquiree: Niche
+                  price: 50000000
+                - date: '2015-03-10'
+                  acquiree: Periscope Co
+                - date: '2015-04-02'
+                  acquiree: tenXer
+                  price: 50000000
+                - date: '2015-04-28'
+                  acquiree: TellApart
+                  price: 479000000
+                - date: '2015-06-17'
+                  acquiree: Whetlab
+                - date: '2015-10-22'
+                  acquiree: Fastlane
+                - date: '2015-10-26'
+                  acquiree: ZeroPush
+                - date: '2016-04-07'
+                  acquiree: Peer
+                - date: '2016-06-20'
+                  acquiree: Magic Pony Technology
+                  price: 150000000
+                - date: '2016-12-01'
+                  acquiree: 'Yes'
+                - date: '2018-06-20'
+                  acquiree: Smyte
+                  price: 65000000
+                - date: '2019-04-17'
+                  acquiree: Highly
+                - date: '2019-06-03'
+                  acquiree: Fabula AI Limited
+                - date: '2019-08-20'
+                  acquiree: Lightwell
+                - date: '2019-11-21'
+                  acquiree: Aiden
+                - date: '2020-02-19'
+                  acquiree: Chroma Labs
+                - date: '2020-05-12'
+                  acquiree: CrossInstall
+                - date: '2020-12-11'
+                  acquiree: Squad
+                - date: '2021-01-04'
+                  acquiree: Breaker
+                - date: '2021-01-06'
+                  acquiree: UENO.
+                - date: '2021-01-26'
+                  acquiree: Revue
+              parents: []
+              ticker: TWTR
+              funding: 1460191511
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 52861677568
+              effective_ticker: TWTR
+            image_data:
+              fileName: twitter-member.svg
+              hash: LyrgBfu7H0tQPoYMoyXUlHwhsGHCGItxNGJj9jbZej4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T16:44:48.000Z
+          - item:
+            name: Uber (member)
+            homepage_url: https://www.uber.com/hk/zh-hk
+            logo: uber.svg
+            crunchbase: https://www.crunchbase.com/organization/uber
+            crunchbase_data:
+              name: Uber
+              description: Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.uber.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/uber
+              linkedin: https://www.linkedin.com/company/uber-com/
+              acquisitions:
+                - date: '2015-03-03'
+                  acquiree: deCarta
+                - date: '2016-08-18'
+                  acquiree: Otto
+                  price: 680000000
+                - date: '2016-12-05'
+                  acquiree: Geometric Intelligence
+                - date: '2017-07-14'
+                  acquiree: Complex Polygon
+                - date: '2017-07-14'
+                  acquiree: Swipe Labs
+                - date: '2018-04-04'
+                  acquiree: JUMP Bikes
+                  price: 200000000
+                - date: '2019-03-26'
+                  acquiree: Careem
+                  price: 3100000000
+                - date: '2019-06-18'
+                  acquiree: Mighty AI
+                - date: '2019-10-11'
+                  acquiree: Cornershop
+                - date: '2020-07-06'
+                  acquiree: Postmates
+                  price: 2650000000
+                - date: '2020-07-16'
+                  acquiree: Routematch Software
+                - date: '2020-08-06'
+                  acquiree: Autocab
+                - date: '2021-02-02'
+                  acquiree: Drizly
+                  price: 1100000000
+              parents: []
+              ticker: UBER
+              funding: 25212450000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Mobile Apps
+                - Public Transportation
+                - Ride Sharing
+                - Transportation
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 73957376000
+              effective_ticker: UBER
+            image_data:
+              fileName: uber-member.svg
+              hash: vi5NAfAyB7jaj/WEUW5Swshh4QcEh8qrGF2rz1XWsVY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-03T04:42:14.000Z
+          - item:
+            name: Upsolver (member)
+            homepage_url: https://upsolver.com/
+            logo: upsolver.svg
+            crunchbase: https://www.crunchbase.com/organization/upsolver
+            crunchbase_data:
+              name: Upsolver
+              description: Upsolver lets you build continuous pipelines for your cloud data lake using SQL and pipeline automation.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://upsolver.com/
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: http://www.twitter.com/upsolver
+              linkedin: https://www.linkedin.com/company/upsolver
+              acquisitions: []
+              parents: []
+              funding: 42040000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Big Data
+                - Cloud Data Services
+                - Data Integration
+                - Database
+              kind: funding
+            image_data:
+              fileName: upsolver-member.svg
+              hash: eabZqdtepa4wHwYxg7NvCVokFLlYhJPS4SamkH3xuQU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T00:49:59.000Z
+  - category:
+    name: Presto Adopter
+    subcategories:
+      - subcategory:
+        name: Presto Adopter
+        items:
+          - item:
+            name: Airbnb (adopter)
+            homepage_url: https://www.airbnb.com
+            logo: airbnb.svg
+            crunchbase: https://www.crunchbase.com/organization/airbnb
+            crunchbase_data:
+              name: Airbnb
+              description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://airbnb.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/airbnb
+              linkedin: https://www.linkedin.com/company/airbnb
+              acquisitions:
+                - date: '2011-06-01'
+                  acquiree: Accoleo
+                - date: '2012-03-20'
+                  acquiree: Crashpadder
+                - date: '2012-07-01'
+                  acquiree: NabeWise
+                - date: '2012-07-24'
+                  acquiree: DailyBooth
+                - date: '2012-10-03'
+                  acquiree: Fondu
+                - date: '2012-12-01'
+                  acquiree: Localmind
+                - date: '2014-12-02'
+                  acquiree: Pencil Labs
+                - date: '2015-09-11'
+                  acquiree: Vamo
+                - date: '2015-09-29'
+                  acquiree: Lapka
+                - date: '2016-04-13'
+                  acquiree: ChangeCoin
+                - date: '2016-05-01'
+                  acquiree: Minbox
+                - date: '2016-09-19'
+                  acquiree: Trip4real
+                - date: '2016-11-01'
+                  acquiree: Bold Financial Technologies
+                - date: '2017-02-10'
+                  acquiree: Luxury Retreats
+                  price: 200000000
+                - date: '2017-02-23'
+                  acquiree: Tilt
+                - date: '2017-05-02'
+                  acquiree: Deco Software
+                - date: '2017-06-16'
+                  acquiree: Trooly
+                - date: '2017-11-16'
+                  acquiree: Accomable
+                - date: '2017-11-16'
+                  acquiree: AdBasis
+                - date: '2018-11-01'
+                  acquiree: Koko
+                - date: '2018-12-11'
+                  acquiree: Luckey
+                - date: '2019-01-25'
+                  acquiree: Gaest.com
+                - date: '2019-03-07'
+                  acquiree: HotelTonight
+                - date: '2019-08-05'
+                  acquiree: Urbandoor
+              parents: []
+              ticker: ABNB
+              funding: 5950282100
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Hospitality
+                - Marketplace
+                - Mobile Apps
+                - Travel
+                - Travel Accommodations
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 107761975296
+              effective_ticker: ABNB
+            image_data:
+              fileName: airbnb-adopter.svg
+              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-01T13:00:25.000Z
+          - item:
+            name: Alibaba (adopter)
+            homepage_url: https://www.alibaba.com
+            logo: alibaba.svg
+            crunchbase: https://www.crunchbase.com/organization/alibaba
+            crunchbase_data:
+              name: Alibaba Group
+              description: Alibaba Group enables businesses to transform the way they market, sell, operate, and improve their efficiencies.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://alibabagroup.com
+              city: Hangzhou
+              region: Zhejiang
+              country: China
+              twitter: https://twitter.com/alibabagroup
+              linkedin: https://www.linkedin.com/company/alibaba-group
+              acquisitions:
+                - date: '2013-04-26'
+                  acquiree: Umeng+
+                - date: '2013-06-04'
+                  acquiree: Xiami Music Network
+                - date: '2013-09-25'
+                  acquiree: Kanbox
+                - date: '2013-12-03'
+                  acquiree: TTPod
+                - date: '2014-04-13'
+                  acquiree: AutoNavi
+                - date: '2014-06-11'
+                  acquiree: UCWeb
+                  price: 4700000000
+                - date: '2015-01-06'
+                  acquiree: AdChina
+                - date: '2015-04-21'
+                  acquiree: 365 Translation
+                - date: '2015-05-01'
+                  acquiree: Zuodao.com
+                - date: '2015-10-16'
+                  acquiree: Youku
+                  price: 3500000000
+                - date: '2015-11-05'
+                  acquiree: Youku
+                  price: 4400000000
+                - date: '2015-12-11'
+                  acquiree: South China Morning Post
+                  price: 262000000
+                - date: '2016-03-06'
+                  acquiree: AGTech Holdings
+                  price: 307818685
+                - date: '2016-04-05'
+                  acquiree: SCMP Group
+                  price: 266000000
+                - date: '2016-07-05'
+                  acquiree: Wandoujia
+                  price: 200000000
+                - date: '2016-07-07'
+                  acquiree: Ali Jiankang Dayaofang
+                  price: 2514013
+                - date: '2017-03-21'
+                  acquiree: Damai.cn
+                - date: '2017-09-26'
+                  acquiree: Cainiao Logistics
+                - date: '2017-09-27'
+                  acquiree: Ejoy Technology
+                - date: '2017-09-28'
+                  acquiree: Ejoy Technology
+                - date: '2017-12-03'
+                  acquiree: Visualead
+                - date: '2018-02-26'
+                  acquiree: ELEME
+                  price: 9500000000
+                - date: '2018-04-20'
+                  acquiree: C-SKY Microsystems
+                - date: '2018-05-08'
+                  acquiree: Daraz.pk
+                - date: '2018-06-30'
+                  acquiree: Trendyol
+                  price: 728000000
+                - date: '2018-09-06'
+                  acquiree: OpenSky
+                - date: '2019-01-07'
+                  acquiree: Ververica
+                  price: 103305785
+                - date: '2019-03-24'
+                  acquiree: Infinity Augmented Reality
+                - date: '2019-03-28'
+                  acquiree: Teambition
+                - date: '2019-09-05'
+                  acquiree: Kaola
+                  price: 2000000000
+                - date: '2020-02-25'
+                  acquiree: Keruyun
+                - date: '2020-08-11'
+                  acquiree: Alog
+                - date: '2020-08-26'
+                  acquiree: Xiaoman Technology
+                - date: '2020-10-18'
+                  acquiree: Sun Art Retail Group
+                  price: 3600000000
+              parents: []
+              ticker: 9988.HK
+              funding: 8907000000
+              stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Association
+                - B2B
+                - Information Technology
+                - Shopping
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 332376687081
+              effective_ticker: 9988.HK
+            image_data:
+              fileName: alibaba-adopter.svg
+              hash: J//rVeXkmHl+sP3COS7RNh3gJ7ggRMMOYs9UscskG5w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-11-26T08:40:38.000Z
+          - item:
+            name: Atlassian (adopter)
+            homepage_url: https://www.atlassian.com
+            logo: atlassian.svg
+            crunchbase: https://www.crunchbase.com/organization/atlassian
+            crunchbase_data:
+              name: Atlassian
+              description: Atlassian provides collaboration, development, and issue tracking software for teams.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.atlassian.com/
+              city: Sydney
+              region: New South Wales
+              country: Australia
+              twitter: http://twitter.com/atlassian
+              linkedin: https://www.linkedin.com/company/atlassian/
+              acquisitions:
+                - date: '2010-09-29'
+                  acquiree: Bitbucket
+                - date: '2011-10-06'
+                  acquiree: SourceTree
+                - date: '2012-03-07'
+                  acquiree: HipChat
+                - date: '2014-09-11'
+                  acquiree: Wikidocs
+                - date: '2014-09-12'
+                  acquiree: doctape
+                  price: 7500000
+                - date: '2015-04-21'
+                  acquiree: BlueJimp
+                - date: '2015-05-06'
+                  acquiree: Hall
+                  price: 20000000
+                - date: '2016-07-14'
+                  acquiree: StatusPage
+                - date: '2017-01-09'
+                  acquiree: Trello
+                  price: 425000000
+                - date: '2018-09-04'
+                  acquiree: OpsGenie
+                  price: 295000000
+                - date: '2019-03-19'
+                  acquiree: Jira Align
+                  price: 166000000
+                - date: '2019-04-10'
+                  acquiree: Good Software
+                - date: '2019-10-17'
+                  acquiree: Code Barrel
+                - date: '2020-05-12'
+                  acquiree: Halp
+                - date: '2020-07-30'
+                  acquiree: Mindville
+                - date: '2021-02-26'
+                  acquiree: Chartio
+                - date: '2021-04-19'
+                  acquiree: ThinkTilt
+              parents: []
+              ticker: TEAM
+              funding: 210000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - SaaS
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 93250322432
+              effective_ticker: TEAM
+            image_data:
+              fileName: atlassian-adopter.svg
+              hash: 0GdE0AJnlRJU0ES7TiZlZ3C8p42QYzveYk32uLDCwZQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-03T00:15:01.000Z
+          - item:
+            name: Audi (adopter)
+            homepage_url: https://www.audi.com/en.html
+            logo: audi.svg
+            twitter: https://twitter.com/audi
+            crunchbase: https://www.crunchbase.com/organization/audi
+            crunchbase_data:
+              name: Audi
+              description: Audi develops, produces, assembles, distributes, and sells vehicles of the Audi and Lamborghini brands in Germany and internationally.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://audiusa.com
+              city: Herndon
+              region: Virginia
+              country: United States
+              twitter: http://twitter.com/Audi
+              linkedin: https://www.linkedin.com/company/audi-of-america
+              acquisitions:
+                - date: '2017-03-30'
+                  acquiree: Silvercar
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Autonomous Vehicles
+                - Electric Vehicle
+                - Manufacturing
+            image_data:
+              fileName: audi-adopter.svg
+              hash: t+YKLQyF6VFd7RP7wq8aP41a7zHDEMLLf3CXaGcObyY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T19:59:05.000Z
+          - item:
+            name: AWS (adopter)
+            homepage_url: https://www.amazon.com
+            logo: amazon-web-services.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            crunchbase_data:
+              name: Amazon Web Services
+              description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://aws.amazon.com
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/awscloud
+              linkedin: https://www.linkedin.com/company/amazon-web-services
+              acquisitions:
+                - date: '2015-07-14'
+                  acquiree: AppThwack
+                - date: '2016-02-11'
+                  acquiree: NICE
+                - date: '2017-03-06'
+                  acquiree: Thinkbox Software
+                - date: '2017-03-08'
+                  acquiree: Do
+                - date: '2018-01-23'
+                  acquiree: Sqrrl
+                - date: '2019-01-14'
+                  acquiree: TSO Logic
+                - date: '2020-02-21'
+                  acquiree: TeamSQL, Inc.
+                - date: '2021-01-28'
+                  acquiree: DB Best Technologies
+                - date: '2021-06-25'
+                  acquiree: Wickr
+              parents:
+                - https://www.crunchbase.com/organization/amazon
+              ticker: AMZN
+              funding: 108000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Web Development
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1743250259968
+              effective_ticker: AMZN
+            image_data:
+              fileName: aws-adopter.svg
+              hash: SAaCDzEl11DXhCLfuUg3THlbYtVlQILQOhezT64IiU8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-03T02:30:15.000Z
+          - item:
+            name: Bloomberg (adopter)
+            homepage_url: https://www.bloomberg.com/tosv2.html
+            logo: bloomberg.svg
+            twitter: https://twitter.com/TechAtBloomberg
+            crunchbase: https://www.crunchbase.com/organization/bloomberg
+            crunchbase_data:
+              name: Bloomberg
+              description: Bloomberg provides news, data, analytics, and communication services for the global business and financial world.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.bloomberg.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/Bloomberg
+              linkedin: https://www.linkedin.com/company/bloomberg-lp
+              acquisitions:
+                - date: '2009-10-13'
+                  acquiree: Bloomberg Businessweek
+                - date: '2009-12-10'
+                  acquiree: BloombergNEF
+                - date: '2010-02-22'
+                  acquiree: Eagle Eye Publishers
+                - date: '2011-08-25'
+                  acquiree: BNA
+                - date: '2012-05-22'
+                  acquiree: Bloomberg PolarLake
+                - date: '2014-07-09'
+                  acquiree: RTS Realtime Systems
+                - date: '2016-01-12'
+                  acquiree: Netbox Blue
+                - date: '2019-08-13'
+                  acquiree: RegTek Solutions
+                - date: '2020-12-24'
+                  acquiree: Bloomberg Second Measure
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Business Information Systems
+                - Business Intelligence
+                - News
+            image_data:
+              fileName: bloomberg-adopter.svg
+              hash: 6+R73ML1j0A9hyIQIj4ZCkdsnY7ikiHHptSJEC+GKJw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T05:35:39.000Z
+          - item:
+            name: Coursera (adopter)
+            homepage_url: https://www.coursera.org
+            logo: coursera.svg
+            crunchbase: https://www.crunchbase.com/organization/coursera
+            crunchbase_data:
+              name: Coursera
+              description: Coursera is an online education company that partners with universities and organizations to offer classes on their platform.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.coursera.org
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: http://www.twitter.com/coursera
+              linkedin: https://www.linkedin.com/company/coursera
+              acquisitions:
+                - date: '2019-08-28'
+                  acquiree: Rhyme.com
+              parents: []
+              ticker: COUR
+              funding: 446800000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - E-Learning
+                - EdTech
+                - Education
+                - Internet
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 4037744640
+              effective_ticker: COUR
+            image_data:
+              fileName: coursera-adopter.svg
+              hash: KComRoGGOUJ4Yj3GGFn2p5J/w/x5pbsAA0tbL/IC3p8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T20:04:35.000Z
+          - item:
+            name: Credit Karma (adopter)
+            homepage_url: https://www.creditkarma.com
+            logo: credit-karma-adopter.svg
+            crunchbase: https://www.crunchbase.com/organization/credit-karma
+            crunchbase_data:
+              name: Credit Karma
+              description: Credit Karma offers a range of tools and personalized recommendations designed to help customers make the most of their money.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.creditkarma.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CreditKarma
+              linkedin: https://www.linkedin.com/company/credit-karma
+              acquisitions:
+                - date: '2015-12-30'
+                  acquiree: Snowball
+                - date: '2016-12-07'
+                  acquiree: OnePriceTaxes
+                - date: '2017-05-09'
+                  acquiree: Claimdog
+                - date: '2018-03-14'
+                  acquiree: Penny
+                - date: '2018-08-16'
+                  acquiree: Approved
+                - date: '2018-11-04'
+                  acquiree: Callcredit Information
+                  price: 1400000000
+                - date: '2018-11-04'
+                  acquiree: Noddle
+                - date: '2019-12-16'
+                  acquiree: Haven Money
+              parents: []
+              funding: 868000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Credit
+                - FinTech
+                - Finance
+                - Financial Services
+                - Personal Finance
+              kind: funding
+            image_data:
+              fileName: credit-karma-adopter.svg
+              hash: R5PTKuWN2TGL+gxgsPaS8DAUVh33SaejBIWlHdrHOkI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T23:40:25.000Z
           - item:
             name: GitHub (adopter)
             homepage_url: https://github.com/
@@ -3249,7 +3007,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2482063015936
+              market_cap: 2478232567808
               effective_ticker: MSFT
             image_data:
               fileName: git-hub-adopter.svg
@@ -3258,7 +3016,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T21:28:01.000Z
+              latest_tweet_date: 2021-12-02T23:24:50.000Z
           - item:
             name: Intuit (adopter)
             homepage_url: https://www.intuit.com/
@@ -3375,7 +3133,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 189023627014
+              market_cap: 190164114038
               effective_ticker: INTU.VI
             image_data:
               fileName: intuit-adopter.svg
@@ -3384,7 +3142,249 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-29T21:11:15.000Z
+              latest_tweet_date: 2021-12-03T08:16:44.000Z
+          - item:
+            name: Meta (adopter)
+            homepage_url: https://about.facebook.com/meta
+            logo: meta.svg
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            crunchbase_data:
+              name: Meta
+              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://meta.com
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: https://twitter.com/Meta
+              linkedin: https://www.linkedin.com/company/facebook
+              acquisitions:
+                - date: '2007-07-01'
+                  acquiree: Parakey
+                - date: '2009-08-10'
+                  acquiree: FriendFeed
+                  price: 50000000
+                - date: '2010-02-19'
+                  acquiree: Octazen Solutions
+                - date: '2010-04-02'
+                  acquiree: Divvyshot
+                - date: '2010-05-26'
+                  acquiree: ShareGrove
+                - date: '2010-07-28'
+                  acquiree: Hot Potato
+                  price: 10000000
+                - date: '2010-08-15'
+                  acquiree: Chai Labs
+                  price: 10000000
+                - date: '2010-09-25'
+                  acquiree: Nextstop
+                  price: 2500000
+                - date: '2010-10-29'
+                  acquiree: drop.io
+                - date: '2010-11-16'
+                  acquiree: Zenbe
+                - date: '2011-01-25'
+                  acquiree: Rel8tion
+                - date: '2011-02-25'
+                  acquiree: Pursuit
+                - date: '2011-03-01'
+                  acquiree: Beluga
+                - date: '2011-03-20'
+                  acquiree: Snaptu
+                  price: 70000000
+                - date: '2011-04-27'
+                  acquiree: Daytum
+                - date: '2011-06-09'
+                  acquiree: Sofa
+                - date: '2011-08-02'
+                  acquiree: Push Pop Press
+                - date: '2011-11-07'
+                  acquiree: Digital Staircase
+                - date: '2011-11-08'
+                  acquiree: Strobe
+                - date: '2011-11-15'
+                  acquiree: MailRank
+                - date: '2011-11-28'
+                  acquiree: WhoGlue
+                - date: '2011-12-02'
+                  acquiree: Gowalla (acquired by facebook)
+                  price: 3000000
+                - date: '2012-02-29'
+                  acquiree: Sendoid
+                - date: '2012-03-03'
+                  acquiree: Friend.ly
+                - date: '2012-03-10'
+                  acquiree: GazeHawk
+                - date: '2012-04-09'
+                  acquiree: Instagram
+                  price: 1010470000
+                - date: '2012-04-13'
+                  acquiree: Tagtile
+                - date: '2012-05-04'
+                  acquiree: Glancee
+                - date: '2012-05-15'
+                  acquiree: Lightbox
+                - date: '2012-05-18'
+                  acquiree: Karma
+                - date: '2012-06-11'
+                  acquiree: Pieceable
+                - date: '2012-06-18'
+                  acquiree: Face.com
+                - date: '2012-06-21'
+                  acquiree: Bolt | Peters
+                - date: '2012-07-14'
+                  acquiree: Spool
+                - date: '2012-07-20'
+                  acquiree: Acrylic Software
+                - date: '2012-08-24'
+                  acquiree: threadsy
+                - date: '2013-02-28'
+                  acquiree: Atlas Solutions
+                - date: '2013-03-08'
+                  acquiree: Storylane
+                - date: '2013-03-14'
+                  acquiree: Hot Studio
+                - date: '2013-04-11'
+                  acquiree: Osmeta
+                - date: '2013-04-23'
+                  acquiree: Spaceport.io
+                - date: '2013-04-25'
+                  acquiree: Parse
+                  price: 85000000
+                - date: '2013-07-18'
+                  acquiree: Monoidics
+                - date: '2013-08-12'
+                  acquiree: Jibbigo
+                - date: '2013-10-14'
+                  acquiree: Onavo
+                  price: 120000000
+                - date: '2013-12-17'
+                  acquiree: SportStream
+                - date: '2014-01-13'
+                  acquiree: Branch
+                  price: 15000000
+                - date: '2014-02-19'
+                  acquiree: WhatsApp
+                  price: 19000000000
+                - date: '2014-03-25'
+                  acquiree: Oculus
+                  price: 2000000000
+                - date: '2014-03-28'
+                  acquiree: Ascenta (UK)
+                  price: 20000000
+                - date: '2014-04-24'
+                  acquiree: Moves
+                - date: '2014-04-24'
+                  acquiree: ProtoGeo
+                - date: '2014-06-14'
+                  acquiree: Pryte
+                - date: '2014-07-01'
+                  acquiree: Little Eye Labs
+                - date: '2014-08-07'
+                  acquiree: PrivateCore
+                - date: '2014-08-14'
+                  acquiree: LiveRail
+                  price: 500000000
+                - date: '2015-01-05'
+                  acquiree: Wit.ai
+                - date: '2015-01-08'
+                  acquiree: QuickFire Networks
+                - date: '2015-01-16'
+                  acquiree: Teehan+Lax
+                - date: '2015-03-13'
+                  acquiree: TheFind, Inc.
+                - date: '2015-05-20'
+                  acquiree: Tugboat Yards
+                - date: '2015-10-05'
+                  acquiree: Endaga
+                - date: '2016-03-09'
+                  acquiree: Masquerade
+                - date: '2016-05-23'
+                  acquiree: Two Big Ears Ltd
+                - date: '2016-08-08'
+                  acquiree: Eyegroove
+                - date: '2016-09-19'
+                  acquiree: Nascent Objects Inc
+                - date: '2016-11-11'
+                  acquiree: CrowdTangle
+                - date: '2017-07-24'
+                  acquiree: Source3
+                - date: '2017-07-31'
+                  acquiree: Ozlo
+                - date: '2017-08-11'
+                  acquiree: Fayteq AG
+                - date: '2017-10-16'
+                  acquiree: tbh
+                - date: '2018-01-23'
+                  acquiree: Confirm
+                - date: '2018-07-02'
+                  acquiree: Bloomsbury AI
+                - date: '2018-07-26'
+                  acquiree: RedKix
+                - date: '2018-08-14'
+                  acquiree: Vidpresso
+                - date: '2018-10-01'
+                  acquiree: Refdash
+                - date: '2018-11-28'
+                  acquiree: Dreambit
+                - date: '2019-02-08'
+                  acquiree: Grokstyle
+                - date: '2019-03-13'
+                  acquiree: Sonics
+                - date: '2019-09-22'
+                  acquiree: Servicefriend
+                - date: '2019-09-23'
+                  acquiree: CTRL-labs
+                - date: '2019-12-13'
+                  acquiree: Atlas ML
+                - date: '2019-12-19'
+                  acquiree: PlayGiga
+                - date: '2019-12-20'
+                  acquiree: Packagd
+                - date: '2020-02-09'
+                  acquiree: Scape Technologies
+                - date: '2020-02-25'
+                  acquiree: Sanzaru Games
+                - date: '2020-05-15'
+                  acquiree: Giphy
+                  price: 400000000
+                - date: '2020-06-18'
+                  acquiree: Mapillary
+                - date: '2020-09-22'
+                  acquiree: Lemnis Technologies
+                - date: '2020-11-30'
+                  acquiree: Kustomer
+                  price: 1000000000
+                - date: '2021-06-04'
+                  acquiree: Unit 2 Games
+                - date: '2021-10-12'
+                  acquiree: AI.Reverie
+                - date: '2021-10-29'
+                  acquiree: Within (VR/AR)
+              parents: []
+              ticker: FB
+              funding: 16122817488
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Augmented Reality
+                - Mobile Apps
+                - Social Media
+                - Social Network
+                - Virtual Reality
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 864014106624
+              effective_ticker: FB
+            image_data:
+              fileName: meta-adopter.svg
+              hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-02T21:54:47.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3444,7 +3444,7 @@ landscape:
                 - Trading Platform
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33282195456
+              market_cap: 33650081792
               effective_ticker: NDAQ
             image_data:
               fileName: nasdaq-adopter.svg
@@ -3453,7 +3453,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T22:22:20.000Z
+              latest_tweet_date: 2021-12-02T22:42:49.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3493,7 +3493,7 @@ landscape:
                 - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 273642471424
+              market_cap: 273066606592
               effective_ticker: NFLX
             image_data:
               fileName: netflix-adopter.svg
@@ -3502,7 +3502,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T00:33:55.000Z
+              latest_tweet_date: 2021-12-03T06:01:59.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3566,7 +3566,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 24320389120
+              market_cap: 24509526016
               effective_ticker: PINS
             image_data:
               fileName: pinterest-adopter.svg
@@ -3575,7 +3575,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T20:20:04.000Z
+              latest_tweet_date: 2021-12-02T19:50:50.000Z
           - item:
             name: Rakuten (adopter)
             homepage_url: https://www.rakuten.com/
@@ -3685,7 +3685,7 @@ landscape:
                 - Payments
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15321857163
+              market_cap: 15249629507
               effective_ticker: 4755.T
             image_data:
               fileName: rakuten-adopter.svg
@@ -3694,7 +3694,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T06:43:27.000Z
+              latest_tweet_date: 2021-12-03T02:40:33.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3750,7 +3750,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 183524950016
+              market_cap: 182573891584
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -3759,7 +3759,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T03:53:24.000Z
+              latest_tweet_date: 2021-12-02T18:31:52.000Z
           - item:
             name: Slack (adopter)
             homepage_url: https://slack.com
@@ -3814,7 +3814,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T03:51:33.000Z
+              latest_tweet_date: 2021-12-03T02:09:37.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -3874,7 +3874,7 @@ landscape:
                 - Publishing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7632854016
+              market_cap: 7856759808
               effective_ticker: NYT
             image_data:
               fileName: the-new-york-times-adopter.svg
@@ -3883,7 +3883,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T08:20:04.000Z
+              latest_tweet_date: 2021-12-03T08:00:03.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -4049,7 +4049,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-11-29T19:14:01.000Z
+              latest_tweet_date: 2021-12-02T16:44:48.000Z
           - item:
             name: Uber (adopter)
             homepage_url: https://www.uber.com/hk/zh-hk
@@ -4111,7 +4111,7 @@ landscape:
                 - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 69883125760
+              market_cap: 73957376000
               effective_ticker: UBER
             image_data:
               fileName: uber-adopter.svg
@@ -4120,7 +4120,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T21:03:15.000Z
+              latest_tweet_date: 2021-12-03T04:42:14.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -4158,7 +4158,7 @@ landscape:
                 - Retail
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 25523372032
+              market_cap: 24717336576
               effective_ticker: W
             image_data:
               fileName: wayfair-adopter.svg
@@ -4167,7 +4167,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T21:21:22.000Z
+              latest_tweet_date: 2021-12-02T21:15:34.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -4212,7 +4212,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 49444991927
+              market_cap: 51027712126
               effective_ticker: 4689.T
             image_data:
               fileName: yahoo-japan-adopter.svg
@@ -4221,7 +4221,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-02T08:11:16.000Z
+              latest_tweet_date: 2021-12-03T03:45:10.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4271,7 +4271,7 @@ landscape:
                 - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 2470861568
+              market_cap: 2543877376
               effective_ticker: YELP
             image_data:
               fileName: yelp-adopter.svg
@@ -4280,7 +4280,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-12-01T06:42:41.000Z
+              latest_tweet_date: 2021-12-02T21:33:43.000Z
 twitter_options:
   count: 0
-updated_at: 2021-12-02T08:35:40.010Z
+updated_at: 2021-12-03T08:34:33.590Z
