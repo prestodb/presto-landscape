@@ -1426,9 +1426,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-12-02T00:01:10.000Z
           - item:
-            name: Facebook (member)
-            homepage_url: https://m.facebook.com
-            logo: facebook.svg
+            name: Meta (member)
+            homepage_url: https://meta.com
+            logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
               name: Meta
@@ -1660,8 +1660,8 @@ landscape:
               market_cap: 864014696448
               effective_ticker: FB
             image_data:
-              fileName: facebook-member.svg
-              hash: /C4CkSIjS6eMN1e7nROOTuCtKg9W0/HUvNwIhzN8ktU=
+              fileName: meta-member.svg
+              hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
             best_practice_data:
               badge: false
               percentage: null
@@ -2961,9 +2961,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-12-01T01:18:12.000Z
           - item:
-            name: Facebook (adopter)
-            homepage_url: https://m.facebook.com
-            logo: facebook.svg
+            name: Meta (adopter)
+            homepage_url: https://meta.com
+            logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
               name: Meta
@@ -3195,8 +3195,8 @@ landscape:
               market_cap: 864014696448
               effective_ticker: FB
             image_data:
-              fileName: facebook-adopter.svg
-              hash: /C4CkSIjS6eMN1e7nROOTuCtKg9W0/HUvNwIhzN8ktU=
+              fileName: meta-adopter.svg
+              hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
             best_practice_data:
               badge: false
               percentage: null
