@@ -86,7 +86,7 @@ landscape:
     name: Presto Foundation Member
     subcategories:
       - subcategory:
-        name: Premier
+        name: Executive Premier
         items:
           - item:
             name: Ahana Cloud (member)
@@ -94,15 +94,18 @@ landscape:
             logo: ahana.svg
             crunchbase: https://www.crunchbase.com/organization/ahana
           - item:
-            name: Alibaba (member)
-            homepage_url: https://www.alibaba.com
-            logo: alibaba.svg
-            crunchbase: https://www.crunchbase.com/organization/alibaba
-          - item:
             name: Alluxio (member)
             homepage_url: https://aws.amazon.com/
             logo: alluxio.svg
             crunchbase: https://www.crunchbase.com/organization/alluxio
+      - subcategory:
+        name: Premier
+        items:
+          - item:
+            name: Alibaba (member)
+            homepage_url: https://www.alibaba.com
+            logo: alibaba.svg
+            crunchbase: https://www.crunchbase.com/organization/alibaba
           - item:
             name: HP (member)
             homepage_url: https://www.hpe.com/us/en/home.html
