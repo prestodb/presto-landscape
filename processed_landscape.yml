@@ -1240,7 +1240,7 @@ landscape:
     name: Presto Foundation Member
     subcategories:
       - subcategory:
-        name: Premier
+        name: Executive Premier
         items:
           - item:
             name: Ahana Cloud (member)
@@ -1274,6 +1274,42 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-01-24T16:05:14.000Z
+          - item:
+            name: Alluxio (member)
+            homepage_url: https://aws.amazon.com/
+            logo: alluxio.svg
+            crunchbase: https://www.crunchbase.com/organization/alluxio
+            crunchbase_data:
+              name: Alluxio
+              description: Data Orchestration for AI and Analytics in the Cloud
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.alluxio.io
+              city: San Mateo
+              region: California
+              country: United States
+              twitter: https://twitter.com/Alluxio
+              linkedin: https://www.linkedin.com/company/alluxio-inc-
+              acquisitions: []
+              parents: []
+              funding: 73000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: alluxio-member.svg
+              hash: 4oj6lgXmH43eY5s0Ct6Qu1rhgFTo/heYJUvN1w5CLYs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-01-25T00:35:02.000Z
+      - subcategory:
+        name: Premier
+        items:
           - item:
             name: Alibaba (member)
             homepage_url: https://www.alibaba.com
@@ -1394,39 +1430,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-01-24T08:47:36.000Z
-          - item:
-            name: Alluxio (member)
-            homepage_url: https://aws.amazon.com/
-            logo: alluxio.svg
-            crunchbase: https://www.crunchbase.com/organization/alluxio
-            crunchbase_data:
-              name: Alluxio
-              description: Data Orchestration for AI and Analytics in the Cloud
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.alluxio.io
-              city: San Mateo
-              region: California
-              country: United States
-              twitter: https://twitter.com/Alluxio
-              linkedin: https://www.linkedin.com/company/alluxio-inc-
-              acquisitions: []
-              parents: []
-              funding: 73000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: alluxio-member.svg
-              hash: 4oj6lgXmH43eY5s0Ct6Qu1rhgFTo/heYJUvN1w5CLYs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-01-25T00:35:02.000Z
           - item:
             name: HP (member)
             homepage_url: https://www.hpe.com/us/en/home.html

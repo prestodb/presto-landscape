@@ -56,6 +56,11 @@ membership:
     label: Member
     funding: Premier
     is_large: true
+  Executive Premier:
+    name: Presto
+    label: Member
+    funding: Executive Premier
+    is_large: true
   linux_foundation:
     name: LF
     label: Project
