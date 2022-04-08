@@ -98,6 +98,11 @@ landscape:
             homepage_url: https://aws.amazon.com/
             logo: alluxio.svg
             crunchbase: https://www.crunchbase.com/organization/alluxio
+          - item:
+            name: Intel (member)
+            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
+            logo: intel.svg
+            crunchbase: https://www.crunchbase.com/organization/intel
       - subcategory:
         name: Premier
         items:
@@ -111,11 +116,6 @@ landscape:
             homepage_url: https://www.hpe.com/us/en/home.html
             logo: hpe.svg
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
-          - item:
-            name: Intel (member)
-            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
-            logo: intel.svg
-            crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: LinkedIn (member)
             homepage_url: https://www.linkedin.com
