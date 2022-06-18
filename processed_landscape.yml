@@ -84,7 +84,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -93,7 +93,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -185,7 +185,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -194,7 +194,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -283,7 +283,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -292,7 +292,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -381,7 +381,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -390,7 +390,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -479,7 +479,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -488,7 +488,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1003,7 +1003,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T22:32:37.000Z
+              latest_tweet_date: 2022-06-18T19:01:39.000Z
           - item:
             name: Kafka Connector
             homepage_url: https://prestodb.io
@@ -1081,7 +1081,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -1090,7 +1090,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1179,7 +1179,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -1188,7 +1188,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -1277,7 +1277,7 @@ landscape:
               contributions: >-
                 22;27;17;10;20;7;28;20;15;17;14;26;25;25;17;25;21;22;18;14;15;19;13;12;13;18;6;3;8;9;13;20;21;19;18;19;33;30;13;32;22;33;20;16;24;15;13;18;8;14;17;11
               firstWeek: 2021-06-20Z
-              stars: 13560
+              stars: 13562
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
               latest_commit_date: '2022-06-17T19:36:23Z'
@@ -1286,7 +1286,7 @@ landscape:
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 13560
+                stars: 13562
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -2036,8 +2036,8 @@ landscape:
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
-              name: Meta
-              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
+              name: Facebook
+              description: Facebook is a social technology company that enables people to connect, find communities, and grow businesses.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://meta.com
@@ -2274,7 +2274,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T21:27:53.000Z
+              latest_tweet_date: 2022-06-18T16:30:42.000Z
           - item:
             name: Starburst (member)
             homepage_url: https://www.starburst.io
@@ -2564,7 +2564,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T21:53:29.000Z
+              latest_tweet_date: 2022-06-18T17:18:16.000Z
           - item:
             name: Upsolver (member)
             homepage_url: https://upsolver.com/
@@ -2931,7 +2931,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T22:21:06.000Z
+              latest_tweet_date: 2022-06-18T18:00:04.000Z
           - item:
             name: AWS (adopter)
             homepage_url: https://www.amazon.com
@@ -3324,15 +3324,15 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T20:56:07.000Z
+              latest_tweet_date: 2022-06-18T17:45:11.000Z
           - item:
             name: Meta (adopter)
             homepage_url: https://about.facebook.com/meta
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
             crunchbase_data:
-              name: Meta
-              description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
+              name: Facebook
+              description: Facebook is a social technology company that enables people to connect, find communities, and grow businesses.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://meta.com
@@ -3569,7 +3569,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T21:27:53.000Z
+              latest_tweet_date: 2022-06-18T16:30:42.000Z
           - item:
             name: NASDAQ (adopter)
             homepage_url: https://nasdaq.com/
@@ -3640,7 +3640,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T20:58:26.000Z
+              latest_tweet_date: 2022-06-18T20:30:01.000Z
           - item:
             name: Netflix (adopter)
             homepage_url: https://netflix.com/
@@ -3694,7 +3694,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T21:59:12.000Z
+              latest_tweet_date: 2022-06-18T20:41:11.000Z
           - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
@@ -3890,7 +3890,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-18T03:26:47.000Z
+              latest_tweet_date: 2022-06-18T17:13:30.000Z
           - item:
             name: Shopify (adopter)
             homepage_url: https://www.shopify.com/
@@ -3951,7 +3951,7 @@ landscape:
                 - SaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 40131268608
+              market_cap: 40198131712
               effective_ticker: SHOP
             image_data:
               fileName: shopify-adopter.svg
@@ -4015,7 +4015,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T23:46:30.000Z
+              latest_tweet_date: 2022-06-18T17:32:23.000Z
           - item:
             name: The New York Times (adopter)
             homepage_url: https://www.nytco.com/
@@ -4089,7 +4089,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-18T04:02:05.000Z
+              latest_tweet_date: 2022-06-18T20:40:03.000Z
           - item:
             name: Twitter (adopter)
             homepage_url: https://twitter.com/
@@ -4344,7 +4344,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T21:53:29.000Z
+              latest_tweet_date: 2022-06-18T17:18:16.000Z
           - item:
             name: Wayfair (adopter)
             homepage_url: https://www.wayfair.com/v/captcha/show
@@ -4391,7 +4391,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T18:56:06.000Z
+              latest_tweet_date: 2022-06-18T18:34:16.000Z
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
@@ -4445,7 +4445,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-18T00:00:07.000Z
+              latest_tweet_date: 2022-06-18T12:01:01.000Z
           - item:
             name: Yelp (adopter)
             homepage_url: https://www.yelp.com/
@@ -4504,7 +4504,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-06-17T19:32:48.000Z
+              latest_tweet_date: 2022-06-18T18:05:01.000Z
 twitter_options:
   count: 0
-updated_at: 2022-06-18T04:14:00.053Z
+updated_at: 2022-06-18T20:52:59.482Z
