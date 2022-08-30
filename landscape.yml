@@ -117,11 +117,6 @@ landscape:
             logo: hpe.svg
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
           - item:
-            name: LinkedIn (member)
-            homepage_url: https://www.linkedin.com
-            logo: linkedin.svg
-            crunchbase: https://www.crunchbase.com/organization/linkedin
-          - item:
             name: Meta (member)
             homepage_url: https://about.facebook.com/meta
             logo: meta.svg
