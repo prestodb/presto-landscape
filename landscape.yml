@@ -148,11 +148,6 @@ landscape:
         name: Presto Adopter
         items:
           - item:
-            name: Airbnb (adopter)
-            homepage_url: https://www.airbnb.com
-            logo: airbnb.svg
-            crunchbase: https://www.crunchbase.com/organization/airbnb
-          - item:
             name: Alibaba (adopter)
             homepage_url: https://www.alibaba.com
             logo: alibaba.svg
@@ -173,12 +168,6 @@ landscape:
             homepage_url: https://www.amazon.com
             logo: amazon-web-services.svg
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-          - item:
-            name: Bloomberg (adopter)
-            homepage_url: https://www.bloomberg.com/tosv2.html
-            logo: bloomberg.svg
-            twitter: https://twitter.com/TechAtBloomberg
-            crunchbase: https://www.crunchbase.com/organization/bloomberg
           - item:
             name: Coursera (adopter)
             homepage_url: https://www.coursera.org
@@ -211,27 +200,11 @@ landscape:
             logo: nasdaq.svg
             crunchbase: https://www.crunchbase.com/organization/nasdaq
           - item:
-            name: Netflix (adopter)
-            homepage_url: https://netflix.com/
-            logo: netflix.svg
-            crunchbase: https://www.crunchbase.com/organization/netflix
-          - item:
             name: Pinterest (adopter)
             homepage_url: https://www.pinterest.com/
             logo: pinterest.svg
             twitter: https://twitter.com/pinterest
             crunchbase: https://www.crunchbase.com/organization/pinterest
-          - item:
-            name: Rakuten (adopter)
-            homepage_url: https://www.rakuten.com/browser-not-supported.htm
-            logo: rakuten.svg
-            twitter: https://twitter.com/rakuten
-            crunchbase: https://www.crunchbase.com/organization/rakuten
-          - item:
-            name: Shopify (adopter)
-            homepage_url: https://www.shopify.com/
-            logo: shopify.svg
-            crunchbase: https://www.crunchbase.com/organization/shopify
           - item:
             name: Slack (adopter)
             homepage_url: https://slack.com
@@ -252,11 +225,6 @@ landscape:
             homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
             crunchbase: https://www.crunchbase.com/organization/uber
-          - item:
-            name: Wayfair (adopter)
-            homepage_url: https://www.wayfair.com/v/captcha/show
-            logo: wayfair.svg
-            crunchbase: https://www.crunchbase.com/organization/wayfair
           - item:
             name: Yahoo Japan (adopter)
             homepage_url: https://www.yahoo.co.jp
