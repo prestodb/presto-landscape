@@ -200,12 +200,6 @@ landscape:
             logo: nasdaq.svg
             crunchbase: https://www.crunchbase.com/organization/nasdaq
           - item:
-            name: Pinterest (adopter)
-            homepage_url: https://www.pinterest.com/
-            logo: pinterest.svg
-            twitter: https://twitter.com/pinterest
-            crunchbase: https://www.crunchbase.com/organization/pinterest
-          - item:
             name: Slack (adopter)
             homepage_url: https://slack.com
             logo: slack.svg
