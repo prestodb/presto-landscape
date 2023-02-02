@@ -106,10 +106,10 @@ landscape:
             homepage_url: https://www.alibaba.com
             logo: alibaba.svg
             crunchbase: https://www.crunchbase.com/organization/alibaba
-             - item:
+          - item:
             name: Denodo Technologies (member)
             homepage_url: http://denodo.com/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/denodo-technologies.svg
+            logo: denodo-technologies.svg
             crunchbase: https://crunchbase.com/organization/denodo-technologies
           - item:
             name: Alluxio (member)
