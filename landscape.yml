@@ -112,6 +112,11 @@ landscape:
             logo: alluxio.svg
             crunchbase: https://www.crunchbase.com/organization/alluxio
           - item:
+            name: Denodo Technologies (member)
+            homepage_url: http://www.denodo.com/
+            logo: denodo-technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/denodo-technologies
+          - item:
             name: HP (member)
             homepage_url: https://www.hpe.com/us/en/home.html
             logo: hpe.svg
@@ -121,11 +126,6 @@ landscape:
             homepage_url: https://about.facebook.com/meta
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: Twitter (member)
-            homepage_url: https://twitter.com/
-            logo: twitter.svg
-            crunchbase: https://www.crunchbase.com/organization/twitter
           - item:
             name: Uber (member)
             homepage_url: https://www.uber.com/hk/zh-hk
