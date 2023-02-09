@@ -122,11 +122,6 @@ landscape:
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
-            name: Starburst (member)
-            homepage_url: https://www.starburst.io
-            logo: starburst.svg
-            crunchbase: https://www.crunchbase.com/organization/starburst
-          - item:
             name: Twitter (member)
             homepage_url: https://twitter.com/
             logo: twitter.svg
