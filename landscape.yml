@@ -127,11 +127,6 @@ landscape:
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
-            name: Starburst (member)
-            homepage_url: https://www.starburst.io
-            logo: starburst.svg
-            crunchbase: https://www.crunchbase.com/organization/starburst
-          - item:
             name: Uber (member)
             homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
