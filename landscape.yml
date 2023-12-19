@@ -89,10 +89,10 @@ landscape:
         name: Executive Premier
         items:
           - item:
-            name: Ahana Cloud (member)
-            homepage_url: https://ahana.io/
-            logo: ahana.svg
-            crunchbase: https://www.crunchbase.com/organization/ahana
+            name: IBM (member)
+            homepage_url: https://www.ibm.com/products/watsonx-data
+            logo: IBM
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -131,11 +131,6 @@ landscape:
             homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
             crunchbase: https://www.crunchbase.com/organization/uber
-          - item:
-            name: Upsolver (member)
-            homepage_url: https://upsolver.com/
-            logo: upsolver.svg
-            crunchbase: https://www.crunchbase.com/organization/upsolver
   - category:
     name: Presto Adopter
     subcategories:
