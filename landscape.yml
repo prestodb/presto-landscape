@@ -132,6 +132,11 @@ landscape:
             logo: hpe.svg
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
           - item:
+            name: Neuroblade (member)
+            homepage_url: https://www.neuroblade.com/
+            logo: neuroblade.svg
+            crunchbase: https://www.crunchbase.com/organization/neuroblade
+          - item:
             name: Uber (member)
             homepage_url: https://www.uber.com/hk/zh-hk
             logo: uber.svg
