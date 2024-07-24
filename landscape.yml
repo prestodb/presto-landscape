@@ -93,24 +93,14 @@ landscape:
             homepage_url: https://www.ibm.com/products/watsonx-data
             logo: ibm.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
-            name: Intel (member)
-            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
-            logo: intel.svg
-            crunchbase: https://www.crunchbase.com/organization/intel
+      - subcategory:
+        name: Premier
+        items:
           - item:
             name: Meta (member)
             homepage_url: https://about.facebook.com/meta
             logo: meta.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
-      - subcategory:
-        name: Premier
-        items:
-          - item:
-            name: Alibaba (member)
-            homepage_url: https://www.alibaba.com
-            logo: alibaba.svg
-            crunchbase: https://www.crunchbase.com/organization/alibaba
           - item:
             name: Bhuma (member)
             homepage_url: https://www.bhuma.dev/
