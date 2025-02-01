@@ -89,43 +89,80 @@ landscape:
         name: Executive Premier
         items:
           - item:
-            name: IBM (member)
-            homepage_url: https://www.ibm.com/products/watsonx-data
-            logo: ibm.svg
+            name: International Business Machines Corporation (member)
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
+            description: |-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in Armonk, New York.
+
+              --- Merged Data:
+
+              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ibm
       - subcategory:
         name: Premier
         items:
           - item:
-            name: Meta (member)
-            homepage_url: https://about.facebook.com/meta
-            logo: meta.svg
-            crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: Bhuma (member)
-            homepage_url: https://www.bhuma.dev/
-            logo: bhuma.svg
-            crunchbase: https://www.crunchbase.com/organization/kleeen-software
-          - item:
             name: Denodo Technologies (member)
-            homepage_url: http://www.denodo.com/
-            logo: denodo-technologies.svg
+            homepage_url: https://denodo.com/
+            logo: denodo_technologies.svg
+            twitter: https://twitter.com/denodo
             crunchbase: https://www.crunchbase.com/organization/denodo-technologies
+            description: Denodo Platform is the leading data integration, management, and delivery platform using a logical approach to enable self-service BI, data science, hybrid/multi-cloud
+              data integration, and enterprise data services.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/denodo-technologies
           - item:
-            name: HP (member)
-            homepage_url: https://www.hpe.com/us/en/home.html
-            logo: hpe.svg
-            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
+            name: Intel Corporation (member)
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets,
+              and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging
+              products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver
+              assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers,
+              and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
           - item:
-            name: Neuroblade (member)
-            homepage_url: https://www.neuroblade.com/
+            name: Meta Platforms, Inc. (member)
+            homepage_url: https://meta.com/
+            logo: meta_platforms_inc.svg
+            twitter: https://twitter.com/Meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides
+              various products to connect and share.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/facebook
+          - item:
+            name: NeuroBlade (member)
+            homepage_url: https://neuroblade.com/
             logo: neuroblade.svg
-            crunchbase: https://www.crunchbase.com/organization/neuroblade
+            description: NeuroBlade hypercompute for analytics delivers an order of magnitude acceleration in speed and price performance to your petabyte-scale data analytics.
+            organization:
+              name: NeuroBlade
+              linkedin: https://www.linkedin.com/company/neuroblade
+            extra:
+              linkedin_url: https://www.linkedin.com/company/neuroblade
           - item:
-            name: Uber (member)
-            homepage_url: https://www.uber.com/hk/zh-hk
-            logo: uber.svg
+            name: Uber Technologies Inc. (member)
+            homepage_url: https://uber.com/
+            logo: uber_technologies_inc.svg
+            twitter: https://twitter.com/Uber
             crunchbase: https://www.crunchbase.com/organization/uber
+            description: Uber Technologies, Inc. provides a smartphone application that connects drivers with people who need a ride. The company's application enables users to arrange
+              and schedule transportation and/or logistics services with third party providers. Uber Technologies serves customers in North, Central, and South Americas, as well as Europe,
+              the Middle East, Africa, and the Asia Pacific. The company has a strategic partnership with Alexandria Real Estate Equities, Inc. Uber Technologies, Inc. was formerly known
+              as UberCab Inc. and changed its name to Uber Technologies, Inc. in October 2010. The company was founded in 2009 and is based in San Francisco, California.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/uber.com
+      - subcategory:
+        name: Associate
+        items: []
   - category:
     name: Presto Adopter
     subcategories:

@@ -1,0 +1,10 @@
+landscapeMemberClasses: 
+   - name: Executive Premier Membership
+     category: Executive Premier
+   - name: Premier Membership
+     category: Premier
+   - name: Associate Membership
+     category: Associate
+slug: presto
+memberSuffix: " (member)"
+landscapeMemberCategory: Presto Foundation Member
