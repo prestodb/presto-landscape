@@ -139,16 +139,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/facebook
           - item:
-            name: NeuroBlade (member)
-            homepage_url: https://neuroblade.com/
-            logo: neuroblade.svg
-            description: NeuroBlade hypercompute for analytics delivers an order of magnitude acceleration in speed and price performance to your petabyte-scale data analytics.
-            organization:
-              name: NeuroBlade
-              linkedin: https://www.linkedin.com/company/neuroblade
-            extra:
-              linkedin_url: https://www.linkedin.com/company/neuroblade
-          - item:
             name: Uber Technologies Inc. (member)
             homepage_url: https://uber.com/
             logo: uber_technologies_inc.svg
