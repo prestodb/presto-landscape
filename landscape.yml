@@ -109,8 +109,7 @@ landscape:
             name: Denodo Technologies (member)
             homepage_url: https://denodo.com/
             logo: denodo_technologies.svg
-            description: Denodo Platform is the leading data integration, management, and delivery platform using a logical approach to enable self-service BI, data science, hybrid/multi-cloud
-              data integration, and enterprise data services.
+            description: Denodo Platform is the leading data integration, management, and delivery platform using a logical approach to enable self-service BI, data science, hybrid/multi-cloud data integration, and enterprise data services.
             crunchbase: https://www.crunchbase.com/organization/denodo-technologies
             twitter: https://twitter.com/denodo
             extra:
@@ -119,20 +118,25 @@ landscape:
             name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides
-              various products to connect and share.
+            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
             crunchbase: https://www.crunchbase.com/organization/facebook
             twitter: https://twitter.com/Meta
             extra:
               linkedin_url: https://www.linkedin.com/company/facebook
           - item:
+            name: NVIDIA Corporation (member)
+            homepage_url: https://nvidia.com/
+            logo: nvidia_corporation.svg
+            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+            twitter: https://twitter.com/nvidia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nvidia
+          - item:
             name: Uber Technologies Inc. (member)
             homepage_url: https://uber.com/
             logo: uber_technologies_inc.svg
-            description: Uber Technologies, Inc. provides a smartphone application that connects drivers with people who need a ride. The company's application enables users to arrange
-              and schedule transportation and/or logistics services with third party providers. Uber Technologies serves customers in North, Central, and South Americas, as well as Europe,
-              the Middle East, Africa, and the Asia Pacific. The company has a strategic partnership with Alexandria Real Estate Equities, Inc. Uber Technologies, Inc. was formerly known
-              as UberCab Inc. and changed its name to Uber Technologies, Inc. in October 2010. The company was founded in 2009 and is based in San Francisco, California.
+            description: Uber Technologies, Inc. provides a smartphone application that connects drivers with people who need a ride. The company's application enables users to arrange and schedule transportation and/or logistics services with third party providers. Uber Technologies serves customers in North, Central, and South Americas, as well as Europe, the Middle East, Africa, and the Asia Pacific. The company has a strategic partnership with Alexandria Real Estate Equities, Inc. Uber Technologies, Inc. was formerly known as UberCab Inc. and changed its name to Uber Technologies, Inc. in October 2010. The company was founded in 2009 and is based in San Francisco, California.
             crunchbase: https://www.crunchbase.com/organization/uber
             twitter: https://twitter.com/Uber
             extra:
